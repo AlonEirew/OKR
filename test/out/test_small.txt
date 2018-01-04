@@ -1,0 +1,7 @@
+car,sassine,False,False,False,False
+bomb,number,False,False,False,False
+at least two,78,False,False,False,False
+lebanese,ekantipur,False,False,False,False
+top,at least 2 people,False,False,False,False
+8,'8,False,False,False,False
+security,syria,False,False,False,False

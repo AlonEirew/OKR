@@ -5,6 +5,11 @@ venv/*
 .venv/
 .*
 *.log
+**/bin/**
+**/include/**
+**/lib/**
+okr_python27/
+apicache/
 *~
 resources/resource_dictionary.db
 examples/tweets/
@@ -13,3 +18,4 @@ examples/from_vered.json
 examples/from_vered.txt
 examples/problematic.json
 examples/problematic.txt
+/throttle.ctrl

@@ -13,6 +13,7 @@ sys.path.append('../agreement')
 
 import spacy
 import numpy as np
+import pywikibot
 
 from okr import *
 from munkres import *
@@ -22,6 +23,10 @@ from spacy.lang.en import English
 from num2words import num2words
 from nltk.corpus import wordnet as wn
 from clustering_common import cluster_mentions,cluster_mentions_with_max_cluster
+from data.result_object import ResultObject
+
+site = pywikibot.Site('en', 'wikipedia')  # The site we want to run our bot on
+dup_dic = {}
 
 # Don't use spacy tokenizer, because we originally used NLTK to tokenize the files and they are already tokenized
 nlp = English()
@@ -113,7 +118,27 @@ def similar_words(x, y):
     :param y: the second mention
     :return: whether x and y are similar
     """
-    return same_synset(x, y) or fuzzy_fit(x, y) or partial_match(x, y)
+    if x + y not in dup_dic and y + x not in dup_dic:
+        syn_result = same_synset(x, y)
+        fuzzy_result = False;
+        partial_result = False;
+        wikidata_result = False;
+        if not syn_result:
+            fuzzy_result = fuzzy_fit(x, y)
+            if not fuzzy_result:
+                partial_result = partial_match(x,y)
+                if not partial_result:
+                    wikidata_result = False #wikidata_check(x,y)
+
+        result = ResultObject(x,y,syn_result, fuzzy_result, partial_result, wikidata_result)
+
+        dup_dic[x+y] = result
+        return result.final_result()
+
+    if x+y in dup_dic:
+        return dup_dic[x+y].final_result()
+
+    return dup_dic[y+x].final_result()
 
 
 def same_synset(x, y):
@@ -188,3 +213,57 @@ def partial_match(x, y):
         return True
 
     return False
+
+
+def wikidata_check(word1, word2):
+    print "wikidata compare " + word1 + " to " + word2
+    page1 = pywikibot.Page(site, word1)
+    page2 = pywikibot.Page(site, word2)
+
+    pageRed1 = page1
+    pageRed2 = page2
+
+    if pageRed1.isRedirectPage():
+        pageRed1 = page1.getRedirectTarget()
+    if pageRed2.isRedirectPage():
+        pageRed2 = page2.getRedirectTarget()
+
+    if pageRed1.pageid > 0 and pageRed2.pageid > 0:
+        if pageRed1.pageid == pageRed2.pageid:
+            return True
+
+    return wikidata_aliases(page1, word1, page2, word2)
+
+
+def wikidata_aliases(page1, word1, page2, word2):
+    aliases1 = ret_aliases(page1, word1)
+    if is_in_list(word2, aliases1):
+        return True
+    else:
+        aliases2 = ret_aliases(page2, word2)
+        if is_in_list(word1, aliases2):
+            return True
+
+    return False
+
+
+def is_in_list(word, aliases):
+    if aliases is not None:
+        worduni = unicode(word).lower()
+        if worduni in (alias.lower() for alias in aliases):
+            return True
+    return False
+
+
+def ret_aliases(page, word):
+    if page is not None:
+        try:
+            item = pywikibot.ItemPage.fromPage(page) # this can be used for any page object
+            item.get()  # you need to call it to access any data.
+            if 'en' in item.aliases:
+                aliases = item.aliases['en']
+                return aliases
+        except (pywikibot.NoPage, AttributeError, TypeError, NameError):
+            print "no page found for word: " + word
+
+    return None

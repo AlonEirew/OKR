@@ -1,0 +1,2237 @@
+their,likud-beitanu,False,False,False,False
+netenyahu,ap,False,False,False,False
+government,israeli-arab,False,False,False,False
+national security,yisrael beiteinu,False,False,False,False
+israel,netanyahu-liberman,False,False,False,False
+ultra nationalist,foreign minister lieberman,False,False,False,False
+ally,israeli-arab,False,False,False,False
+ultranationalists,israeli-arab,False,False,False,False
+fm avigdor lieberman,upcoming,False,False,False,False
+nationalist,biberman,False,False,False,False
+avigdor lieberman,upcoming,False,False,False,False
+pm,ultranationalist,False,False,False,False
+he,their,False,False,False,False
+yechimovich,scandal,False,False,False,False
+biberman,yahoo news,False,False,False,False
+ultra nationalist,w/avigdor lieberman,False,False,False,False
+w/avigdor lieberman,their,False,False,False,False
+sex,hard-line,False,False,False,False
+party,ap,False,False,False,False
+yisrael beytenu,christian science monitor,False,False,False,False
+yisrael beytenu,their,False,False,False,False
+party,far-right,False,False,False,False
+netenyahu,israel beiteinu,False,False,False,False
+prime minister benjamin netanyahu,avigdor lieberman,False,False,False,False
+ally,likud-beitanu,False,False,False,False
+yahoo news,christian science monitor,False,False,False,False
+national security,likud-yisrael beitenu,False,False,False,False
+pm,bbcworld,False,False,False,False
+foreign minister lieberman,sex,False,False,False,False
+parties,government,False,False,False,False
+yisrael beiteinu,right,False,False,False,False
+january 22,government,False,False,False,False
+yisrael beiteinu,new,False,False,False,False
+knesset,likud-beitanu,False,False,False,False
+position,new,False,False,False,False
+right,likud-beitanu,False,False,False,False
+israel,ap news,False,False,False,False
+ultranationalists,fm avigdor lieberman,False,False,False,False
+reuters,likud-yisrael beitenu,False,False,False,False
+ally,national security,False,False,False,False
+nationalist,ap news,False,False,False,False
+netanyahu-liberman,bbc news,False,False,False,False
+party,biberman,False,False,False,False
+ultra nationalist,january,False,False,False,False
+netanyahu-liberman,west,False,False,False,False
+avigdor lieberman,w/avigdor lieberman,False,True,False,False
+fm avigdor lieberman,right-wing,False,False,False,False
+knesset,their,False,False,False,False
+netenyahu,biberman,False,False,False,False
+foreign minister lieberman,upcoming,False,False,False,False
+nationalist,yisrael beitenu,False,False,False,False
+likud,two months ago,False,False,False,False
+israeli,new,False,False,False,False
+ultra-nationalist,likud-yisrael beitenu,False,False,False,False
+party,liberman,False,False,False,False
+avigdor lieberman,yechimovich,False,False,False,False
+likud-beitanu,government,False,False,False,False
+netenyahu,right,False,False,False,False
+ultranationalist,sex,False,False,False,False
+ultra nationalist,gideon saar,False,False,False,False
+netenyahu,yisrael beytenu,False,False,False,False
+national security,israeli-arab,False,False,False,False
+party,bbcworld,False,False,False,False
+national security,ap news,False,False,False,False
+yechimovich,netanyahu-liberman,False,False,False,False
+netenyahu,liberman,False,False,False,False
+ultra nationalist,bbcworld,False,False,False,False
+what ever position,likud-yisrael beitenu,False,False,False,False
+netanyahu,january 22,False,False,False,False
+likud party,sex,False,False,False,False
+yahoo news,likud-yisrael beitenu,False,False,False,False
+january,position,False,False,False,False
+two months ago,january 22,False,False,False,False
+government,greatly,False,False,False,False
+likud party,foreign minister lieberman,False,False,False,False
+yisrael beitenu,further,False,False,False,False
+what ever position,right-wing,False,False,False,False
+prime minister benjamin netanyahu,yisrael beiteinu,False,False,False,False
+yvet,what ever position,False,False,False,False
+prime minister,ap,False,False,False,False
+israeli-arab,bbc news,False,False,False,False
+yvet,bbcworld,False,False,False,False
+netanyahu,he,False,False,False,False
+foreign minister lieberman,national,False,False,False,False
+israel beiteinu,knesset,False,False,False,False
+upcoming,further,False,False,False,False
+likud,their,False,False,False,False
+national security,today,False,False,False,False
+ultra nationalist,yisrael beytenu,False,False,False,False
+prime minister benjamin netanyahu,greatly,False,False,False,False
+bbcworld,bbc news,False,False,False,False
+west,christian science monitor,False,False,False,False
+national security,sex,False,False,False,False
+ap,greatly,False,False,False,False
+yvet,israel beiteinu,False,False,False,False
+gideon saar,scandal,False,False,False,False
+netenyahu,ultranationalists,False,False,False,False
+national security,government,False,False,False,False
+lieberman,w/avigdor lieberman,False,False,True,False
+ultranationalists,christian science monitor,False,False,False,False
+yisrael beitenu,bbcworld,False,False,False,False
+yisrael beytenu,upcoming,False,False,False,False
+ally,biberman,False,False,False,False
+nationalist,likud-yisrael beitenu,False,False,False,False
+netanyahu,prime minister benjamin netanyahu,False,False,True,False
+january,west,False,False,False,False
+netanyahu,yisrael beitenu,False,False,False,False
+reuters,far-right,False,False,False,False
+ultranationalists,substantial,False,False,False,False
+ultra nationalist,biberman,False,False,False,False
+january 22,greatly,False,False,False,False
+far-right,government,False,False,False,False
+knesset,right-wing,False,False,False,False
+further,today,False,False,False,False
+january,scandal,False,False,False,False
+w/avigdor lieberman,january,False,False,False,False
+israel beiteinu,government,False,False,False,False
+avigdor lieberman,sex,False,False,False,False
+avigdor lieberman,far-right,False,False,False,False
+what ever position,netanyahu-liberman,False,False,False,False
+pm,ally,False,False,False,False
+pm benjamin netanyahu,israel,False,False,False,False
+lieberman,sex,False,False,False,False
+pm,yisrael beitenu,False,False,False,False
+pm,likud,False,False,False,False
+two months ago,yvet,False,False,False,False
+ultra-nationalist,ap,False,False,False,False
+ultra nationalist,reuters,False,False,False,False
+ultranationalist,january 22,False,False,False,False
+prime minister,yvet,False,False,False,False
+pm benjamin netanyahu,national,False,False,False,False
+israel beiteinu,new,False,False,False,False
+lieberman,netanyahu-liberman,False,False,False,False
+israel beiteinu,bbc news,False,False,False,False
+ultranationalists,ap,False,False,False,False
+nationalist,hard-line,False,False,False,False
+liberman,biberman,False,True,False,False
+ultra-nationalist,right,False,False,False,False
+national,yisrael beiteinu,False,False,False,False
+israel beiteinu,yisrael beytenu,False,True,False,False
+ultra nationalist,what ever position,False,False,False,False
+israel,far-right,False,False,False,False
+netenyahu,parties,False,False,False,False
+yisrael beytenu,yechimovich,False,False,False,False
+yahoo news,greatly,False,False,False,False
+w/avigdor lieberman,sex,False,False,False,False
+bbc news,sex,False,False,False,False
+netanyahu,ultra-nationalist,False,False,False,False
+ap news,hardline,False,False,False,False
+yisrael beytenu,biberman,False,False,False,False
+nationalist,upcoming,False,False,False,False
+pm benjamin netanyahu,january 22,False,False,False,False
+what ever position,yisrael beitenu,False,False,False,False
+ultra-nationalist,israeli,False,False,False,False
+yisrael beitenu,their,False,False,False,False
+party,reuters,False,False,False,False
+greatly,bbc news,False,False,False,False
+ultra nationalist,israeli,False,False,False,False
+likud,right-wing,False,False,False,False
+pm benjamin netanyahu,two months ago,False,False,False,False
+prime minister benjamin netanyahu,their,False,False,False,False
+ultra nationalist,lieberman,False,False,False,False
+he,ap news,False,False,False,False
+w/avigdor lieberman,west,False,False,False,False
+pm benjamin netanyahu,right,False,False,False,False
+parties,yisrael beitenu,False,False,False,False
+likud,substantial,False,False,False,False
+pm benjamin netanyahu,ally,False,False,False,False
+national,bbc news,False,False,False,False
+pm benjamin netanyahu,ap news,False,False,False,False
+prime minister,w/avigdor lieberman,False,False,False,False
+israeli,their,False,False,False,False
+bbcworld,christian science monitor,False,False,False,False
+nationalist,ultranationalists,False,False,False,False
+party,nationalist,False,False,False,False
+west,sex,False,False,False,False
+pm benjamin netanyahu,likud party,False,False,False,False
+ap,bbc news,False,False,False,False
+ultranationalist,ally,False,False,False,False
+lieberman,bbc news,False,False,False,False
+prime minister,party,False,False,False,False
+netenyahu,party,False,False,False,False
+further,substantial,False,False,False,False
+two months ago,yisrael beiteinu,False,False,False,False
+right-wing,bbcworld,False,False,False,False
+right-wing,right,False,False,False,False
+what ever position,hardline,False,False,False,False
+nationalist,their,False,False,False,False
+w/avigdor lieberman,january 22,False,False,False,False
+west,greatly,False,False,False,False
+reuters,national security,False,False,False,False
+nationalist,w/avigdor lieberman,False,False,False,False
+parties,hard-line,False,False,False,False
+likud party,ap news,False,False,False,False
+avigdor lieberman,knesset,False,False,False,False
+national security,biberman,False,False,False,False
+likud,israeli-arab,False,False,False,False
+prime minister,bbcworld,False,False,False,False
+ultranationalist,their,False,False,False,False
+prime minister benjamin netanyahu,two months ago,False,False,False,False
+lieberman,knesset,False,False,False,False
+netanyahu,substantial,False,False,False,False
+ap,christian science monitor,False,False,False,False
+liberman,right,False,False,False,False
+liberman,scandal,False,False,False,False
+ap news,hard-line,False,False,False,False
+israel beiteinu,upcoming,False,False,False,False
+what ever position,bbcworld,False,False,False,False
+israel beiteinu,biberman,False,False,False,False
+he,biberman,False,False,False,False
+he,what ever position,False,False,False,False
+ultranationalists,greatly,False,False,False,False
+parties,ap news,False,False,False,False
+prime minister,greatly,False,False,False,False
+israeli,january 22,False,False,False,False
+ultranationalist,west,False,False,False,False
+likud-beitanu,west,False,False,False,False
+avigdor lieberman,fm avigdor lieberman,False,True,False,False
+foreign minister lieberman,hard-line,False,False,False,False
+two months ago,israeli-arab,False,False,False,False
+parties,national security,False,False,False,False
+parties,national,False,False,False,False
+netanyahu,hard-line,False,False,False,False
+yechimovich,ap,False,False,False,False
+likud,bbcworld,False,False,False,False
+yvet,national,False,False,False,False
+ultranationalists,israel beiteinu,False,False,False,False
+january 22,what ever position,False,False,False,False
+ultranationalists,national,False,False,False,False
+right-wing,scandal,False,False,False,False
+likud party,ultranationalist,False,False,False,False
+fm avigdor lieberman,their,False,False,False,False
+nationalist,israeli-arab,False,False,False,False
+yechimovich,likud-beitanu,False,False,False,False
+yisrael beiteinu,west,False,False,False,False
+netenyahu,likud,False,False,False,False
+israeli-arab,today,False,False,False,False
+party,hard-line,False,False,False,False
+yisrael beytenu,hard-line,False,False,False,False
+reuters,their,False,False,False,False
+two months ago,ap news,False,False,False,False
+their,hardline,False,False,False,False
+israel,national security,False,False,False,False
+upcoming,government,False,False,False,False
+reuters,sex,False,False,False,False
+israel,greatly,False,False,False,False
+he,national,False,False,False,False
+lieberman,he,False,False,False,False
+national security,right,False,False,False,False
+likud,national security,False,False,False,False
+ap,scandal,False,False,False,False
+ultranationalist,yvet,False,False,False,False
+israel,further,False,False,False,False
+parties,today,False,False,False,False
+prime minister benjamin netanyahu,sex,False,False,False,False
+ap news,substantial,False,False,False,False
+israel beiteinu,hardline,False,False,False,False
+likud party,nationalist,False,False,False,False
+national security,yechimovich,False,False,False,False
+january,likud-beitanu,False,False,False,False
+netanyahu,party,False,False,False,False
+nationalist,yisrael beytenu,False,False,False,False
+nationalist,foreign minister lieberman,False,False,False,False
+ultranationalists,liberman,False,False,False,False
+foreign minister lieberman,israeli,False,False,False,False
+national,upcoming,False,False,False,False
+netanyahu,their,False,False,False,False
+ultranationalists,hard-line,False,False,False,False
+two months ago,further,False,False,False,False
+likud,liberman,False,False,False,False
+pm benjamin netanyahu,parties,False,False,False,False
+substantial,hardline,False,False,False,False
+israel beiteinu,yechimovich,False,False,False,False
+their,upcoming,False,False,False,False
+yisrael beytenu,hardline,False,False,False,False
+foreign minister lieberman,today,False,False,False,False
+yechimovich,yahoo news,False,False,False,False
+ultra nationalist,hardline,False,False,False,False
+liberman,further,False,False,False,False
+likud,biberman,False,False,False,False
+january,right,False,False,False,False
+reuters,what ever position,False,False,False,False
+january,bbc news,False,False,False,False
+fm avigdor lieberman,christian science monitor,False,False,False,False
+foreign minister lieberman,position,False,False,False,False
+ally,right-wing,False,False,False,False
+israel beiteinu,january,False,False,False,False
+what ever position,their,False,False,False,False
+west,gideon saar,False,False,False,False
+party,christian science monitor,False,False,False,False
+yvet,israeli-arab,False,False,False,False
+far-right,bbcworld,False,False,False,False
+right,government,False,False,False,False
+reuters,right-wing,False,False,False,False
+january 22,scandal,False,False,False,False
+ultra nationalist,greatly,False,False,False,False
+likud,hardline,False,False,False,False
+right-wing,hardline,False,False,False,False
+fm avigdor lieberman,israel,False,False,False,False
+israeli,bbcworld,False,False,False,False
+knesset,israeli-arab,False,False,False,False
+parties,parties,True,False,False,False
+israeli,upcoming,False,False,False,False
+right,far-right,False,False,False,False
+right,hardline,False,False,False,False
+knesset,ap news,False,False,False,False
+yahoo news,new,False,False,False,False
+netenyahu,national,False,False,False,False
+january,ap,False,False,False,False
+prime minister benjamin netanyahu,netanyahu-liberman,False,False,False,False
+prime minister,sex,False,False,False,False
+reuters,israeli-arab,False,False,False,False
+likud-yisrael beitenu,bbc news,False,False,False,False
+netenyahu,sex,False,False,False,False
+ally,bbc news,False,False,False,False
+liberman,israel,False,False,False,False
+he,sex,False,False,False,False
+israel,reuters,False,False,False,False
+lieberman,yisrael beytenu,False,False,False,False
+national security,new,False,False,False,False
+foreign minister lieberman,new,False,False,False,False
+avigdor lieberman,right-wing,False,False,False,False
+ap news,bbc news,False,False,False,False
+netanyahu-liberman,new,False,False,False,False
+ultranationalist,lieberman,False,False,False,False
+fm avigdor lieberman,yisrael beitenu,False,False,False,False
+pm,w/avigdor lieberman,False,False,False,False
+netenyahu,prime minister,False,False,False,False
+netanyahu,ultranationalist,False,False,False,False
+pm,yisrael beiteinu,False,False,False,False
+party,january 22,False,False,False,False
+yisrael beytenu,substantial,False,False,False,False
+yisrael beitenu,sex,False,False,False,False
+yvet,today,False,False,False,False
+ap news,scandal,False,False,False,False
+likud,ultranationalist,False,False,False,False
+fm avigdor lieberman,what ever position,False,False,False,False
+prime minister,nationalist,False,False,False,False
+lieberman,yisrael beitenu,False,False,False,False
+israeli,sex,False,False,False,False
+yisrael beiteinu,hard-line,False,False,False,False
+israel beiteinu,right,False,False,False,False
+prime minister benjamin netanyahu,party,False,False,False,False
+fm avigdor lieberman,israeli,False,False,False,False
+pm,today,False,False,False,False
+today,gideon saar,False,False,False,False
+national security,scandal,False,False,False,False
+their,biberman,False,False,False,False
+prime minister benjamin netanyahu,national security,False,False,False,False
+ultra-nationalist,gideon saar,False,False,False,False
+party,parties,True,False,False,False
+upcoming,likud-yisrael beitenu,False,False,False,False
+reuters,bbc news,False,False,False,False
+fm avigdor lieberman,bbc news,False,False,False,False
+w/avigdor lieberman,bbc news,False,False,False,False
+nationalist,right-wing,False,False,False,False
+ultranationalists,yvet,False,False,False,False
+pm benjamin netanyahu,biberman,False,False,False,False
+two months ago,scandal,False,False,False,False
+national,biberman,False,False,False,False
+ap news,right,False,False,False,False
+likud party,he,False,False,False,False
+israeli,yisrael beiteinu,False,False,False,False
+ap news,israeli-arab,False,False,False,False
+right,scandal,False,False,False,False
+yechimovich,christian science monitor,False,False,False,False
+israel beiteinu,scandal,False,False,False,False
+netenyahu,avigdor lieberman,False,False,False,False
+lieberman,israeli,False,False,False,False
+netenyahu,far-right,False,False,False,False
+pm benjamin netanyahu,yisrael beytenu,False,False,False,False
+ultranationalist,gideon saar,False,False,False,False
+january,january,True,False,False,False
+israel,christian science monitor,False,False,False,False
+lieberman,west,False,False,False,False
+yisrael beiteinu,right-wing,False,False,False,False
+party,knesset,False,False,False,False
+pm,foreign minister lieberman,False,False,False,False
+likud party,new,False,False,False,False
+he,west,False,False,False,False
+greatly,today,False,False,False,False
+what ever position,position,False,False,True,False
+netanyahu,yvet,False,False,False,False
+ally,gideon saar,False,False,False,False
+ultra-nationalist,biberman,False,False,False,False
+ap news,christian science monitor,False,False,False,False
+yechimovich,biberman,False,False,False,False
+likud,foreign minister lieberman,False,False,False,False
+ultranationalist,ap news,False,False,False,False
+netanyahu,upcoming,False,False,False,False
+foreign minister lieberman,netanyahu-liberman,False,False,False,False
+netanyahu,biberman,False,False,False,False
+upcoming,ap news,False,False,False,False
+prime minister benjamin netanyahu,ultranationalists,False,False,False,False
+right-wing,christian science monitor,False,False,False,False
+party,yvet,False,False,False,False
+right,christian science monitor,False,False,False,False
+greatly,further,False,False,False,False
+israeli,further,False,False,False,False
+netenyahu,government,False,False,False,False
+avigdor lieberman,new,False,False,False,False
+foreign minister lieberman,gideon saar,False,False,False,False
+pm benjamin netanyahu,greatly,False,False,False,False
+he,israeli,False,False,False,False
+pm benjamin netanyahu,right-wing,False,False,False,False
+pm,what ever position,False,False,False,False
+further,scandal,False,False,False,False
+netanyahu-liberman,further,False,False,False,False
+liberman,ap,False,False,False,False
+pm benjamin netanyahu,pm,False,False,True,False
+likud,ap,False,False,False,False
+two months ago,gideon saar,False,False,False,False
+prime minister benjamin netanyahu,gideon saar,False,False,False,False
+likud-beitanu,hard-line,False,False,False,False
+ultra-nationalist,ap news,False,False,False,False
+israeli,yisrael beytenu,False,False,False,False
+netanyahu,yisrael beytenu,False,False,False,False
+pm,nationalist,False,False,False,False
+avigdor lieberman,reuters,False,False,False,False
+ally,new,False,False,False,False
+foreign minister lieberman,bbc news,False,False,False,False
+yisrael beiteinu,yahoo news,False,False,False,False
+yvet,national security,False,False,False,False
+prime minister,likud party,False,False,False,False
+likud-yisrael beitenu,government,False,False,False,False
+w/avigdor lieberman,biberman,False,False,False,False
+government,bbc news,False,False,False,False
+pm benjamin netanyahu,party,False,False,False,False
+likud,parties,False,False,False,False
+ultranationalists,upcoming,False,False,False,False
+likud party,hardline,False,False,False,False
+pm benjamin netanyahu,upcoming,False,False,False,False
+yechimovich,sex,False,False,False,False
+avigdor lieberman,west,False,False,False,False
+west,hard-line,False,False,False,False
+today,new,False,False,False,False
+parties,greatly,False,False,False,False
+prime minister,ultranationalists,False,False,False,False
+two months ago,likud-beitanu,False,False,False,False
+january 22,january,False,False,True,False
+liberman,lieberman,False,True,False,False
+yisrael beitenu,right-wing,False,False,False,False
+he,christian science monitor,False,False,False,False
+avigdor lieberman,foreign minister lieberman,False,False,False,False
+yisrael beitenu,netanyahu-liberman,False,False,False,False
+nationalist,what ever position,False,False,False,False
+lieberman,israeli-arab,False,False,False,False
+israel beiteinu,netanyahu-liberman,False,False,False,False
+likud-beitanu,bbcworld,False,False,False,False
+bbcworld,substantial,False,False,False,False
+nationalist,israeli,False,False,False,False
+netanyahu-liberman,christian science monitor,False,False,False,False
+yisrael beitenu,yisrael beitenu,False,True,False,False
+israel beiteinu,further,False,False,False,False
+pm,greatly,False,False,False,False
+national,today,False,False,False,False
+prime minister,israeli-arab,False,False,False,False
+ultranationalists,yisrael beitenu,False,False,False,False
+israeli,hardline,False,False,False,False
+yvet,gideon saar,False,False,False,False
+government,scandal,False,False,False,False
+israeli,likud-yisrael beitenu,False,False,False,False
+likud party,biberman,False,False,False,False
+netanyahu,national security,False,False,False,False
+reuters,netanyahu-liberman,False,False,False,False
+party,yisrael beiteinu,False,False,False,False
+liberman,sex,False,False,False,False
+prime minister benjamin netanyahu,yechimovich,False,False,False,False
+yvet,likud-beitanu,False,False,False,False
+ultranationalist,reuters,False,False,False,False
+liberman,right-wing,False,False,False,False
+ally,christian science monitor,False,False,False,False
+yisrael beitenu,ap news,False,False,False,False
+netanyahu,likud,False,False,False,False
+scandal,hardline,False,False,False,False
+netanyahu-liberman,right-wing,False,False,False,False
+israeli,january,False,False,False,False
+parties,position,False,False,False,False
+parties,biberman,False,False,False,False
+pm,hardline,False,False,False,False
+israeli,gideon saar,False,False,False,False
+bbcworld,hard-line,False,False,False,False
+lieberman,right-wing,False,False,False,False
+national,likud-yisrael beitenu,False,False,False,False
+what ever position,likud-beitanu,False,False,False,False
+prime minister benjamin netanyahu,yahoo news,False,False,False,False
+nationalist,he,False,False,False,False
+w/avigdor lieberman,israeli-arab,False,False,False,False
+two months ago,yechimovich,False,False,False,False
+two months ago,avigdor lieberman,False,False,False,False
+national,far-right,False,False,False,False
+gideon saar,sex,False,False,False,False
+greatly,christian science monitor,False,False,False,False
+netenyahu,national security,False,False,False,False
+he,scandal,False,False,False,False
+yisrael beiteinu,likud-beitanu,False,False,False,False
+netanyahu,prime minister,False,False,False,False
+january,their,False,False,False,False
+avigdor lieberman,government,False,False,False,False
+prime minister,israel beiteinu,False,False,False,False
+he,ap,False,False,False,False
+lieberman,ap news,False,False,False,False
+ultranationalists,bbcworld,False,False,False,False
+netenyahu,prime minister benjamin netanyahu,False,False,False,False
+likud,likud,False,True,False,False
+government,bbcworld,False,False,False,False
+knesset,right,False,False,False,False
+party,israeli-arab,False,False,False,False
+two months ago,national security,False,False,False,False
+two months ago,ultranationalist,False,False,False,False
+prime minister benjamin netanyahu,knesset,False,False,False,False
+prime minister,scandal,False,False,False,False
+nationalist,avigdor lieberman,False,False,False,False
+netanyahu,foreign minister lieberman,False,False,False,False
+two months ago,west,False,False,False,False
+ultra-nationalist,substantial,False,False,False,False
+israeli,knesset,False,False,False,False
+avigdor lieberman,national,False,False,False,False
+foreign minister lieberman,likud-yisrael beitenu,False,False,False,False
+national,likud-beitanu,False,False,False,False
+netenyahu,israeli-arab,False,False,False,False
+prime minister,avigdor lieberman,False,False,False,False
+national,christian science monitor,False,False,False,False
+january 22,their,False,False,False,False
+netenyahu,their,False,False,False,False
+nationalist,bbc news,False,False,False,False
+avigdor lieberman,bbc news,False,False,False,False
+pm,liberman,False,False,False,False
+w/avigdor lieberman,right-wing,False,False,False,False
+netanyahu,nationalist,False,False,False,False
+liberman,knesset,False,False,False,False
+ap,substantial,False,False,False,False
+avigdor lieberman,netanyahu-liberman,False,False,False,False
+avigdor lieberman,substantial,False,False,False,False
+likud party,government,False,False,False,False
+two months ago,israel beiteinu,False,False,False,False
+right,sex,False,False,False,False
+national,their,False,False,False,False
+yechimovich,bbc news,False,False,False,False
+knesset,christian science monitor,False,False,False,False
+likud-beitanu,hardline,False,False,False,False
+foreign minister lieberman,ap,False,False,False,False
+he,today,False,False,False,False
+israeli,national,False,False,False,False
+far-right,substantial,False,False,False,False
+right,yahoo news,False,False,False,False
+what ever position,bbc news,False,False,False,False
+ultra nationalist,yvet,False,False,False,False
+parties,upcoming,False,False,False,False
+avigdor lieberman,today,False,False,False,False
+today,substantial,False,False,False,False
+greatly,gideon saar,False,False,False,False
+prime minister benjamin netanyahu,liberman,False,False,False,False
+foreign minister lieberman,further,False,False,False,False
+prime minister benjamin netanyahu,likud-yisrael beitenu,False,False,False,False
+ultranationalists,january,False,False,False,False
+foreign minister lieberman,ally,False,False,False,False
+biberman,west,False,False,False,False
+israeli,christian science monitor,False,False,False,False
+yvet,right-wing,False,False,False,False
+ultranationalists,right,False,False,False,False
+avigdor lieberman,national security,False,False,False,False
+likud,yechimovich,False,False,False,False
+foreign minister lieberman,right-wing,False,False,False,False
+w/avigdor lieberman,knesset,False,False,False,False
+likud party,ultra-nationalist,False,False,False,False
+w/avigdor lieberman,ally,False,False,False,False
+he,likud-beitanu,False,False,False,False
+bbc news,hard-line,False,False,False,False
+pm benjamin netanyahu,fm avigdor lieberman,False,False,False,False
+prime minister benjamin netanyahu,reuters,False,False,False,False
+he,new,False,False,False,False
+nationalist,lieberman,False,False,False,False
+israeli,position,False,False,False,False
+yisrael beiteinu,gideon saar,False,False,False,False
+prime minister benjamin netanyahu,likud,False,False,False,False
+ultra-nationalist,ally,False,False,False,False
+substantial,hard-line,False,False,False,False
+ally,sex,False,False,False,False
+today,scandal,False,False,False,False
+prime minister,government,False,False,False,False
+yvet,sex,False,False,False,False
+likud party,yisrael beytenu,False,False,False,False
+yvet,yahoo news,False,False,False,False
+party,their,False,False,False,False
+pm,israeli,False,False,False,False
+ultra nationalist,today,False,False,False,False
+ally,january,False,False,False,False
+avigdor lieberman,israeli,False,False,False,False
+ultra-nationalist,january 22,False,False,False,False
+yisrael beytenu,bbc news,False,False,False,False
+yisrael beiteinu,yisrael beitenu,False,True,False,False
+right,likud-yisrael beitenu,False,False,False,False
+nationalist,gideon saar,False,False,False,False
+netanyahu,israeli-arab,False,False,False,False
+nationalist,christian science monitor,False,False,False,False
+w/avigdor lieberman,netanyahu-liberman,False,False,False,False
+fm avigdor lieberman,ap,False,False,False,False
+prime minister,yisrael beytenu,False,False,False,False
+ultra-nationalist,greatly,False,False,False,False
+likud party,christian science monitor,False,False,False,False
+ultra nationalist,hard-line,False,False,False,False
+knesset,bbcworld,False,False,False,False
+ally,january 22,False,False,False,False
+ultra nationalist,right-wing,False,False,False,False
+right-wing,far-right,False,False,False,False
+likud party,greatly,False,False,False,False
+prime minister benjamin netanyahu,right,False,False,False,False
+yisrael beitenu,gideon saar,False,False,False,False
+liberman,yisrael beiteinu,False,False,False,False
+avigdor lieberman,christian science monitor,False,False,False,False
+ally,greatly,False,False,False,False
+what ever position,further,False,False,False,False
+two months ago,new,False,False,False,False
+yvet,knesset,False,False,False,False
+pm benjamin netanyahu,pm benjamin netanyahu,False,True,False,False
+what ever position,gideon saar,False,False,False,False
+ap news,yahoo news,False,False,False,False
+reuters,substantial,False,False,False,False
+knesset,upcoming,False,False,False,False
+what ever position,national,False,False,False,False
+ultra nationalist,netanyahu-liberman,False,False,False,False
+lieberman,likud-beitanu,False,False,False,False
+pm benjamin netanyahu,christian science monitor,False,False,False,False
+ultra nationalist,he,False,False,False,False
+liberman,yvet,False,False,False,False
+far-right,sex,False,False,False,False
+likud-yisrael beitenu,christian science monitor,False,False,False,False
+pm,position,False,False,False,False
+liberman,greatly,False,False,False,False
+ultra nationalist,yechimovich,False,False,False,False
+two months ago,nationalist,False,False,False,False
+pm benjamin netanyahu,likud-beitanu,False,False,False,False
+lieberman,new,False,False,False,False
+likud-beitanu,sex,False,False,False,False
+far-right,today,False,False,False,False
+bbc news,today,False,False,False,False
+ultranationalist,avigdor lieberman,False,False,False,False
+lieberman,their,False,False,False,False
+netanyahu-liberman,government,False,False,False,False
+pm,pm,True,False,False,False
+yvet,hard-line,False,False,False,False
+what ever position,yechimovich,False,False,False,False
+avigdor lieberman,bbcworld,False,False,False,False
+reuters,hard-line,False,False,False,False
+prime minister,ultra-nationalist,False,False,False,False
+fm avigdor lieberman,government,False,False,False,False
+yvet,israeli,False,False,False,False
+government,further,False,False,False,False
+likud,ally,False,False,False,False
+ultranationalists,position,False,False,False,False
+their,right-wing,False,False,False,False
+pm,right-wing,False,False,False,False
+west,hardline,False,False,False,False
+ultra-nationalist,far-right,False,False,False,False
+substantial,new,False,False,False,False
+lieberman,national security,False,False,False,False
+pm benjamin netanyahu,netenyahu,False,False,False,False
+fm avigdor lieberman,hard-line,False,False,False,False
+upcoming,ap,False,False,False,False
+ultra-nationalist,national,False,False,False,False
+netanyahu,likud party,False,False,False,False
+two months ago,w/avigdor lieberman,False,False,False,False
+w/avigdor lieberman,scandal,False,False,False,False
+pm benjamin netanyahu,yahoo news,False,False,False,False
+liberman,yisrael beytenu,False,False,False,False
+ultranationalists,further,False,False,False,False
+yisrael beytenu,ap,False,False,False,False
+party,party,True,False,False,False
+reuters,today,False,False,False,False
+fm avigdor lieberman,likud-yisrael beitenu,False,False,False,False
+netanyahu,ultra nationalist,False,False,False,False
+christian science monitor,gideon saar,False,False,False,False
+likud party,scandal,False,False,False,False
+prime minister,hardline,False,False,False,False
+yisrael beiteinu,israeli-arab,False,False,False,False
+ally,far-right,False,False,False,False
+foreign minister lieberman,far-right,False,False,False,False
+party,ultra-nationalist,False,False,False,False
+right-wing,israeli-arab,False,False,False,False
+yisrael beitenu,new,False,False,False,False
+likud-beitanu,new,False,False,False,False
+liberman,hardline,False,False,False,False
+biberman,substantial,False,False,False,False
+liberman,foreign minister lieberman,False,False,False,False
+yisrael beytenu,new,False,False,False,False
+ultranationalists,new,False,False,False,False
+likud party,upcoming,False,False,False,False
+party,right,False,False,False,False
+yisrael beitenu,bbc news,False,False,False,False
+ultra-nationalist,reuters,False,False,False,False
+liberman,far-right,False,False,False,False
+netenyahu,israel,False,False,False,False
+netenyahu,scandal,False,False,False,False
+yisrael beytenu,bbcworld,False,False,False,False
+ultranationalist,he,False,False,False,False
+foreign minister lieberman,what ever position,False,False,False,False
+ultra-nationalist,national security,False,False,False,False
+israeli,hard-line,False,False,False,False
+avigdor lieberman,scandal,False,False,False,False
+netanyahu,parties,False,False,False,False
+prime minister benjamin netanyahu,hard-line,False,False,False,False
+ultra nationalist,yisrael beitenu,False,False,False,False
+netenyahu,lieberman,False,False,False,False
+nationalist,hardline,False,False,False,False
+pm,party,False,False,False,False
+parties,ap,False,False,False,False
+israel,biberman,False,False,False,False
+ultra-nationalist,right-wing,False,False,False,False
+lieberman,further,False,False,False,False
+position,gideon saar,False,False,False,False
+right-wing,right-wing,True,False,False,False
+ultra-nationalist,government,False,False,False,False
+ultra-nationalist,yechimovich,False,False,False,False
+national,yisrael beytenu,False,False,False,False
+bbcworld,hardline,False,False,False,False
+ap news,right-wing,False,False,False,False
+israel,yahoo news,False,False,False,False
+bbcworld,further,False,False,False,False
+prime minister benjamin netanyahu,he,False,False,False,False
+israeli-arab,hardline,False,False,False,False
+israeli,israeli-arab,False,False,False,False
+netanyahu-liberman,ap,False,False,False,False
+netanyahu,right-wing,False,False,False,False
+likud-beitanu,israeli-arab,False,False,False,False
+ap news,likud-yisrael beitenu,False,False,False,False
+netanyahu,pm,False,False,False,False
+netenyahu,yisrael beitenu,False,False,False,False
+far-right,yahoo news,False,False,False,False
+january,ap news,False,False,False,False
+avigdor lieberman,likud-beitanu,False,False,False,False
+ultra nationalist,israeli-arab,False,False,False,False
+likud-beitanu,further,False,False,False,False
+nationalist,january 22,False,False,False,False
+lieberman,lieberman,False,True,False,False
+likud-beitanu,bbc news,False,False,False,False
+likud party,yahoo news,False,False,False,False
+nationalist,far-right,False,False,False,False
+january 22,further,False,False,False,False
+avigdor lieberman,gideon saar,False,False,False,False
+israel,january,False,False,False,False
+january,further,False,False,False,False
+foreign minister lieberman,likud-beitanu,False,False,False,False
+what ever position,far-right,False,False,False,False
+ap,west,False,False,False,False
+israeli,national security,False,False,False,False
+upcoming,gideon saar,False,False,False,False
+foreign minister lieberman,january 22,False,False,False,False
+foreign minister lieberman,west,False,False,False,False
+ultra nationalist,israel beiteinu,False,False,False,False
+national security,west,False,False,False,False
+yahoo news,bbcworld,False,False,False,False
+january,upcoming,False,False,False,False
+ultranationalist,national,False,False,False,False
+upcoming,far-right,False,False,False,False
+nationalist,reuters,False,False,False,False
+foreign minister lieberman,right,False,False,False,False
+yisrael beitenu,west,False,False,False,False
+avigdor lieberman,ap news,False,False,False,False
+prime minister,two months ago,False,False,False,False
+national security,netanyahu-liberman,False,False,False,False
+ultranationalists,likud-beitanu,False,False,False,False
+likud party,national,False,False,False,False
+what ever position,yisrael beiteinu,False,False,False,False
+likud-beitanu,today,False,False,False,False
+pm,ap,False,False,False,False
+foreign minister lieberman,scandal,False,False,False,False
+netanyahu-liberman,upcoming,False,False,False,False
+likud,right,False,False,False,False
+israel,ap,False,False,False,False
+ultranationalist,right,False,False,False,False
+netanyahu,netanyahu,False,True,False,False
+right-wing,greatly,False,False,False,False
+prime minister,prime minister,False,True,False,False
+nationalist,ally,False,False,False,False
+their,far-right,False,False,False,False
+yisrael beitenu,hard-line,False,False,False,False
+ultra nationalist,national security,False,False,False,False
+knesset,further,False,False,False,False
+biberman,bbc news,False,False,False,False
+ally,what ever position,False,False,False,False
+what ever position,substantial,False,False,False,False
+fm avigdor lieberman,greatly,False,False,False,False
+party,ultranationalist,False,False,False,False
+prime minister benjamin netanyahu,biberman,False,False,False,False
+knesset,hard-line,False,False,False,False
+fm avigdor lieberman,today,False,False,False,False
+ally,their,False,False,False,False
+party,yisrael beytenu,False,False,False,False
+national security,bbcworld,False,False,False,False
+national,greatly,False,False,False,False
+lieberman,upcoming,False,False,False,False
+two months ago,fm avigdor lieberman,False,False,False,False
+pm,january 22,False,False,False,False
+avigdor lieberman,biberman,False,False,False,False
+netanyahu,liberman,False,False,False,False
+party,west,False,False,False,False
+netanyahu,christian science monitor,False,False,False,False
+their,likud-yisrael beitenu,False,False,False,False
+biberman,ap news,False,False,False,False
+israeli,west,False,False,False,False
+liberman,avigdor lieberman,False,False,False,False
+new,hard-line,False,False,False,False
+prime minister,right-wing,False,False,False,False
+nationalist,national security,False,False,False,False
+israel,likud-yisrael beitenu,False,False,False,False
+ultranationalist,biberman,False,False,False,False
+ultra-nationalist,yvet,False,False,False,False
+netanyahu,sex,False,False,False,False
+liberman,national,False,False,False,False
+israel,ally,False,False,False,False
+ultra nationalist,substantial,False,False,False,False
+prime minister,lieberman,False,False,False,False
+pm benjamin netanyahu,substantial,False,False,False,False
+lieberman,far-right,False,False,False,False
+ultranationalist,foreign minister lieberman,False,False,False,False
+january,sex,False,False,False,False
+likud party,national security,False,False,False,False
+lieberman,christian science monitor,False,False,False,False
+their,hard-line,False,False,False,False
+national security,yahoo news,False,False,False,False
+netanyahu,ap,False,False,False,False
+yvet,israel,False,False,False,False
+yvet,yisrael beitenu,False,False,False,False
+yvet,west,False,False,False,False
+liberman,fm avigdor lieberman,False,False,False,False
+national security,upcoming,False,False,False,False
+upcoming,substantial,False,False,False,False
+liberman,upcoming,False,False,False,False
+likud party,w/avigdor lieberman,False,False,False,False
+national security,greatly,False,False,False,False
+national,national security,False,False,True,False
+their,gideon saar,False,False,False,False
+foreign minister lieberman,yisrael beytenu,False,False,False,False
+pm benjamin netanyahu,far-right,False,False,False,False
+position,bbc news,False,False,False,False
+reuters,reuters,False,True,False,False
+pm,likud party,False,False,False,False
+likud,far-right,False,False,False,False
+likud party,hard-line,False,False,False,False
+ultra-nationalist,bbc news,False,False,False,False
+ultranationalist,far-right,False,False,False,False
+pm benjamin netanyahu,israeli,False,False,False,False
+he,hardline,False,False,False,False
+pm benjamin netanyahu,west,False,False,False,False
+ultranationalist,likud-yisrael beitenu,False,False,False,False
+ultranationalists,likud-yisrael beitenu,False,False,False,False
+netanyahu-liberman,substantial,False,False,False,False
+likud-yisrael beitenu,new,False,False,False,False
+knesset,government,False,False,False,False
+ultra nationalist,scandal,False,False,False,False
+right,further,False,False,False,False
+two months ago,he,False,False,False,False
+israeli-arab,gideon saar,False,False,False,False
+likud party,substantial,False,False,False,False
+scandal,hard-line,False,False,False,False
+position,bbcworld,False,False,False,False
+yisrael beitenu,yisrael beytenu,False,True,False,False
+further,sex,False,False,False,False
+w/avigdor lieberman,yechimovich,False,False,False,False
+lieberman,yisrael beiteinu,False,False,False,False
+pm benjamin netanyahu,foreign minister lieberman,False,False,False,False
+fm avigdor lieberman,national,False,False,False,False
+ultranationalists,ally,False,False,False,False
+lieberman,yvet,False,False,False,False
+yisrael beiteinu,yechimovich,False,False,False,False
+israel beiteinu,ap,False,False,False,False
+likud-yisrael beitenu,greatly,False,False,False,False
+prime minister benjamin netanyahu,likud party,False,False,False,False
+ultranationalist,israeli,False,False,False,False
+israel,bbcworld,False,False,False,False
+prime minister benjamin netanyahu,parties,False,False,False,False
+west,today,False,False,False,False
+netenyahu,ultra-nationalist,False,False,False,False
+foreign minister lieberman,national security,False,False,False,False
+likud party,far-right,False,False,False,False
+yisrael beitenu,christian science monitor,False,False,False,False
+their,yahoo news,False,False,False,False
+reuters,government,False,False,False,False
+yisrael beitenu,greatly,False,False,False,False
+pm benjamin netanyahu,ap,False,False,False,False
+national,scandal,False,False,False,False
+yahoo news,israeli-arab,False,False,False,False
+ultranationalist,today,False,False,False,False
+yechimovich,right,False,False,False,False
+ultra-nationalist,scandal,False,False,False,False
+ultranationalist,christian science monitor,False,False,False,False
+he,government,False,False,False,False
+netanyahu,fm avigdor lieberman,False,False,False,False
+likud-yisrael beitenu,west,False,False,False,False
+israeli-arab,scandal,False,False,False,False
+ultranationalist,new,False,False,False,False
+israel,position,False,False,False,False
+fm avigdor lieberman,national security,False,False,False,False
+right-wing,gideon saar,False,False,False,False
+likud,avigdor lieberman,False,False,False,False
+ap news,ap,False,False,True,False
+nationalist,nationalist,True,False,False,False
+israeli,substantial,False,False,False,False
+today,sex,False,False,False,False
+netenyahu,netanyahu-liberman,False,False,False,False
+likud party,yisrael beitenu,False,False,False,False
+likud party,likud-beitanu,False,False,False,False
+w/avigdor lieberman,israel beiteinu,False,False,False,False
+likud-beitanu,gideon saar,False,False,False,False
+right,bbcworld,False,False,False,False
+netenyahu,hardline,False,False,False,False
+w/avigdor lieberman,national,False,False,False,False
+right-wing,further,False,False,False,False
+bbcworld,sex,False,False,False,False
+israel beiteinu,west,False,False,False,False
+bbc news,gideon saar,False,False,False,False
+ultra-nationalist,yisrael beytenu,False,False,False,False
+two months ago,today,False,False,False,False
+january 22,knesset,False,False,False,False
+ultra-nationalist,yisrael beitenu,False,False,False,False
+netanyahu-liberman,sex,False,False,False,False
+knesset,scandal,False,False,False,False
+yvet,far-right,False,False,False,False
+yisrael beytenu,government,False,False,False,False
+position,sex,False,False,False,False
+parties,christian science monitor,False,False,False,False
+likud,netanyahu-liberman,False,False,False,False
+foreign minister lieberman,knesset,False,False,False,False
+yisrael beiteinu,scandal,False,False,False,False
+right-wing,sex,False,False,False,False
+netenyahu,further,False,False,False,False
+prime minister benjamin netanyahu,ultra nationalist,False,False,False,False
+yisrael beytenu,gideon saar,False,False,False,False
+biberman,new,False,False,False,False
+party,hardline,False,False,False,False
+netanyahu,national,False,False,False,False
+yisrael beitenu,scandal,False,False,False,False
+netenyahu,yahoo news,False,False,False,False
+right-wing,substantial,False,False,False,False
+netenyahu,likud-beitanu,False,False,False,False
+prime minister benjamin netanyahu,scandal,False,False,False,False
+yechimovich,substantial,False,False,False,False
+parties,israel beiteinu,False,False,False,False
+prime minister benjamin netanyahu,christian science monitor,False,False,False,False
+liberman,january 22,False,False,False,False
+what ever position,scandal,False,False,False,False
+pm,netanyahu-liberman,False,False,False,False
+israeli,bbc news,False,False,False,False
+israel beiteinu,position,False,False,False,False
+position,today,False,False,False,False
+reuters,yisrael beiteinu,False,False,False,False
+netenyahu,west,False,False,False,False
+ap news,ap news,False,True,False,False
+netanyahu,ally,False,False,False,False
+ap,far-right,False,False,False,False
+far-right,christian science monitor,False,False,False,False
+israel,hard-line,False,False,False,False
+pm,israeli-arab,False,False,False,False
+national security,ap,False,False,False,False
+avigdor lieberman,ap,False,False,False,False
+pm benjamin netanyahu,likud,False,False,False,False
+ultranationalists,hardline,False,False,False,False
+their,west,False,False,False,False
+bbcworld,new,False,False,False,False
+he,knesset,False,False,False,False
+january 22,likud-yisrael beitenu,False,False,False,False
+prime minister,fm avigdor lieberman,False,False,False,False
+w/avigdor lieberman,national security,False,False,False,False
+what ever position,biberman,False,False,False,False
+their,ap,False,False,False,False
+israel beiteinu,far-right,False,False,False,False
+bbcworld,gideon saar,False,False,False,False
+fm avigdor lieberman,yisrael beiteinu,False,False,False,False
+parties,yisrael beiteinu,False,False,False,False
+israel beiteinu,today,False,False,False,False
+lieberman,hardline,False,False,False,False
+west,bbcworld,False,False,False,False
+avigdor lieberman,yahoo news,False,False,False,False
+greatly,bbcworld,False,False,False,False
+w/avigdor lieberman,government,False,False,False,False
+prime minister benjamin netanyahu,yisrael beitenu,False,False,False,False
+their,bbc news,False,False,False,False
+likud,ultra-nationalist,False,False,False,False
+lieberman,reuters,False,False,False,False
+yisrael beytenu,likud-beitanu,False,False,False,False
+nationalist,yechimovich,False,False,False,False
+ultra-nationalist,lieberman,False,False,False,False
+pm,israel,False,False,False,False
+ultra nationalist,their,False,False,False,False
+he,right-wing,False,False,False,False
+likud,yisrael beiteinu,False,False,False,False
+netenyahu,new,False,False,False,False
+further,hardline,False,False,False,False
+knesset,far-right,False,False,False,False
+netanyahu,lieberman,False,False,False,False
+right,israeli-arab,False,False,False,False
+yisrael beytenu,netanyahu-liberman,False,False,False,False
+prime minister,parties,False,False,False,False
+party,greatly,False,False,False,False
+prime minister,gideon saar,False,False,False,False
+netenyahu,foreign minister lieberman,False,False,False,False
+fm avigdor lieberman,scandal,False,False,False,False
+pm,ultranationalists,False,False,False,False
+pm,new,False,False,False,False
+netanyahu,ap news,False,False,False,False
+their,their,False,True,False,False
+prime minister,yechimovich,False,False,False,False
+he,hard-line,False,False,False,False
+pm benjamin netanyahu,national security,False,False,False,False
+pm,gideon saar,False,False,False,False
+knesset,yahoo news,False,False,False,False
+right-wing,likud-beitanu,False,False,False,False
+w/avigdor lieberman,today,False,False,False,False
+two months ago,ally,False,False,False,False
+foreign minister lieberman,bbcworld,False,False,False,False
+prime minister benjamin netanyahu,fm avigdor lieberman,False,False,False,False
+ultranationalist,hardline,False,False,False,False
+parties,likud-yisrael beitenu,False,False,False,False
+january 22,hard-line,False,False,False,False
+ultra-nationalist,w/avigdor lieberman,False,False,False,False
+likud party,what ever position,False,False,False,False
+yahoo news,scandal,False,False,False,False
+reuters,yisrael beytenu,False,False,False,False
+liberman,substantial,False,False,False,False
+ultranationalist,ultranationalist,False,True,False,False
+liberman,january,False,False,False,False
+yahoo news,west,False,False,False,False
+fm avigdor lieberman,yahoo news,False,False,False,False
+ultranationalist,netanyahu-liberman,False,False,False,False
+ap,bbcworld,False,False,False,False
+w/avigdor lieberman,yisrael beytenu,False,False,False,False
+pm,national security,False,False,False,False
+january,netanyahu-liberman,False,False,False,False
+upcoming,scandal,False,False,False,False
+what ever position,greatly,False,False,False,False
+netanyahu,far-right,False,False,False,False
+ultra nationalist,far-right,False,False,False,False
+ultranationalist,yechimovich,False,False,False,False
+he,january 22,False,False,False,False
+netanyahu,netanyahu-liberman,False,False,False,False
+avigdor lieberman,israeli-arab,False,False,False,False
+two months ago,yisrael beitenu,False,False,False,False
+fm avigdor lieberman,likud-beitanu,False,False,False,False
+what ever position,hard-line,False,False,False,False
+prime minister benjamin netanyahu,israel,False,False,False,False
+likud,west,False,False,False,False
+further,new,False,False,False,False
+bbc news,christian science monitor,False,False,False,False
+pm benjamin netanyahu,bbc news,False,False,False,False
+ally,government,False,False,False,False
+two months ago,lieberman,False,False,False,False
+pm benjamin netanyahu,lieberman,False,False,False,False
+prime minister,christian science monitor,False,False,False,False
+likud party,israeli,False,False,False,False
+prime minister benjamin netanyahu,nationalist,False,False,False,False
+w/avigdor lieberman,likud-beitanu,False,False,False,False
+prime minister,what ever position,False,False,False,False
+likud-beitanu,christian science monitor,False,False,False,False
+ultra-nationalist,christian science monitor,False,False,False,False
+likud,yisrael beytenu,False,False,False,False
+ap news,gideon saar,False,False,False,False
+likud party,ultranationalists,False,False,False,False
+january,right-wing,False,False,False,False
+national security,substantial,False,False,False,False
+january 22,yechimovich,False,False,False,False
+party,fm avigdor lieberman,False,False,False,False
+two months ago,right-wing,False,False,False,False
+lieberman,january,False,False,False,False
+likud party,yisrael beiteinu,False,False,False,False
+ultra nationalist,ap news,False,False,False,False
+pm,likud-beitanu,False,False,False,False
+bbc news,substantial,False,False,False,False
+ultranationalist,yisrael beitenu,False,False,False,False
+liberman,israeli,False,False,False,False
+pm benjamin netanyahu,yvet,False,False,False,False
+ultranationalist,israeli-arab,False,False,False,False
+w/avigdor lieberman,position,False,False,False,False
+netanyahu-liberman,gideon saar,False,False,False,False
+parties,january 22,False,False,False,False
+party,ap news,False,False,False,False
+netenyahu,january 22,False,False,False,False
+ap,gideon saar,False,False,False,False
+position,christian science monitor,False,False,False,False
+what ever position,sex,False,False,False,False
+ultranationalist,bbc news,False,False,False,False
+pm benjamin netanyahu,new,False,False,False,False
+greatly,israeli-arab,False,False,False,False
+yisrael beytenu,yahoo news,False,False,False,False
+pm,january,False,False,False,False
+january 22,upcoming,False,False,False,False
+two months ago,bbc news,False,False,False,False
+liberman,position,False,False,False,False
+january,far-right,False,False,False,False
+party,further,False,False,False,False
+pm,israel beiteinu,False,False,False,False
+biberman,christian science monitor,False,False,False,False
+ultra nationalist,israel,False,False,False,False
+israeli,far-right,False,False,False,False
+netenyahu,two months ago,False,False,False,False
+ally,hard-line,False,False,False,False
+reuters,national,False,False,False,False
+right,substantial,False,False,False,False
+likud party,parties,False,False,False,False
+netenyahu,reuters,False,False,False,False
+upcoming,today,False,False,False,False
+pm,far-right,False,False,False,False
+ally,yisrael beitenu,False,False,False,False
+netanyahu,greatly,False,False,False,False
+he,further,False,False,False,False
+yisrael beytenu,scandal,False,False,False,False
+gideon saar,hard-line,False,False,False,False
+likud,israel beiteinu,False,False,False,False
+israel beiteinu,ap news,False,False,False,False
+two months ago,sex,False,False,False,False
+likud-yisrael beitenu,further,False,False,False,False
+party,january,False,False,False,False
+liberman,ap news,False,False,False,False
+yisrael beitenu,substantial,False,False,False,False
+israeli,likud-beitanu,False,False,False,False
+january,gideon saar,False,False,False,False
+party,he,False,False,False,False
+lieberman,what ever position,False,False,False,False
+position,hardline,False,False,False,False
+netanyahu-liberman,likud-beitanu,False,False,False,False
+right-wing,bbc news,False,False,False,False
+ultra-nationalist,upcoming,False,False,False,False
+w/avigdor lieberman,ap news,False,False,False,False
+prime minister benjamin netanyahu,lieberman,False,False,False,False
+prime minister benjamin netanyahu,what ever position,False,False,False,False
+parties,far-right,False,False,False,False
+yisrael beytenu,greatly,False,False,False,False
+pm,avigdor lieberman,False,False,False,False
+israel,today,False,False,False,False
+yvet,reuters,False,False,False,False
+pm,west,False,False,False,False
+foreign minister lieberman,christian science monitor,False,False,False,False
+right-wing,hard-line,False,False,False,False
+ultranationalist,what ever position,False,False,False,False
+israel,sex,False,False,False,False
+w/avigdor lieberman,greatly,False,False,False,False
+yisrael beitenu,far-right,False,False,False,False
+foreign minister lieberman,fm avigdor lieberman,False,False,False,False
+ap news,government,False,False,False,False
+parties,bbc news,False,False,False,False
+netenyahu,he,False,False,False,False
+netanyahu,likud-yisrael beitenu,False,False,False,False
+likud-yisrael beitenu,sex,False,False,False,False
+upcoming,right-wing,False,False,False,False
+nationalist,israel,False,False,False,False
+likud,ap news,False,False,False,False
+ally,substantial,False,False,False,False
+what ever position,yahoo news,False,False,False,False
+yisrael beytenu,far-right,False,False,False,False
+pm,yvet,False,False,False,False
+two months ago,yahoo news,False,False,False,False
+ap news,far-right,False,False,False,False
+likud,yvet,False,False,False,False
+right,right,True,False,False,False
+avigdor lieberman,ally,False,False,False,False
+ap,today,False,False,False,False
+what ever position,today,False,False,False,False
+nationalist,government,False,False,False,False
+ultra-nationalist,foreign minister lieberman,False,False,False,False
+likud-yisrael beitenu,bbcworld,False,False,False,False
+knesset,biberman,False,False,False,False
+ap news,west,False,False,False,False
+prime minister,ap news,False,False,False,False
+foreign minister lieberman,yisrael beitenu,False,False,False,False
+yvet,further,False,False,False,False
+two months ago,hardline,False,False,False,False
+pm,biberman,False,False,False,False
+january,israeli-arab,False,False,False,False
+january,yahoo news,False,False,False,False
+yisrael beitenu,likud-beitanu,False,False,False,False
+ultranationalists,right-wing,False,False,False,False
+foreign minister lieberman,yahoo news,False,False,False,False
+likud,yisrael beitenu,False,False,False,False
+biberman,government,False,False,False,False
+liberman,netanyahu-liberman,False,False,False,False
+lieberman,ap,False,False,False,False
+knesset,today,False,False,False,False
+far-right,scandal,False,False,False,False
+foreign minister lieberman,ap news,False,False,False,False
+prime minister benjamin netanyahu,bbcworld,False,False,False,False
+position,scandal,False,False,False,False
+christian science monitor,new,False,False,False,False
+liberman,w/avigdor lieberman,False,False,False,False
+israeli,yechimovich,False,False,False,False
+prime minister,right,False,False,False,False
+nationalist,ultranationalist,False,False,False,False
+he,bbc news,False,False,False,False
+prime minister,he,False,False,False,False
+their,greatly,False,False,False,False
+likud party,fm avigdor lieberman,False,False,False,False
+yechimovich,likud-yisrael beitenu,False,False,False,False
+netenyahu,position,False,False,False,False
+ultra-nationalist,further,False,False,False,False
+ultranationalists,reuters,False,False,False,False
+party,scandal,False,False,False,False
+parties,gideon saar,False,False,False,False
+knesset,netanyahu-liberman,False,False,False,False
+foreign minister lieberman,yisrael beiteinu,False,False,False,False
+knesset,greatly,False,False,False,False
+netanyahu,bbcworld,False,False,False,False
+likud party,two months ago,False,False,False,False
+fm avigdor lieberman,reuters,False,False,False,False
+national,government,False,False,False,False
+january,new,False,False,False,False
+likud,likud party,False,False,True,False
+knesset,yechimovich,False,False,False,False
+israeli,netanyahu-liberman,False,False,False,False
+israeli-arab,christian science monitor,False,False,False,False
+pm,prime minister,False,False,False,False
+ultranationalists,he,False,False,False,False
+pm benjamin netanyahu,ultra-nationalist,False,False,False,False
+biberman,greatly,False,False,False,False
+netanyahu-liberman,scandal,False,False,False,False
+pm,ultra nationalist,False,False,False,False
+yechimovich,government,False,False,False,False
+yisrael beytenu,today,False,False,False,False
+ultranationalist,bbcworld,False,False,False,False
+reuters,bbcworld,False,False,False,False
+prime minister benjamin netanyahu,january,False,False,False,False
+party,new,False,False,False,False
+ultra-nationalist,he,False,False,False,False
+likud party,ap,False,False,False,False
+ap,israeli-arab,False,False,False,False
+likud,fm avigdor lieberman,False,False,False,False
+w/avigdor lieberman,israeli,False,False,False,False
+ultra nationalist,yisrael beiteinu,False,False,False,False
+israel,west,False,False,False,False
+netanyahu-liberman,today,False,False,False,False
+israeli,ap news,False,False,False,False
+israel beiteinu,greatly,False,False,False,False
+lieberman,bbcworld,False,False,False,False
+likud party,knesset,False,False,False,False
+ultranationalists,their,False,False,False,False
+lieberman,israel,False,False,False,False
+nationalist,liberman,False,False,False,False
+two months ago,israeli,False,False,False,False
+national,substantial,False,False,False,False
+fm avigdor lieberman,israel beiteinu,False,False,False,False
+two months ago,ultra nationalist,False,False,False,False
+yisrael beiteinu,their,False,False,False,False
+two months ago,substantial,False,False,False,False
+pm benjamin netanyahu,yisrael beitenu,False,False,False,False
+their,new,False,False,False,False
+liberman,hard-line,False,False,False,False
+fm avigdor lieberman,far-right,False,False,False,False
+far-right,hardline,False,False,False,False
+party,gideon saar,False,False,False,False
+pm benjamin netanyahu,bbcworld,False,False,False,False
+netenyahu,hard-line,False,False,False,False
+pm,ultra-nationalist,False,False,False,False
+ultra-nationalist,hard-line,False,False,False,False
+netanyahu,bbc news,False,False,False,False
+two months ago,position,False,False,False,False
+prime minister benjamin netanyahu,ally,False,False,False,False
+foreign minister lieberman,reuters,False,False,False,False
+prime minister,national security,False,False,False,False
+fm avigdor lieberman,new,False,False,False,False
+right-wing,yahoo news,False,False,False,False
+ultra-nationalist,yisrael beiteinu,False,False,False,False
+west,scandal,False,False,False,False
+likud,israel,False,False,False,False
+january 22,right,False,False,False,False
+two months ago,national,False,False,False,False
+netanyahu,israel,False,False,False,False
+pm benjamin netanyahu,likud-yisrael beitenu,False,False,False,False
+knesset,ap,False,False,False,False
+likud party,ally,False,False,False,False
+yechimovich,upcoming,False,False,False,False
+netenyahu,yisrael beiteinu,False,False,False,False
+yisrael beitenu,hardline,False,False,False,False
+parties,further,False,False,False,False
+ultranationalists,yisrael beytenu,False,False,False,False
+ultra-nationalist,new,False,False,False,False
+national,knesset,False,False,False,False
+prime minister benjamin netanyahu,ultranationalist,False,False,False,False
+ultranationalist,substantial,False,False,False,False
+party,likud-beitanu,False,False,False,False
+nationalist,today,False,False,False,False
+knesset,hardline,False,False,False,False
+ultra-nationalist,today,False,False,False,False
+netenyahu,nationalist,False,False,False,False
+pm,scandal,False,False,False,False
+netenyahu,knesset,False,False,False,False
+w/avigdor lieberman,substantial,False,False,False,False
+right-wing,new,False,False,False,False
+yisrael beytenu,further,False,False,False,False
+prime minister,hard-line,False,False,False,False
+yisrael beytenu,west,False,False,False,False
+netanyahu-liberman,israeli-arab,False,False,False,False
+he,yisrael beiteinu,False,False,False,False
+netanyahu-liberman,bbcworld,False,False,False,False
+party,ally,False,False,False,False
+liberman,today,False,False,False,False
+ultranationalist,scandal,False,False,False,False
+fm avigdor lieberman,sex,False,False,False,False
+pm benjamin netanyahu,government,False,False,False,False
+ally,scandal,False,False,False,False
+he,yechimovich,False,False,False,False
+nationalist,fm avigdor lieberman,False,False,False,False
+yisrael beitenu,biberman,False,False,False,False
+christian science monitor,hardline,False,False,False,False
+pm benjamin netanyahu,knesset,False,False,False,False
+biberman,ap,False,False,False,False
+netanyahu,new,False,False,False,False
+ally,west,False,False,False,False
+yahoo news,hard-line,False,False,False,False
+yisrael beiteinu,further,False,False,False,False
+nationalist,bbcworld,False,False,False,False
+israeli-arab,further,False,False,False,False
+yechimovich,further,False,False,False,False
+prime minister,further,False,False,False,False
+national security,hard-line,False,False,False,False
+prime minister benjamin netanyahu,substantial,False,False,False,False
+january 22,yisrael beitenu,False,False,False,False
+w/avigdor lieberman,hard-line,False,False,False,False
+likud party,likud party,False,True,False,False
+gideon saar,substantial,False,False,False,False
+netanyahu-liberman,hardline,False,False,False,False
+party,yechimovich,False,False,False,False
+foreign minister lieberman,he,False,False,False,False
+party,avigdor lieberman,False,False,False,False
+ultra nationalist,likud-yisrael beitenu,False,False,False,False
+likud,likud-yisrael beitenu,False,False,False,False
+nationalist,right,False,False,False,False
+netanyahu,reuters,False,False,False,False
+january 22,today,False,False,False,False
+yvet,january 22,False,False,False,False
+likud party,israel beiteinu,False,False,False,False
+upcoming,sex,False,False,False,False
+likud-yisrael beitenu,gideon saar,False,False,False,False
+ultra-nationalist,their,False,False,False,False
+pm,ap news,False,False,False,False
+yvet,position,False,False,False,False
+liberman,what ever position,False,False,False,False
+reuters,further,False,False,False,False
+party,national security,False,False,False,False
+government,new,False,False,False,False
+prime minister benjamin netanyahu,new,False,False,False,False
+west,substantial,False,False,False,False
+yahoo news,government,False,False,False,False
+likud,bbc news,False,False,False,False
+government,hardline,False,False,False,False
+parties,knesset,False,False,False,False
+yvet,government,False,False,False,False
+national security,right-wing,False,False,False,False
+pm benjamin netanyahu,january,False,False,False,False
+nationalist,yvet,False,False,False,False
+parties,right-wing,False,False,False,False
+avigdor lieberman,israel,False,False,False,False
+netanyahu,right,False,False,False,False
+ap,right-wing,False,False,False,False
+pm,national,False,False,False,False
+parties,sex,False,False,False,False
+party,ultranationalists,False,False,False,False
+january 22,likud-beitanu,False,False,False,False
+party,right-wing,False,False,False,False
+avigdor lieberman,greatly,False,False,False,False
+ultranationalists,foreign minister lieberman,False,False,False,False
+january,christian science monitor,False,False,False,False
+fm avigdor lieberman,bbcworld,False,False,False,False
+two months ago,what ever position,False,False,False,False
+he,israeli-arab,False,False,False,False
+yisrael beitenu,government,False,False,False,False
+ultranationalist,position,False,False,False,False
+israeli,what ever position,False,False,False,False
+party,israel beiteinu,False,False,False,False
+government,today,False,False,False,False
+likud-yisrael beitenu,israeli-arab,False,False,False,False
+israeli,biberman,False,False,False,False
+government,christian science monitor,False,False,False,False
+yvet,yisrael beiteinu,False,False,False,False
+ultranationalists,government,False,False,False,False
+right-wing,likud-yisrael beitenu,False,False,False,False
+ultranationalist,w/avigdor lieberman,False,False,False,False
+prime minister benjamin netanyahu,hardline,False,False,False,False
+yechimovich,hard-line,False,False,False,False
+netenyahu,yechimovich,False,False,False,False
+likud,today,False,False,False,False
+pm,further,False,False,False,False
+pm benjamin netanyahu,ultranationalist,False,False,False,False
+nationalist,yisrael beiteinu,False,False,False,False
+ultranationalists,ultra-nationalist,False,True,False,False
+israeli,government,False,False,False,False
+ultra-nationalist,hardline,False,False,False,False
+nationalist,likud-beitanu,False,False,False,False
+israel beiteinu,gideon saar,False,False,False,False
+january 22,bbcworld,False,False,False,False
+parties,january,False,False,False,False
+biberman,likud-yisrael beitenu,False,False,False,False
+christian science monitor,scandal,False,False,False,False
+two months ago,far-right,False,False,False,False
+national security,likud-beitanu,False,False,False,False
+january 22,ap news,False,False,False,False
+netenyahu,ap news,False,False,False,False
+national,right-wing,False,False,False,False
+foreign minister lieberman,government,False,False,False,False
+two months ago,two months ago,False,True,False,False
+avigdor lieberman,yisrael beiteinu,False,False,False,False
+yisrael beytenu,likud-yisrael beitenu,False,False,False,False
+nationalist,further,False,False,False,False
+prime minister,ultranationalist,False,False,False,False
+ap,government,False,False,False,False
+party,israeli,False,False,False,False
+ally,yechimovich,False,False,False,False
+he,yahoo news,False,False,False,False
+pm,sex,False,False,False,False
+ultra-nationalist,israeli-arab,False,False,False,False
+netanyahu-liberman,far-right,False,False,False,False
+avigdor lieberman,hard-line,False,False,False,False
+israel beiteinu,bbcworld,False,False,False,False
+national,netanyahu-liberman,False,False,False,False
+yechimovich,far-right,False,False,False,False
+prime minister,likud-yisrael beitenu,False,False,False,False
+yvet,right,False,False,False,False
+ultra-nationalist,sex,False,False,False,False
+yisrael beiteinu,biberman,False,False,False,False
+their,today,False,False,False,False
+prime minister benjamin netanyahu,further,False,False,False,False
+foreign minister lieberman,w/avigdor lieberman,False,False,False,False
+netanyahu,netenyahu,False,True,False,False
+two months ago,israel,False,False,False,False
+yahoo news,sex,False,False,False,False
+right,gideon saar,False,False,False,False
+ultranationalists,west,False,False,False,False
+ally,yahoo news,False,False,False,False
+foreign minister lieberman,israel,False,False,False,False
+west,bbc news,False,False,False,False
+prime minister,national,False,False,False,False
+reuters,christian science monitor,False,False,False,False
+january 22,yisrael beytenu,False,False,False,False
+january,biberman,False,False,False,False
+january 22,netanyahu-liberman,False,False,False,False
+party,yahoo news,False,False,False,False
+likud party,israeli-arab,False,False,False,False
+ultra nationalist,position,False,False,False,False
+ultranationalist,israel beiteinu,False,False,False,False
+biberman,sex,False,False,False,False
+he,netanyahu-liberman,False,False,False,False
+reuters,likud-beitanu,False,False,False,False
+likud party,liberman,False,False,False,False
+liberman,israeli-arab,False,False,False,False
+netenyahu,what ever position,False,False,False,False
+netanyahu,avigdor lieberman,False,False,False,False
+fm avigdor lieberman,w/avigdor lieberman,False,True,False,False
+likud,christian science monitor,False,False,False,False
+israeli,scandal,False,False,False,False
+ultranationalists,israeli,False,False,False,False
+israel,substantial,False,False,False,False
+yisrael beiteinu,yisrael beytenu,False,True,False,False
+netenyahu,w/avigdor lieberman,False,False,False,False
+pm benjamin netanyahu,gideon saar,False,False,False,False
+ap news,bbcworld,False,False,False,False
+greatly,new,False,False,False,False
+ultranationalist,ultranationalists,False,True,False,False
+israel beiteinu,israeli-arab,False,False,False,False
+biberman,israeli-arab,False,False,False,False
+ultranationalist,yisrael beytenu,False,False,False,False
+ally,yisrael beytenu,False,False,False,False
+yechimovich,ap news,False,False,False,False
+national security,gideon saar,False,False,False,False
+israeli,today,False,False,False,False
+yisrael beiteinu,substantial,False,False,False,False
+yisrael beiteinu,christian science monitor,False,False,False,False
+yahoo news,bbc news,False,False,False,False
+likud,upcoming,False,False,False,False
+israel beiteinu,yahoo news,False,False,False,False
+ultra-nationalist,netanyahu-liberman,False,False,False,False
+he,far-right,False,False,False,False
+yvet,substantial,False,False,False,False
+national security,christian science monitor,False,False,False,False
+likud,likud-beitanu,False,False,False,False
+ultranationalists,yechimovich,False,False,False,False
+national security,knesset,False,False,False,False
+he,bbcworld,False,False,False,False
+pm,knesset,False,False,False,False
+likud,sex,False,False,False,False
+fm avigdor lieberman,january 22,False,False,False,False
+likud party,bbcworld,False,False,False,False
+parties,likud-beitanu,False,False,False,False
+netanyahu,scandal,False,False,False,False
+government,sex,False,False,False,False
+party,w/avigdor lieberman,False,False,False,False
+lieberman,ally,False,False,False,False
+ultra nationalist,knesset,False,False,False,False
+he,israel,False,False,False,False
+ultranationalist,upcoming,False,False,False,False
+israeli,yahoo news,False,False,False,False
+ultranationalists,netanyahu-liberman,False,False,False,False
+two months ago,government,False,False,False,False
+parties,new,False,False,False,False
+prime minister benjamin netanyahu,foreign minister lieberman,False,False,False,False
+likud,greatly,False,False,False,False
+netenyahu,gideon saar,False,False,False,False
+knesset,new,False,False,False,False
+yisrael beytenu,israeli-arab,False,False,False,False
+parties,west,False,False,False,False
+yechimovich,hardline,False,False,False,False
+avigdor lieberman,hardline,False,False,False,False
+prime minister benjamin netanyahu,israeli,False,False,False,False
+prime minister benjamin netanyahu,w/avigdor lieberman,False,False,False,False
+yisrael beytenu,sex,False,False,False,False
+ultra-nationalist,fm avigdor lieberman,False,False,False,False
+ultranationalist,liberman,False,False,False,False
+yisrael beiteinu,hardline,False,False,False,False
+biberman,upcoming,False,False,False,False
+fm avigdor lieberman,ally,False,False,False,False
+what ever position,israeli-arab,False,False,False,False
+prime minister,bbc news,False,False,False,False
+yisrael beitenu,upcoming,False,False,False,False
+liberman,government,False,False,False,False
+yisrael beitenu,knesset,False,False,False,False
+likud,january,False,False,False,False
+prime minister,likud,False,False,False,False
+fm avigdor lieberman,substantial,False,False,False,False
+likud party,likud-yisrael beitenu,False,False,False,False
+avigdor lieberman,their,False,False,False,False
+position,substantial,False,False,False,False
+bbc news,hardline,False,False,False,False
+parties,yisrael beytenu,False,False,False,False
+nationalist,ultra nationalist,False,False,True,False
+biberman,likud-beitanu,False,False,False,False
+yvet,scandal,False,False,False,False
+israel,likud-beitanu,False,False,False,False
+israel,upcoming,False,False,False,False
+lieberman,yahoo news,False,False,False,False
+fm avigdor lieberman,january,False,False,False,False
+prime minister,yisrael beitenu,False,False,False,False
+parties,israeli-arab,False,False,False,False
+israel,bbc news,False,False,False,False
+ultra nationalist,further,False,False,False,False
+israel beiteinu,yisrael beitenu,False,True,False,False
+nationalist,january,False,False,False,False
+ap,new,False,False,False,False
+two months ago,netanyahu-liberman,False,False,False,False
+pm benjamin netanyahu,reuters,False,False,False,False
+ap,hardline,False,False,False,False
+likud party,bbc news,False,False,False,False
+liberman,israel beiteinu,False,False,False,False
+w/avigdor lieberman,further,False,False,False,False
+liberman,christian science monitor,False,False,False,False
+biberman,gideon saar,False,False,False,False
+ap,likud-yisrael beitenu,False,False,False,False
+yvet,netanyahu-liberman,False,False,False,False
+bbcworld,today,False,False,False,False
+israel,israel,True,False,False,False
+their,further,False,False,False,False
+liberman,he,False,False,False,False
+netenyahu,ultranationalist,False,False,False,False
+party,national,False,False,False,False
+two months ago,reuters,False,False,False,False
+sex,new,False,False,False,False
+avigdor lieberman,further,False,False,False,False
+new,hardline,False,False,False,False
+avigdor lieberman,israel beiteinu,False,False,False,False
+yisrael beytenu,ap news,False,False,False,False
+national security,far-right,False,False,False,False
+upcoming,yahoo news,False,False,False,False
+national,ap,False,False,False,False
+likud,w/avigdor lieberman,False,False,False,False
+likud,party,False,False,False,False
+prime minister,new,False,False,False,False
+ultra nationalist,fm avigdor lieberman,False,False,False,False
+foreign minister lieberman,israel beiteinu,False,False,False,False
+ultranationalists,biberman,False,False,False,False
+pm benjamin netanyahu,hard-line,False,False,False,False
+ap news,greatly,False,False,False,False
+yechimovich,new,False,False,False,False
+january 22,reuters,False,False,False,False
+greatly,sex,False,False,False,False
+netenyahu,january,False,False,False,False
+ap,hard-line,False,False,False,False
+ultranationalist,greatly,False,False,False,False
+pm benjamin netanyahu,yechimovich,False,False,False,False
+biberman,right-wing,False,False,False,False
+biberman,scandal,False,False,False,False
+prime minister,their,False,False,False,False
+israel,scandal,False,False,False,False
+lieberman,government,False,False,False,False
+yvet,yisrael beytenu,False,False,False,False
+ultra nationalist,right,False,False,False,False
+avigdor lieberman,what ever position,False,False,False,False
+their,sex,False,False,False,False
+parties,reuters,False,False,False,False
+yisrael beitenu,yahoo news,False,False,False,False
+israeli-arab,hard-line,False,False,False,False
+liberman,yechimovich,False,False,False,False
+ally,national,False,False,False,False
+prime minister,likud-beitanu,False,False,False,False
+liberman,bbcworld,False,False,False,False
+ally,today,False,False,False,False
+what ever position,right,False,False,False,False
+pm,likud-yisrael beitenu,False,False,False,False
+national,further,False,False,False,False
+far-right,greatly,False,False,False,False
+reuters,greatly,False,False,False,False
+ultranationalists,knesset,False,False,False,False
+government,substantial,False,False,False,False
+reuters,yisrael beitenu,False,False,False,False
+right,new,False,False,False,False
+party,position,False,False,False,False
+avigdor lieberman,yisrael beitenu,False,False,False,False
+ultranationalist,hard-line,False,False,False,False
+netenyahu,today,False,False,False,False
+israeli,yisrael beitenu,False,False,False,False
+likud-yisrael beitenu,today,False,False,False,False
+national,sex,False,False,False,False
+pm,hard-line,False,False,False,False
+ultranationalists,national security,False,False,False,False
+netanyahu,government,False,False,False,False
+parties,yahoo news,False,False,False,False
+israel beiteinu,right-wing,False,False,False,False
+yahoo news,today,False,False,False,False
+yahoo news,hardline,False,False,False,False
+pm benjamin netanyahu,scandal,False,False,False,False
+netanyahu-liberman,ap news,False,False,False,False
+yechimovich,right-wing,False,False,False,False
+two months ago,ultranationalists,False,False,False,False
+prime minister,yahoo news,False,False,False,False
+w/avigdor lieberman,upcoming,False,False,False,False
+prime minister benjamin netanyahu,yisrael beytenu,False,False,False,False
+yahoo news,likud-beitanu,False,False,False,False
+prime minister,knesset,False,False,False,False
+pm,government,False,False,False,False
+what ever position,new,False,False,False,False
+christian science monitor,sex,False,False,False,False
+upcoming,likud-beitanu,False,False,False,False
+west,israeli-arab,False,False,False,False
+prime minister,netanyahu-liberman,False,False,False,False
+upcoming,christian science monitor,False,False,False,False
+reuters,scandal,False,False,False,False
+gideon saar,hardline,False,False,False,False
+yvet,christian science monitor,False,False,False,False
+lieberman,greatly,False,False,False,False
+yahoo news,gideon saar,False,False,False,False
+position,further,False,False,False,False
+likud,lieberman,False,False,False,False
+likud party,right,False,False,False,False
+january,likud-yisrael beitenu,False,False,False,False
+likud-beitanu,greatly,False,False,False,False
+he,likud-yisrael beitenu,False,False,False,False
+what ever position,national security,False,False,False,False
+ultra nationalist,west,False,False,False,False
+israel,gideon saar,False,False,False,False
+parties,scandal,False,False,False,False
+yisrael beiteinu,government,False,False,False,False
+ap,likud-beitanu,False,False,False,False
+ultra nationalist,liberman,False,False,False,False
+ultra-nationalist,israel beiteinu,False,False,False,False
+ap news,likud-beitanu,False,False,False,False
+national,ap news,False,False,False,False
+biberman,bbcworld,False,False,False,False
+ultra nationalist,january 22,False,False,False,False
+what ever position,christian science monitor,False,False,False,False
+netanyahu,today,False,False,False,False
+january 22,ap,False,False,False,False
+reuters,knesset,False,False,False,False
+israel,government,False,False,False,False
+yechimovich,today,False,False,False,False
+ultranationalist,israel,False,False,False,False
+yvet,january,False,False,False,False
+fm avigdor lieberman,yisrael beytenu,False,False,False,False
+january,today,False,False,False,False
+parties,their,False,False,False,False
+yechimovich,gideon saar,False,False,False,False
+ultra-nationalist,bbcworld,False,False,False,False
+party,what ever position,False,False,False,False
+ally,hardline,False,False,False,False
+israeli,ally,False,False,False,False
+foreign minister lieberman,january,False,False,False,False
+upcoming,upcoming,True,False,False,False
+he,substantial,False,False,False,False
+ultra nationalist,new,False,False,False,False
+knesset,west,False,False,False,False
+likud,reuters,False,False,False,False
+yvet,ap news,False,False,False,False
+biberman,hardline,False,False,False,False
+ultranationalists,w/avigdor lieberman,False,False,False,False
+ally,yisrael beiteinu,False,False,False,False
+position,hard-line,False,False,False,False
+national,gideon saar,False,False,False,False
+ultranationalist,likud-beitanu,False,False,False,False
+january,hardline,False,False,False,False
+ally,bbcworld,False,False,False,False
+far-right,likud-yisrael beitenu,False,False,False,False
+likud-yisrael beitenu,hardline,False,False,False,False
+what ever position,west,False,False,False,False
+party,two months ago,False,False,False,False
+right,bbc news,False,False,False,False
+two months ago,foreign minister lieberman,False,False,False,False
+two months ago,christian science monitor,False,False,False,False
+israel beiteinu,hard-line,False,False,False,False
+scandal,substantial,False,False,False,False
+he,reuters,False,False,False,False
+netanyahu-liberman,right,False,False,False,False
+yisrael beiteinu,bbcworld,False,False,False,False
+hardline,hard-line,True,False,False,False
+israel beiteinu,substantial,False,False,False,False
+national,bbcworld,False,False,False,False
+ally,ap news,False,False,False,False
+w/avigdor lieberman,christian science monitor,False,False,False,False
+national security,hardline,False,False,False,False
+ultra nationalist,upcoming,False,False,False,False
+right,hard-line,False,False,False,False
+prime minister,ultra nationalist,False,False,False,False
+israel,national,False,False,False,False
+january 22,national security,False,False,False,False
+today,hard-line,False,False,False,False
+ultra-nationalist,avigdor lieberman,False,False,False,False
+israel,israel beiteinu,False,False,True,False
+foreign minister lieberman,biberman,False,False,False,False
+prime minister benjamin netanyahu,government,False,False,False,False
+government,hard-line,False,False,False,False
+far-right,gideon saar,False,False,False,False
+ultranationalists,ap news,False,False,False,False
+ultra-nationalist,january,False,False,False,False
+likud,january 22,False,False,False,False
+israel,what ever position,False,False,False,False
+prime minister,substantial,False,False,False,False
+pm benjamin netanyahu,avigdor lieberman,False,False,False,False
+pm benjamin netanyahu,liberman,False,False,False,False
+january 22,national,False,False,False,False
+prime minister,west,False,False,False,False
+ultra nationalist,bbc news,False,False,False,False
+party,israel,False,False,False,False
+government,west,False,False,False,False
+upcoming,israeli-arab,False,False,False,False
+national,hardline,False,False,False,False
+he,yisrael beitenu,False,False,False,False
+fm avigdor lieberman,further,False,False,False,False
+ultranationalist,further,False,False,False,False
+yisrael beiteinu,yisrael beiteinu,False,True,False,False
+party,today,False,False,False,False
+ally,likud-yisrael beitenu,False,False,False,False
+he,upcoming,False,False,False,False
+yisrael beiteinu,sex,False,False,False,False
+january 22,right-wing,False,False,False,False
+reuters,gideon saar,False,False,False,False
+far-right,west,False,False,False,False
+biberman,further,False,False,False,False
+upcoming,right,False,False,False,False
+israeli,israel,False,True,False,False
+likud,yahoo news,False,False,False,False
+w/avigdor lieberman,far-right,False,False,False,False
+fm avigdor lieberman,right,False,False,False,False
+prime minister,january 22,False,False,False,False
+pm benjamin netanyahu,today,False,False,False,False
+likud,ultranationalists,False,False,False,False
+what ever position,yisrael beytenu,False,False,False,False
+israel,their,False,False,False,False
+likud-yisrael beitenu,scandal,False,False,False,False
+likud,national,False,False,False,False
+likud party,reuters,False,False,False,False
+ultranationalist,fm avigdor lieberman,False,False,False,False
+yvet,biberman,False,False,False,False
+israeli,israel beiteinu,False,False,False,False
+ultra nationalist,yahoo news,False,False,False,False
+israel,yisrael beytenu,False,False,False,False
+yvet,yechimovich,False,False,False,False
+netanyahu,pm benjamin netanyahu,False,False,True,False
+netenyahu,right-wing,False,False,False,False
+yisrael beiteinu,netanyahu-liberman,False,False,False,False
+yisrael beiteinu,ap,False,False,False,False
+israel,knesset,False,False,False,False
+prime minister benjamin netanyahu,right-wing,False,False,False,False
+ultra nationalist,likud-beitanu,False,False,False,False
+what ever position,government,False,False,False,False
+lieberman,likud-yisrael beitenu,False,False,False,False
+yisrael beiteinu,likud-yisrael beitenu,False,False,False,False
+likud party,avigdor lieberman,False,False,False,False
+right,west,False,False,False,False
+nationalist,sex,False,False,False,False
+avigdor lieberman,january 22,False,False,False,False
+national security,yisrael beitenu,False,False,False,False
+likud party,position,False,False,False,False
+knesset,substantial,False,False,False,False
+yvet,he,False,False,False,False
+israel,january 22,False,False,False,False
+yisrael beytenu,right-wing,False,False,False,False
+greatly,substantial,False,False,False,False
+ap news,sex,False,False,False,False
+bbcworld,scandal,False,False,False,False
+two months ago,knesset,False,False,False,False
+two months ago,january,False,False,False,False
+prime minister,israeli,False,False,False,False
+israel,hardline,False,False,False,False
+yechimovich,israeli-arab,False,False,False,False
+yisrael beiteinu,today,False,False,False,False
+yahoo news,substantial,False,False,False,False
+pm benjamin netanyahu,prime minister benjamin netanyahu,False,False,False,False
+likud party,yechimovich,False,False,False,False
+yechimovich,bbcworld,False,False,False,False
+w/avigdor lieberman,israel,False,False,False,False
+prime minister,upcoming,False,False,False,False
+avigdor lieberman,right,False,False,False,False
+ultranationalists,ultranationalists,False,True,False,False
+liberman,reuters,False,False,False,False
+prime minister benjamin netanyahu,israeli-arab,False,False,False,False
+january,bbcworld,False,False,False,False
+yahoo news,further,False,False,False,False
+netenyahu,greatly,False,False,False,False
+bbc news,further,False,False,False,False
+far-right,hard-line,False,False,False,False
+netanyahu,knesset,False,False,False,False
+israel,right-wing,False,False,False,False
+yisrael beiteinu,upcoming,False,False,False,False
+liberman,likud-beitanu,False,False,False,False
+two months ago,hard-line,False,False,False,False
+netanyahu-liberman,hard-line,False,False,False,False
+christian science monitor,today,False,False,False,False
+party,government,False,False,False,False
+yisrael beitenu,likud-yisrael beitenu,False,False,False,False
+israeli,israeli,True,False,False,False
+far-right,likud-beitanu,False,False,False,False
+lieberman,yechimovich,False,False,False,False
+sex,substantial,False,False,False,False
+likud,ultra nationalist,False,False,False,False
+january 22,gideon saar,False,False,False,False
+reuters,yechimovich,False,False,False,False
+far-right,further,False,False,False,False
+upcoming,hard-line,False,False,False,False
+what ever position,upcoming,False,False,False,False
+w/avigdor lieberman,yisrael beiteinu,False,False,False,False
+right-wing,west,False,False,False,False
+ultranationalists,bbc news,False,False,False,False
+nationalist,netanyahu-liberman,False,False,False,False
+nationalist,position,False,False,False,False
+fm avigdor lieberman,yechimovich,False,False,False,False
+yvet,their,False,False,False,False
+greatly,hard-line,False,False,False,False
+ap,further,False,False,False,False
+likud-beitanu,scandal,False,False,False,False
+w/avigdor lieberman,reuters,False,False,False,False
+january,hard-line,False,False,False,False
+prime minister benjamin netanyahu,ap,False,False,False,False
+right,today,False,False,False,False
+lieberman,national,False,False,False,False
+pm,fm avigdor lieberman,False,False,False,False
+netanyahu,likud-beitanu,False,False,False,False
+party,netanyahu-liberman,False,False,False,False
+ultra-nationalist,yahoo news,False,False,False,False
+sex,hardline,False,False,False,False
+parties,what ever position,False,False,False,False
+ap news,new,False,False,False,False
+prime minister benjamin netanyahu,ultra-nationalist,False,False,False,False
+ultra nationalist,ally,False,False,False,False
+biberman,today,False,False,False,False
+national,hard-line,False,False,False,False
+w/avigdor lieberman,yahoo news,False,False,False,False
+yvet,bbc news,False,False,False,False
+likud party,netanyahu-liberman,False,False,False,False
+likud party,right-wing,False,False,False,False
+lieberman,biberman,False,False,False,False
+likud,israeli,False,False,False,False
+prime minister,reuters,False,False,False,False
+two months ago,upcoming,False,False,False,False
+he,israel beiteinu,False,False,False,False
+prime minister,foreign minister lieberman,False,False,False,False
+national security,bbc news,False,False,False,False
+netenyahu,likud party,False,False,False,False
+likud-beitanu,likud-yisrael beitenu,False,False,False,False
+fm avigdor lieberman,ap news,False,False,False,False
+reuters,ap news,False,False,False,False
+likud,he,False,False,False,False
+reuters,hardline,False,False,False,False
+ap,sex,False,False,False,False
+lieberman,january 22,False,False,False,False
+israeli-arab,sex,False,False,False,False
+their,bbcworld,False,False,False,False
+ultra-nationalist,israel,False,False,False,False
+pm,bbc news,False,False,False,False
+parties,substantial,False,False,False,False
+ultranationalist,yisrael beiteinu,False,False,False,False
+avigdor lieberman,likud-yisrael beitenu,False,False,False,False
+january 22,yahoo news,False,False,False,False
+christian science monitor,substantial,False,False,False,False
+west,new,False,False,False,False
+ultranationalist,ap,False,False,False,False
+israel,right,False,False,False,False
+yechimovich,their,False,False,False,False
+upcoming,new,False,False,False,False
+national,yahoo news,False,False,False,False
+upcoming,bbcworld,False,False,False,False
+likud,government,False,False,False,False
+pm,substantial,False,False,False,False
+parties,netanyahu-liberman,False,False,False,False
+israeli,ap,False,False,False,False
+nationalist,west,False,False,False,False
+pm benjamin netanyahu,hardline,False,False,False,False
+ultranationalist,ultra-nationalist,False,True,False,False
+upcoming,hardline,False,False,False,False
+national security,further,False,False,False,False
+israeli-arab,bbcworld,False,False,False,False
+pm benjamin netanyahu,sex,False,False,False,False
+reuters,upcoming,False,False,False,False
+yechimovich,greatly,False,False,False,False
+january 22,west,False,False,False,False
+gideon saar,new,False,False,False,False
+party,yisrael beitenu,False,False,False,False
+ally,right,False,False,False,False
+he,position,False,False,False,False
+january 22,position,False,False,False,False
+netenyahu,fm avigdor lieberman,False,False,False,False
+yvet,new,False,False,False,False
+w/avigdor lieberman,what ever position,False,False,False,False
+israel beiteinu,christian science monitor,False,False,False,False
+prime minister,yisrael beiteinu,False,False,False,False
+israel,israeli-arab,False,False,False,False
+likud party,today,False,False,False,False
+netanyahu,w/avigdor lieberman,False,False,False,False
+liberman,new,False,False,False,False
+party,lieberman,False,False,False,False
+pm benjamin netanyahu,their,False,False,False,False
+netenyahu,ally,False,False,False,False
+yisrael beitenu,right,False,False,False,False
+fm avigdor lieberman,gideon saar,False,False,False,False
+israel beiteinu,likud-beitanu,False,False,False,False
+lieberman,fm avigdor lieberman,False,False,True,False
+netenyahu,ultra nationalist,False,False,False,False
+netenyahu,substantial,False,False,False,False
+netanyahu,position,False,False,False,False
+reuters,yahoo news,False,False,False,False
+foreign minister lieberman,greatly,False,False,False,False
+he,january,False,False,False,False
+netanyahu-liberman,their,False,False,False,False
+lieberman,avigdor lieberman,False,False,True,False
+likud,new,False,False,False,False
+ultra-nationalist,liberman,False,False,False,False
+national,right,False,False,False,False
+netanyahu,hardline,False,False,False,False
+ally,knesset,False,False,False,False
+greatly,hardline,False,False,False,False
+lieberman,right,False,False,False,False
+israeli-arab,substantial,False,False,False,False
+ultranationalists,what ever position,False,False,False,False
+likud party,january 22,False,False,False,False
+liberman,their,False,False,False,False
+yvet,hardline,False,False,False,False
+nationalist,ap,False,False,False,False
+january 22,hardline,False,False,False,False
+ally,further,False,False,False,False
+pm,yahoo news,False,False,False,False
+pm,upcoming,False,False,False,False
+liberman,gideon saar,False,False,False,False
+january,government,False,False,False,False
+their,substantial,False,False,False,False
+israeli,right-wing,False,False,False,False
+national,yechimovich,False,False,False,False
+ally,netanyahu-liberman,False,False,False,False
+israel beiteinu,their,False,False,False,False
+pm,christian science monitor,False,False,False,False
+netanyahu,yechimovich,False,False,False,False
+likud party,yvet,False,False,False,False
+nationalist,ultra-nationalist,False,False,False,False
+w/avigdor lieberman,right,False,False,False,False
+prime minister,liberman,False,False,False,False
+w/avigdor lieberman,ap,False,False,False,False
+netenyahu,israeli,False,False,False,False
+avigdor lieberman,yisrael beytenu,False,False,False,False
+further,gideon saar,False,False,False,False
+israeli-arab,new,False,False,False,False
+january 22,substantial,False,False,False,False
+prime minister benjamin netanyahu,west,False,False,False,False
+fm avigdor lieberman,israeli-arab,False,False,False,False
+netanyahu,further,False,False,False,False
+nationalist,yahoo news,False,False,False,False
+january 22,bbc news,False,False,False,False
+israel beiteinu,likud-yisrael beitenu,False,False,False,False
+israel,yechimovich,False,False,False,False
+he,yisrael beytenu,False,False,False,False
+government,gideon saar,False,False,False,False
+ultranationalist,right-wing,False,False,False,False
+further,hard-line,False,False,False,False
+liberman,bbc news,False,False,False,False
+fm avigdor lieberman,position,False,False,False,False
+netanyahu,yisrael beiteinu,False,False,False,False
+pm benjamin netanyahu,ultranationalists,False,False,False,False
+netenyahu,bbc news,False,False,False,False
+yvet,ally,False,False,False,False
+reuters,biberman,False,False,False,False
+prime minister,ally,False,False,False,False
+two months ago,ap,False,False,False,False
+ultranationalists,yisrael beiteinu,False,False,False,False
+ultranationalists,scandal,False,False,False,False
+he,greatly,False,False,False,False
+party,foreign minister lieberman,False,False,False,False
+netenyahu,christian science monitor,False,False,False,False
+what ever position,ap news,False,False,False,False
+foreign minister lieberman,israeli-arab,False,False,False,False
+pm,right,False,False,False,False
+likud party,january,False,False,False,False
+far-right,bbc news,False,False,False,False
+parties,hardline,False,False,False,False
+likud,what ever position,False,False,False,False
+pm benjamin netanyahu,israeli-arab,False,False,False,False
+right,greatly,False,False,False,False
+two months ago,their,False,False,False,False
+yechimovich,west,False,False,False,False
+likud-yisrael beitenu,hard-line,False,False,False,False
+lieberman,scandal,False,False,False,False
+ultra nationalist,sex,False,False,False,False
+israel,new,False,False,False,False
+two months ago,biberman,False,False,False,False
+yisrael beiteinu,ap news,False,False,False,False
+nationalist,israel beiteinu,False,False,False,False
+two months ago,liberman,False,False,False,False
+christian science monitor,hard-line,False,False,False,False
+avigdor lieberman,position,False,False,False,False
+pm benjamin netanyahu,what ever position,False,False,False,False
+foreign minister lieberman,their,False,False,False,False
+prime minister benjamin netanyahu,upcoming,False,False,False,False
+ultra-nationalist,position,False,False,False,False
+sex,scandal,False,False,False,False
+lieberman,foreign minister lieberman,False,False,True,False
+foreign minister lieberman,yechimovich,False,False,False,False
+he,ally,False,False,False,False
+pm,parties,False,False,False,False
+ultranationalists,israel,False,False,False,False
+ultra-nationalist,what ever position,False,False,False,False
+pm benjamin netanyahu,he,False,False,False,False
+pm benjamin netanyahu,yisrael beiteinu,False,False,False,False
+prime minister benjamin netanyahu,ap news,False,False,False,False
+scandal,new,False,False,False,False
+ap,yahoo news,False,False,False,False
+israel,yisrael beiteinu,False,False,False,False
+liberman,national security,False,False,False,False
+prime minister,biberman,False,False,False,False
+two months ago,bbcworld,False,False,False,False
+netanyahu,ultranationalists,False,False,False,False
+liberman,yisrael beitenu,False,False,False,False
+right-wing,today,False,False,False,False
+pm,yisrael beytenu,False,False,False,False
+likud party,ultra nationalist,False,False,False,False
+national,new,False,False,False,False
+liberman,yahoo news,False,False,False,False
+fm avigdor lieberman,hardline,False,False,False,False
+party,likud-yisrael beitenu,False,False,False,False
+likud party,gideon saar,False,False,False,False
+likud party,further,False,False,False,False
+reuters,ap,False,False,False,False
+ultranationalist,yahoo news,False,False,False,False
+netanyahu-liberman,yahoo news,False,False,False,False
+pm benjamin netanyahu,further,False,False,False,False
+yvet,greatly,False,False,False,False
+fm avigdor lieberman,west,False,False,False,False
+prime minister benjamin netanyahu,yvet,False,False,False,False
+ally,position,False,False,False,False
+pm,two months ago,False,False,False,False
+foreign minister lieberman,substantial,False,False,False,False
+pm benjamin netanyahu,israel beiteinu,False,False,False,False
+right-wing,government,False,False,False,False
+nationalist,substantial,False,False,False,False
+january 22,christian science monitor,False,False,False,False
+greatly,scandal,False,False,False,False
+nationalist,national,False,False,False,False
+w/avigdor lieberman,new,False,False,False,False
+prime minister benjamin netanyahu,national,False,False,False,False
+likud,scandal,False,False,False,False
+netanyahu-liberman,greatly,False,False,False,False
+pm,their,False,False,False,False
+reuters,position,False,False,False,False
+pm,lieberman,False,False,False,False
+netanyahu-liberman,likud-yisrael beitenu,False,False,False,False
+likud,hard-line,False,False,False,False
+israeli,reuters,False,False,False,False
+ultranationalists,lieberman,False,False,False,False
+pm,yechimovich,False,False,False,False
+prime minister benjamin netanyahu,position,False,False,False,False
+w/avigdor lieberman,yisrael beitenu,False,False,False,False
+bbc news,new,False,False,False,False
+ultra nationalist,government,False,False,False,False
+pm benjamin netanyahu,netanyahu-liberman,False,False,False,False
+ultra nationalist,ap,False,False,False,False
+january 22,far-right,False,False,False,False
+netanyahu,two months ago,False,False,False,False
+knesset,sex,False,False,False,False
+their,ap news,False,False,False,False
+yisrael beitenu,ap,False,False,False,False
+lieberman,gideon saar,False,False,False,False
+yisrael beitenu,yechimovich,False,False,False,False
+their,israeli-arab,False,False,False,False
+ap,right,False,False,False,False
+w/avigdor lieberman,gideon saar,False,False,False,False
+their,government,False,False,False,False
+netanyahu,what ever position,False,False,False,False
+ally,ap,False,False,False,False
+two months ago,ultra-nationalist,False,False,False,False
+ap news,today,False,False,False,False
+fm avigdor lieberman,netanyahu-liberman,False,False,False,False
+netanyahu,israel beiteinu,False,False,False,False
+bbc news,scandal,False,False,False,False
+reuters,right,False,False,False,False
+ally,ally,True,False,False,False
+likud-yisrael beitenu,substantial,False,False,False,False
+national,israeli-arab,False,False,False,False
+party,ultra nationalist,False,False,False,False
+ultranationalist,government,False,False,False,False
+lieberman,israel beiteinu,False,False,False,False
+two months ago,likud-yisrael beitenu,False,False,False,False
+prime minister benjamin netanyahu,today,False,False,False,False
+national security,yisrael beytenu,False,False,False,False
+likud,position,False,False,False,False
+party,substantial,False,False,False,False
+netanyahu,yahoo news,False,False,False,False
+he,right,False,False,False,False
+netanyahu,west,False,False,False,False
+two months ago,right,False,False,False,False
+lieberman,hard-line,False,False,False,False
+ultranationalist,national security,False,False,False,False
+knesset,bbc news,False,False,False,False
+ultranationalists,avigdor lieberman,False,False,False,False
+what ever position,knesset,False,False,False,False
+ally,upcoming,False,False,False,False
+netanyahu-liberman,biberman,False,False,False,False
+israel,yisrael beitenu,False,False,False,False
+lieberman,position,False,False,False,False
+lieberman,substantial,False,False,False,False
+fm avigdor lieberman,biberman,False,False,False,False
+ultranationalist,january,False,False,False,False
+he,national security,False,False,False,False
+yvet,ap,False,False,False,False
+january 22,biberman,False,False,False,False
+likud party,their,False,False,False,False
+prime minister,january,False,False,False,False
+pm benjamin netanyahu,ultra nationalist,False,False,False,False
+w/avigdor lieberman,hardline,False,False,False,False
+national security,their,False,False,False,False
+pm benjamin netanyahu,position,False,False,False,False
+prime minister benjamin netanyahu,likud-beitanu,False,False,False,False
+likud party,lieberman,False,False,False,False
+prime minister benjamin netanyahu,bbc news,False,False,False,False
+israeli,greatly,False,False,False,False
+ally,reuters,False,False,False,False
+nationalist,scandal,False,False,False,False
+prime minister,far-right,False,False,False,False
+netanyahu,israeli,False,False,False,False
+prime minister,today,False,False,False,False
+biberman,hard-line,False,False,False,False
+netenyahu,upcoming,False,False,False,False
+their,scandal,False,False,False,False
+ultra-nationalist,west,False,False,False,False
+party,sex,False,False,False,False
+likud party,party,False,False,True,False
+nationalist,knesset,False,False,False,False
+ultranationalist,knesset,False,False,False,False
+liberman,likud-yisrael beitenu,False,False,False,False
+ultranationalists,january 22,False,False,False,False
+prime minister benjamin netanyahu,israel beiteinu,False,False,False,False
+netenyahu,yvet,False,False,False,False
+party,upcoming,False,False,False,False
+liberman,west,False,False,False,False
+knesset,likud-yisrael beitenu,False,False,False,False
+reuters,west,False,False,False,False
+prime minister,israel,False,False,False,False
+party,bbc news,False,False,False,False
+liberman,ally,False,False,False,False
+upcoming,west,False,False,False,False
+january,yechimovich,False,False,False,False
+far-right,israeli-arab,False,False,False,False
+prime minister benjamin netanyahu,prime minister,False,False,True,False
+knesset,gideon saar,False,False,False,False
+ap news,further,False,False,False,False
+avigdor lieberman,he,False,False,False,False
+w/avigdor lieberman,bbcworld,False,False,False,False
+national,yisrael beitenu,False,False,False,False
+what ever position,ap,False,False,False,False
+likud,knesset,False,False,False,False
+nationalist,greatly,False,False,False,False
+upcoming,bbc news,False,False,False,False
+parties,yechimovich,False,False,False,False
+israeli,right,False,False,False,False
+likud party,west,False,False,False,False
+likud-beitanu,substantial,False,False,False,False
+national,west,False,False,False,False
+west,further,False,False,False,False
+pm benjamin netanyahu,prime minister,False,False,False,False
+two months ago,greatly,False,False,False,False
+likud,gideon saar,False,False,False,False
+january 22,new,False,False,False,False
+fm avigdor lieberman,knesset,False,False,False,False
+yisrael beiteinu,greatly,False,False,False,False
+netanyahu,gideon saar,False,False,False,False
+reuters,new,False,False,False,False
+biberman,far-right,False,False,False,False
+parties,bbcworld,False,False,False,False
+january 22,israeli-arab,False,False,False,False
+ultra nationalist,national,False,False,False,False
+ultranationalists,sex,False,False,False,False
+parties,right,False,False,False,False
+nationalist,new,False,False,False,False
+biberman,right,False,False,False,False
+ultra-nationalist,likud-beitanu,False,False,False,False
+january 22,sex,False,False,False,False
+christian science monitor,further,False,False,False,False
+yisrael beitenu,today,False,False,False,False
+prime minister,position,False,False,False,False
+january 22,yisrael beiteinu,False,False,False,False
+ultranationalists,today,False,False,False,False
+he,gideon saar,False,False,False,False
+yisrael beiteinu,bbc news,False,False,False,False
+their,christian science monitor,False,False,False,False
+foreign minister lieberman,hardline,False,False,False,False
+yisrael beitenu,israeli-arab,False,False,False,False
+ultra nationalist,christian science monitor,False,False,False,False
+yisrael beytenu,right,False,False,False,False
+likud party,israel,False,False,False,False
+prime minister benjamin netanyahu,january 22,False,False,False,False
+ultranationalists,far-right,False,False,False,False
+two months ago,yisrael beytenu,False,False,False,False
+january,greatly,False,False,False,False
+netanyahu,january,False,False,False,False
+ultra nationalist,avigdor lieberman,False,False,False,False
+yisrael beytenu,knesset,False,False,False,False
+far-right,new,False,False,False,False
+january,substantial,False,False,False,False
+pm benjamin netanyahu,w/avigdor lieberman,False,False,False,False
+upcoming,greatly,False,False,False,False
+ultranationalists,gideon saar,False,False,False,False
+ultra-nationalist,knesset,False,False,False,False
+yvet,likud-yisrael beitenu,False,False,False,False
+prime minister benjamin netanyahu,far-right,False,False,False,False
+yisrael beiteinu,knesset,False,False,False,False
+israel beiteinu,sex,False,False,False,False
+ultranationalists,yahoo news,False,False,False,False
+pm,reuters,False,False,False,False
+avigdor lieberman,january,False,False,False,False
+today,hardline,False,False,False,False
+netenyahu,likud-yisrael beitenu,False,False,False,False
+likud,nationalist,False,False,False,False
+yisrael beiteinu,far-right,False,False,False,False
+w/avigdor lieberman,likud-yisrael beitenu,False,False,False,False
+netenyahu,bbcworld,False,False,False,False
+yvet,upcoming,False,False,False,False
+lieberman,today,False,False,False,False
+their,right,False,False,False,False
+pm,he,False,False,False,False
+pm benjamin netanyahu,nationalist,False,False,False,False
+likud,further,False,False,False,False

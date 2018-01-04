@@ -186,13 +186,13 @@ def eval_entity_coref_with_gold_graph(gold_graph):
     return curr_entity_scores
 
 
-if __name__ == '__main__':
+def main():
     args = docopt(__doc__)
     gold_path = args["--gold"]
     # checking whether the input is a folder or a single file
     if os.path.isdir(gold_path):
         gold_graphs = load_graphs_from_folder(gold_path)
-    else:   # single gold file
+    else:  # single gold file
         gold_graphs = [load_graph_from_file(gold_path)]
     # evaluate on each file
     entity_coref_scores = []
@@ -204,3 +204,7 @@ if __name__ == '__main__':
     entity_muc, entity_b_cube, entity_ceaf_c, entity_mela = entity_coref_scores
     print 'Entity coreference: MUC=%.3f, B^3=%.3f, CEAF_C=%.3f, MELA=%.3f' % \
           (entity_muc, entity_b_cube, entity_ceaf_c, entity_mela)
+
+
+if __name__ == '__main__':
+    main()

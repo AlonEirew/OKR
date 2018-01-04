@@ -1,0 +1,3015 @@
+it,family,False,False,False,False
+gresham pd,6:30 pm,False,False,False,False
+missingperson,woman,False,False,False,False
+they,crews,False,False,False,False
+field,overnight,False,False,False,False
+cell phone,jonathan holt,False,False,False,False
+searchers,larch mountain,False,False,False,False
+gresham pd,larch mt,False,False,False,False
+cell phone,portland local news,False,False,False,False
+the oregonian,city,False,False,False,False
+news conference,only 21,False,False,False,False
+starbucks,missingperson,False,False,False,False
+remains,jonathan holt,False,False,False,False
+barista,five minute,False,False,False,False
+she,kids,False,False,False,False
+now,big,False,False,False,False
+only 21,jonathan holt,False,False,False,False
+bushes,worker,False,False,False,False
+missingperson,more,False,False,False,False
+apartments,case,False,False,False,False
+body,the oregonian,False,False,False,False
+news conference,jonathan holt,False,False,False,False
+the oregonian,oregon,False,False,False,False
+cellphone,investigators,False,False,False,False
+horrifying,u.s news,False,False,False,False
+tonight,portland local news,False,False,False,False
+neighbor,overnight,False,False,False,False
+prayers,office depot,False,False,False,False
+cellphone,only 21,False,False,False,False
+she,clackamas county,False,False,False,False
+starbucks,jonathon holt,False,False,False,False
+search,city,False,False,False,False
+prayers,whitney,False,False,False,False
+gresham pd,complex,False,False,False,False
+complex,only 21,False,False,False,False
+so incredibly,neighbor,False,False,False,False
+missingperson,6:30 pm,False,False,False,False
+suspect,tomorrow night,False,False,False,False
+complex,suspect,False,False,False,False
+larch mt,our,False,False,False,False
+law wire news,overnight,False,False,False,False
+21-year-old,our,False,False,False,False
+cell phone,21,False,False,False,False
+the oregonian,jonathon holt,False,False,False,False
+whitney heichel.watch,family,False,False,False,False
+now,only 21,False,False,False,False
+clues,our,False,False,False,False
+6:30 pm,thoughts,False,False,False,False
+tomorrow night,investigators,False,False,False,False
+they,bushes,False,False,False,False
+five minute,tuesday morn.tipline,False,False,False,False
+candlelight vigil,city,False,False,False,False
+tomorrow night,case,False,False,False,False
+big,more,False,False,False,False
+office depot,our,False,False,False,False
+suspect,so sad,False,False,False,False
+complex,portland local news,False,False,False,False
+gresham pd,more,False,False,False,False
+now,news conference,False,False,False,False
+apartment,10/16/2012,False,False,False,False
+news conference,more,False,False,False,False
+five minute,jonathon holt,False,False,False,False
+apartment,complex,False,False,False,False
+complex,larch mountain,False,False,False,False
+only 21,cold world,False,False,False,False
+starbucks,searchers,False,False,False,False
+4pm,our,False,False,False,False
+tonight,tuesday morn.tipline,False,False,False,False
+man,residents,False,False,False,False
+gresham,10/16/2012,False,False,False,False
+it,so incredibly,False,False,False,False
+barista,larch mountain,False,False,False,False
+remains,larch mountain,False,False,False,False
+field,worker,False,False,False,False
+starbucks,starbucks,False,True,False,False
+missingperson,big,False,False,False,False
+her,apartment,False,False,False,False
+she,apartments,False,False,False,False
+news conference,clackamas county,False,False,False,False
+big,overnight,False,False,False,False
+tuesday morn.tipline,investigators,False,False,False,False
+her,more,False,False,False,False
+clues,overnight,False,False,False,False
+case,thoughts,False,False,False,False
+gresham pd,park,False,False,False,False
+work,search,False,False,False,False
+they,21-year-old,False,False,False,False
+prayers,overnight,False,False,False,False
+candlelight vigil,our,False,False,False,False
+oregon,so sad,False,False,False,False
+family,residents,False,False,False,False
+woman,search,False,False,False,False
+crews,clackamas county,False,False,False,False
+troutdale,searchers,False,False,False,False
+police,it,False,False,False,False
+now,candlelight vigil,False,False,False,False
+cellphone,portland local news,False,False,False,False
+man,case,False,False,False,False
+cellphone,field,False,False,False,False
+4pm,jonathon holt,False,False,False,False
+cell phone,overnight,False,False,False,False
+miz.chellielas vegas world news,big,False,False,False,False
+gresham,body,False,False,False,False
+field,crews,False,False,False,False
+oregon trail starbucks,larch mt,False,False,False,False
+yesterday,city,False,False,False,False
+miz.chellielas vegas world news,horrifying,False,False,False,False
+suspect,4pm,False,False,False,False
+jonathan holt,residents,False,False,False,False
+it,only 21,False,False,False,False
+cell phone,clackamas county,False,False,False,False
+they,6:30 pm,False,False,False,False
+work,big,False,False,False,False
+candlelight vigil,portland local news,False,False,False,False
+gresham pd,five minute,False,False,False,False
+gresham,larch mt,False,False,False,False
+tonight,6:30 pm,False,False,False,False
+news conference,yesterday,False,False,False,False
+jonathon holt,residents,False,False,False,False
+whitney,investigators,False,False,False,False
+whitney,sad,False,False,False,False
+25 tips,cold world,False,False,False,False
+investigators,clackamas county,False,False,False,False
+21-year-old,21-year-old,False,True,False,False
+cell phone,larch mountain,False,False,False,False
+apartment,troutdale,False,False,False,False
+complex,jonathon holt,False,False,False,False
+complex,family,False,False,False,False
+she,searchers,False,False,False,False
+city,more,False,False,False,False
+woman,investigators,False,False,False,False
+remains,overnight,False,False,False,False
+five minute,case,False,False,False,False
+now,tomorrow night,False,False,False,False
+whitney heichel.watch,horrifying,False,False,False,False
+candlelight vigil,tuesday morn.tipline,False,False,False,False
+prayers,our,False,False,False,False
+candlelight vigil,larch mountain,False,False,False,False
+gresham pd,law wire news,False,False,False,False
+field,search,False,False,False,False
+apartments,overnight,False,False,False,False
+five minute,21,False,False,False,False
+her,so incredibly,False,False,False,False
+whitney,body,False,False,False,False
+miz.chellielas vegas world news,neighbor,False,False,False,False
+whitney,barista,False,False,False,False
+tonight,overnight,False,False,False,False
+whitney heichel,jonathon holt,False,False,False,False
+office depot,residents,False,False,False,False
+starbucks,oregon,False,False,False,False
+family,thoughts,False,False,False,False
+tomorrow night,worker,False,False,False,False
+cellphone,10/16/2012,False,False,False,False
+five minute,thoughts,False,False,False,False
+whitney,portland local news,False,False,False,False
+apartments,five minute,False,False,False,False
+oregon,21-year-old,False,False,False,False
+she,family,False,False,False,False
+whitney heichel.watch,21-year-old,False,False,False,False
+five minute,worker,False,False,False,False
+worker,u.s news,False,False,False,False
+woman,crews,False,False,False,False
+she,the oregonian,False,False,False,False
+work,jonathan holt,False,False,False,False
+police,now,False,False,False,False
+police,6:30 pm,False,False,False,False
+cellphone,city,False,False,False,False
+oregon,tuesday morn.tipline,False,False,False,False
+suspect,five minute,False,False,False,False
+miz.chellielas vegas world news,case,False,False,False,False
+office depot,clackamas county,False,False,False,False
+whitney,21-year-old,False,False,False,False
+gresham pd,larch mountain,False,False,False,False
+whitney,21,False,False,False,False
+whitney,office depot,False,False,False,False
+neighbor,only 21,False,False,False,False
+starbucks,tomorrow night,False,False,False,False
+whitney,suspect,False,False,False,False
+remains,law wire news,False,False,False,False
+family,searchers,False,False,False,False
+yesterday,u.s news,False,False,False,False
+horrifying,case,False,False,False,False
+investigators,10/16/2012,False,False,False,False
+troutdale,search,False,False,False,False
+gresham pd,now,False,False,False,False
+it,4pm,False,False,False,False
+work,field,True,False,False,False
+gresham,25 tips,False,False,False,False
+she,clues,False,False,False,False
+apartment,investigators,False,False,False,False
+office depot,man,False,False,False,False
+candlelight vigil,jonathan holt,False,False,False,False
+worker,cold world,False,False,False,False
+whitney heichel,barista,False,False,False,False
+21,more,False,False,False,False
+news conference,larch mt,False,False,False,False
+she,cellphone,False,False,False,False
+field,larch mountain,False,False,False,False
+search,larch mt,False,False,False,False
+whitney,overnight,False,False,False,False
+oregon trail starbucks,4pm,False,False,False,False
+police,neighbor,False,False,False,False
+work,our,False,False,False,False
+she,oregon trail starbucks,False,False,False,False
+big,search,False,False,False,False
+clues,larch mt,False,False,False,False
+suspect,oregon,False,False,False,False
+only 21,10/16/2012,False,False,False,False
+her,clues,False,False,False,False
+21-year-old,overnight,False,False,False,False
+the oregonian,u.s news,False,False,False,False
+complex,five minute,False,False,False,False
+she,crews,False,False,False,False
+21,thoughts,False,False,False,False
+apartment,our,False,False,False,False
+apartment,jonathan holt,False,False,False,False
+barista,park,False,False,False,False
+neighbor,worker,False,False,False,False
+they,sad,False,False,False,False
+starbucks,five minute,False,False,False,False
+missingperson,clues,False,False,False,False
+man,jonathan holt,False,False,False,False
+field,thoughts,False,False,False,False
+woman,overnight,False,False,False,False
+now,five minute,False,False,False,False
+kids,residents,False,False,False,False
+she,jonathon holt,False,False,False,False
+woman,only 21,False,False,False,False
+whitney heichel,search,False,False,False,False
+apartment,law wire news,False,False,False,False
+they,horrifying,False,False,False,False
+21-year-old,only 21,False,False,False,False
+whitney heichel,tuesday morn.tipline,False,False,False,False
+family,law wire news,False,False,False,False
+gresham pd,work,False,False,False,False
+she,suspect,False,False,False,False
+whitney heichel.watch,cold world,False,False,False,False
+the oregonian,field,False,False,False,False
+searchers,searchers,True,False,False,False
+6:30 pm,only 21,False,False,False,False
+bushes,so incredibly,False,False,False,False
+whitney heichel.watch,gresham pd,False,False,False,False
+oregon,neighbor,False,False,False,False
+thoughts,portland local news,False,False,False,False
+whitney heichel,big,False,False,False,False
+family,city,False,False,False,False
+remains,news conference,False,False,False,False
+missingperson,residents,False,False,False,False
+larch mountain,thoughts,False,False,False,False
+tuesday morn.tipline,only 21,False,False,False,False
+complex,park,False,False,False,False
+larch mt,25 tips,False,False,False,False
+she,field,False,False,False,False
+horrifying,our,False,False,False,False
+so incredibly,big,False,False,False,False
+she,thoughts,False,False,False,False
+body,park,False,False,False,False
+body,case,False,False,False,False
+gresham,tomorrow night,False,False,False,False
+barista,it,False,False,False,False
+candlelight vigil,worker,False,False,False,False
+oregon trail starbucks,case,False,False,False,False
+office depot,more,False,False,False,False
+4pm,city,False,False,False,False
+searchers,larch mt,False,False,False,False
+they,yesterday,False,False,False,False
+she,investigators,False,False,False,False
+field,so sad,False,False,False,False
+oregon,news conference,False,False,False,False
+barista,cold world,False,False,False,False
+gresham pd,troutdale,False,False,False,False
+apartment,neighbor,False,False,False,False
+news conference,residents,False,False,False,False
+police,our,False,False,False,False
+law wire news,kids,False,False,False,False
+they,law wire news,False,False,False,False
+starbucks,so sad,False,False,False,False
+oregon trail starbucks,21,False,False,False,False
+troutdale,clues,False,False,False,False
+oregon trail starbucks,search,False,False,False,False
+remains,tomorrow night,False,False,False,False
+office depot,search,False,False,False,False
+barista,miz.chellielas vegas world news,False,False,False,False
+five minute,overnight,False,False,False,False
+miz.chellielas vegas world news,apartments,False,False,False,False
+investigators,portland local news,False,False,False,False
+her,larch mountain,False,False,False,False
+whitney heichel,larch mountain,False,False,False,False
+tuesday morn.tipline,searchers,False,False,False,False
+woman,21,False,False,False,False
+apartments,big,False,False,False,False
+family,tuesday morn.tipline,False,False,False,False
+clackamas county,more,False,False,False,False
+case,clackamas county,False,False,False,False
+so sad,yesterday,False,False,False,False
+whitney heichel.watch,kids,False,False,False,False
+tomorrow night,u.s news,False,False,False,False
+cell phone,now,False,False,False,False
+they,21,False,False,False,False
+oregon trail starbucks,man,False,False,False,False
+4pm,larch mountain,False,False,False,False
+complex,crews,False,False,False,False
+prayers,clues,False,False,False,False
+news conference,park,False,False,False,False
+she,office depot,False,False,False,False
+complex,cold world,False,False,False,False
+complex,candlelight vigil,False,False,False,False
+suspect,our,False,False,False,False
+starbucks,barista,False,False,False,False
+whitney,news conference,False,False,False,False
+miz.chellielas vegas world news,searchers,False,False,False,False
+tomorrow night,our,False,False,False,False
+oregon,larch mountain,False,False,False,False
+prayers,woman,False,False,False,False
+suspect,clues,False,False,False,False
+it,u.s news,False,False,False,False
+starbucks,tonight,False,False,False,False
+cell phone,tonight,False,False,False,False
+gresham pd,worker,False,False,False,False
+whitney,starbucks,False,False,False,False
+21,clackamas county,False,False,False,False
+search,25 tips,False,False,False,False
+now,10/16/2012,False,False,False,False
+so sad,clackamas county,False,False,False,False
+so incredibly,investigators,False,False,False,False
+crews,residents,False,False,False,False
+city,cold world,False,False,False,False
+whitney heichel,yesterday,False,False,False,False
+they,it,False,False,False,False
+gresham,cold world,False,False,False,False
+investigators,residents,False,False,False,False
+whitney heichel,apartments,False,False,False,False
+cold world,portland local news,False,False,False,False
+jonathon holt,clues,False,False,False,False
+missingperson,police,False,False,False,False
+they,five minute,False,False,False,False
+now,sad,False,False,False,False
+our,10/16/2012,False,False,False,False
+jonathan holt,cold world,False,False,False,False
+apartments,10/16/2012,False,False,False,False
+troutdale,25 tips,False,False,False,False
+bushes,investigators,False,False,False,False
+21,overnight,False,False,False,False
+sad,larch mountain,False,False,False,False
+prayers,25 tips,False,False,False,False
+body,more,False,False,False,False
+6:30 pm,woman,False,False,False,False
+five minute,investigators,False,False,False,False
+big,searchers,False,False,False,False
+apartment,clackamas county,False,False,False,False
+starbucks,remains,False,False,False,False
+gresham,gresham,True,False,False,False
+starbucks,news conference,False,False,False,False
+it,tonight,False,False,False,False
+apartments,larch mt,False,False,False,False
+tuesday morn.tipline,10/16/2012,False,False,False,False
+prayers,tomorrow night,False,False,False,False
+it,oregon,False,False,False,False
+family,candlelight vigil,False,False,False,False
+missingperson,law wire news,False,False,False,False
+gresham,news conference,False,False,False,False
+body,so incredibly,False,False,False,False
+sad,candlelight vigil,False,False,False,False
+candlelight vigil,clackamas county,False,False,False,False
+her,searchers,False,False,False,False
+prayers,horrifying,False,False,False,False
+barista,horrifying,False,False,False,False
+overnight,cold world,False,False,False,False
+apartments,worker,False,False,False,False
+remains,25 tips,False,False,False,False
+whitney,candlelight vigil,False,False,False,False
+cellphone,our,False,False,False,False
+troutdale,thoughts,False,False,False,False
+kids,u.s news,False,False,False,False
+cell phone,it,False,False,False,False
+investigators,u.s news,False,False,False,False
+tonight,park,False,False,False,False
+they,overnight,False,False,False,False
+police,woman,False,False,False,False
+starbucks,jonathan holt,False,False,False,False
+police,thoughts,False,False,False,False
+barista,cell phone,False,False,False,False
+miz.chellielas vegas world news,clackamas county,False,False,False,False
+4pm,overnight,False,False,False,False
+horrifying,cold world,False,False,False,False
+gresham pd,gresham,False,False,True,False
+tuesday morn.tipline,u.s news,False,False,False,False
+apartments,u.s news,False,False,False,False
+apartments,jonathon holt,False,False,False,False
+police,work,False,False,False,False
+field,big,False,False,False,False
+they,tomorrow night,False,False,False,False
+the oregonian,tonight,False,False,False,False
+whitney heichel.watch,residents,False,False,False,False
+it,crews,False,False,False,False
+news conference,kids,False,False,False,False
+miz.chellielas vegas world news,larch mt,False,False,False,False
+overnight,park,False,False,False,False
+five minute,10/16/2012,False,False,False,False
+whitney heichel,body,False,False,False,False
+the oregonian,neighbor,False,False,False,False
+body,sad,False,False,False,False
+yesterday,10/16/2012,False,False,False,False
+field,our,False,False,False,False
+whitney,they,False,False,False,False
+field,clackamas county,False,False,False,False
+body,office depot,False,False,False,False
+missingperson,cellphone,False,False,False,False
+police,residents,False,False,False,False
+clues,portland local news,False,False,False,False
+gresham,4pm,False,False,False,False
+woman,clues,False,False,False,False
+case,jonathan holt,False,False,False,False
+case,our,False,False,False,False
+tuesday morn.tipline,yesterday,False,False,False,False
+6:30 pm,25 tips,False,False,False,False
+so sad,only 21,False,False,False,False
+kids,case,False,False,False,False
+her,news conference,False,False,False,False
+bushes,big,False,False,False,False
+whitney heichel.watch,sad,False,False,False,False
+five minute,candlelight vigil,False,False,False,False
+bushes,oregon,False,False,False,False
+prayers,neighbor,False,False,False,False
+so sad,25 tips,False,False,False,False
+police,candlelight vigil,False,False,False,False
+cell phone,more,False,False,False,False
+apartments,4pm,False,False,False,False
+gresham,case,False,False,False,False
+field,4pm,False,False,False,False
+the oregonian,10/16/2012,False,False,False,False
+candlelight vigil,tomorrow night,False,False,False,False
+missingperson,10/16/2012,False,False,False,False
+it,woman,False,False,False,False
+work,crews,False,False,False,False
+body,yesterday,False,False,False,False
+the oregonian,thoughts,False,False,False,False
+whitney heichel.watch,woman,False,False,False,False
+cellphone,clues,False,False,False,False
+oregon trail starbucks,larch mountain,False,False,False,False
+complex,news conference,False,False,False,False
+five minute,woman,False,False,False,False
+woman,searchers,False,False,False,False
+cellphone,body,False,False,False,False
+work,kids,False,False,False,False
+it,clackamas county,False,False,False,False
+starbucks,candlelight vigil,False,False,False,False
+worker,thoughts,False,False,False,False
+so incredibly,tonight,False,False,False,False
+tonight,man,False,False,False,False
+search,larch mountain,False,False,False,False
+they,portland local news,False,False,False,False
+21,residents,False,False,False,False
+overnight,more,False,False,False,False
+whitney heichel,candlelight vigil,False,False,False,False
+prayers,cell phone,False,False,False,False
+missingperson,clackamas county,False,False,False,False
+larch mt,yesterday,False,False,False,False
+bushes,sad,False,False,False,False
+whitney heichel.watch,big,False,False,False,False
+family,10/16/2012,False,False,False,False
+whitney heichel,portland local news,False,False,False,False
+21-year-old,cold world,False,False,False,False
+now,kids,False,False,False,False
+remains,field,False,False,False,False
+so incredibly,searchers,False,False,False,False
+kids,larch mountain,False,False,False,False
+office depot,woman,False,False,False,False
+miz.chellielas vegas world news,woman,False,False,False,False
+family,case,False,False,False,False
+whitney heichel,21,False,False,False,False
+barista,sad,False,False,False,False
+barista,worker,False,False,False,False
+apartments,neighbor,False,False,False,False
+news conference,law wire news,False,False,False,False
+she,five minute,False,False,False,False
+barista,oregon,False,False,False,False
+gresham pd,remains,False,False,False,False
+news conference,cold world,False,False,False,False
+candlelight vigil,21,False,False,False,False
+candlelight vigil,neighbor,False,False,False,False
+remains,cold world,False,False,False,False
+suspect,horrifying,False,False,False,False
+kids,city,False,False,False,False
+apartment,worker,False,False,False,False
+25 tips,yesterday,False,False,False,False
+apartment,now,False,False,False,False
+whitney heichel,25 tips,False,False,False,False
+tonight,clackamas county,False,False,False,False
+family,25 tips,False,False,False,False
+gresham pd,tonight,False,False,False,False
+neighbor,u.s news,False,False,False,False
+law wire news,searchers,False,False,False,False
+case,searchers,False,False,False,False
+remains,clackamas county,False,False,False,False
+five minute,kids,False,False,False,False
+oregon,candlelight vigil,False,False,False,False
+jonathan holt,portland local news,False,False,False,False
+cell phone,clues,False,False,False,False
+clues,city,False,False,False,False
+law wire news,yesterday,False,False,False,False
+it,tomorrow night,False,False,False,False
+jonathon holt,larch mountain,False,False,False,False
+five minute,more,False,False,False,False
+bushes,clues,False,False,False,False
+her,missingperson,False,False,False,False
+tomorrow night,clues,False,False,False,False
+whitney heichel,crews,False,False,False,False
+our,cold world,False,False,False,False
+missingperson,troutdale,False,False,False,False
+bushes,kids,False,False,False,False
+miz.chellielas vegas world news,thoughts,False,False,False,False
+apartments,tomorrow night,False,False,False,False
+gresham,21,False,False,False,False
+21-year-old,u.s news,False,False,False,False
+prayers,clackamas county,False,False,False,False
+police,so incredibly,False,False,False,False
+police,jonathan holt,False,False,False,False
+larch mt,investigators,False,False,False,False
+worker,yesterday,False,False,False,False
+her,oregon,False,False,False,False
+now,search,False,False,False,False
+25 tips,residents,False,False,False,False
+prayers,missingperson,False,False,False,False
+gresham pd,candlelight vigil,False,False,False,False
+bushes,neighbor,False,False,False,False
+work,sad,False,False,False,False
+starbucks,clues,False,False,False,False
+so sad,overnight,False,False,False,False
+cellphone,troutdale,False,False,False,False
+apartments,sad,False,False,False,False
+complex,yesterday,False,False,False,False
+apartments,crews,False,False,False,False
+apartments,clackamas county,False,False,False,False
+miz.chellielas vegas world news,tonight,False,False,False,False
+news conference,6:30 pm,False,False,False,False
+gresham pd,our,False,False,False,False
+tuesday morn.tipline,jonathon holt,False,False,False,False
+body,21,False,False,False,False
+worker,investigators,False,False,False,False
+troutdale,park,False,False,False,False
+big,larch mt,False,False,False,False
+4pm,investigators,False,False,False,False
+miz.chellielas vegas world news,now,False,False,False,False
+big,residents,False,False,False,False
+oregon,crews,False,False,False,False
+her,investigators,False,False,False,False
+tonight,10/16/2012,False,False,False,False
+troutdale,family,False,False,False,False
+they,cell phone,False,False,False,False
+whitney heichel.watch,jonathan holt,False,False,False,False
+bushes,crews,False,False,False,False
+horrifying,tomorrow night,False,False,False,False
+prayers,whitney heichel,False,False,False,False
+cellphone,thoughts,False,False,False,False
+gresham,search,False,False,False,False
+neighbor,city,False,False,False,False
+neighbor,more,False,False,False,False
+cell phone,remains,False,False,False,False
+the oregonian,family,False,False,False,False
+21,portland local news,False,False,False,False
+gresham pd,searchers,False,False,False,False
+horrifying,neighbor,False,False,False,False
+gresham,u.s news,False,False,False,False
+gresham,suspect,False,False,False,False
+whitney heichel.watch,city,False,False,False,False
+they,woman,False,False,False,False
+tonight,only 21,False,False,False,False
+troutdale,tuesday morn.tipline,False,False,False,False
+prayers,city,False,False,False,False
+city,residents,False,False,False,False
+oregon trail starbucks,25 tips,False,False,False,False
+police,worker,False,False,False,False
+woman,portland local news,False,False,False,False
+prayers,candlelight vigil,False,False,False,False
+prayers,oregon,False,False,False,False
+oregon trail starbucks,10/16/2012,False,False,False,False
+her,complex,False,False,False,False
+so incredibly,law wire news,False,False,False,False
+it,five minute,False,False,False,False
+tonight,searchers,False,False,False,False
+miz.chellielas vegas world news,25 tips,False,False,False,False
+bushes,body,False,False,False,False
+gresham,law wire news,False,False,False,False
+tonight,city,False,False,False,False
+woman,thoughts,False,False,False,False
+missingperson,field,False,False,False,False
+it,jonathan holt,False,False,False,False
+apartment,the oregonian,False,False,False,False
+now,suspect,False,False,False,False
+whitney heichel,gresham,False,False,False,False
+miz.chellielas vegas world news,10/16/2012,False,False,False,False
+miz.chellielas vegas world news,crews,False,False,False,False
+she,tonight,False,False,False,False
+gresham pd,overnight,False,False,False,False
+cellphone,bushes,False,False,False,False
+now,field,False,False,False,False
+tomorrow night,only 21,False,False,False,False
+whitney heichel,family,False,False,False,False
+apartment,6:30 pm,False,False,False,False
+clues,clues,True,False,False,False
+family,jonathan holt,False,False,False,False
+law wire news,larch mt,False,False,False,False
+it,10/16/2012,False,False,False,False
+whitney,family,False,False,False,False
+bushes,clackamas county,False,False,False,False
+jonathon holt,overnight,False,False,False,False
+worker,larch mountain,False,False,False,False
+miz.chellielas vegas world news,investigators,False,False,False,False
+suspect,woman,False,False,False,False
+prayers,tuesday morn.tipline,False,False,False,False
+jonathan holt,25 tips,False,False,False,False
+oregon,worker,False,False,False,False
+woman,4pm,False,False,False,False
+gresham,our,False,False,False,False
+cellphone,apartments,False,False,False,False
+4pm,clues,False,False,False,False
+so incredibly,yesterday,False,False,False,False
+case,clues,False,False,False,False
+neighbor,neighbor,True,False,False,False
+her,larch mt,False,False,False,False
+it,field,False,False,False,False
+remains,search,False,False,False,False
+they,jonathon holt,False,False,False,False
+man,u.s news,False,False,False,False
+complex,worker,False,False,False,False
+so incredibly,21,False,False,False,False
+apartments,horrifying,False,False,False,False
+suspect,yesterday,False,False,False,False
+clues,clackamas county,False,False,False,False
+21-year-old,so incredibly,False,False,False,False
+her,21-year-old,False,False,False,False
+now,jonathon holt,False,False,False,False
+oregon trail starbucks,woman,False,False,False,False
+now,park,False,False,False,False
+searchers,crews,False,False,False,False
+they,u.s news,False,False,False,False
+crews,city,False,False,False,False
+gresham pd,it,False,False,False,False
+worker,clues,False,False,False,False
+sad,u.s news,False,False,False,False
+apartments,residents,False,False,False,False
+apartment,25 tips,False,False,False,False
+whitney heichel.watch,tonight,False,False,False,False
+now,our,False,False,False,False
+body,so sad,False,False,False,False
+so incredibly,only 21,False,False,False,False
+apartment,tomorrow night,False,False,False,False
+complex,4pm,False,False,False,False
+troutdale,candlelight vigil,False,False,False,False
+they,apartments,False,False,False,False
+whitney heichel,she,False,False,False,False
+worker,our,False,False,False,False
+body,news conference,False,False,False,False
+whitney heichel,troutdale,False,False,False,False
+whitney,searchers,False,False,False,False
+office depot,neighbor,False,False,False,False
+body,6:30 pm,False,False,False,False
+overnight,portland local news,False,False,False,False
+barista,6:30 pm,False,False,False,False
+whitney heichel,21-year-old,False,False,False,False
+larch mt,park,False,False,False,False
+searchers,worker,False,False,False,False
+barista,investigators,False,False,False,False
+woman,man,False,False,False,False
+larch mountain,10/16/2012,False,False,False,False
+cell phone,city,False,False,False,False
+bushes,tuesday morn.tipline,False,False,False,False
+troutdale,oregon,False,False,False,False
+whitney,so sad,False,False,False,False
+news conference,overnight,False,False,False,False
+oregon trail starbucks,overnight,False,False,False,False
+man,yesterday,False,False,False,False
+starbucks,gresham,False,False,False,False
+21-year-old,so sad,False,False,False,False
+big,worker,False,False,False,False
+thoughts,city,False,False,False,False
+apartment,thoughts,False,False,False,False
+bushes,10/16/2012,False,False,False,False
+work,6:30 pm,False,False,False,False
+the oregonian,so incredibly,False,False,False,False
+troutdale,field,False,False,False,False
+tonight,kids,False,False,False,False
+kids,jonathan holt,False,False,False,False
+clues,park,False,False,False,False
+worker,search,False,False,False,False
+yesterday,our,False,False,False,False
+neighbor,our,False,False,False,False
+gresham pd,field,False,False,False,False
+complex,25 tips,False,False,False,False
+they,25 tips,False,False,False,False
+horrifying,tonight,False,False,False,False
+missingperson,4pm,False,False,False,False
+suspect,work,False,False,False,False
+apartment,more,False,False,False,False
+apartment,sad,False,False,False,False
+they,work,False,False,False,False
+it,tuesday morn.tipline,False,False,False,False
+cell phone,apartment,False,False,False,False
+apartment,portland local news,False,False,False,False
+the oregonian,so sad,False,False,False,False
+missingperson,worker,False,False,False,False
+the oregonian,candlelight vigil,False,False,False,False
+body,larch mountain,False,False,False,False
+prayers,portland local news,False,False,False,False
+the oregonian,portland local news,False,False,False,False
+now,horrifying,False,False,False,False
+whitney heichel,they,False,False,False,False
+thoughts,residents,False,False,False,False
+whitney,4pm,False,False,False,False
+tomorrow night,larch mountain,False,False,False,False
+whitney heichel,oregon,False,False,False,False
+police,cold world,False,False,False,False
+troutdale,body,False,False,False,False
+suspect,tonight,False,False,False,False
+her,tonight,False,False,False,False
+starbucks,kids,False,False,False,False
+apartment,tonight,False,False,False,False
+troutdale,remains,False,False,False,False
+bushes,6:30 pm,False,False,False,False
+4pm,portland local news,False,False,False,False
+starbucks,25 tips,False,False,False,False
+starbucks,21,False,False,False,False
+cell phone,the oregonian,False,False,False,False
+horrifying,overnight,False,False,False,False
+whitney heichel,10/16/2012,False,False,False,False
+man,more,False,False,False,False
+candlelight vigil,jonathon holt,False,False,False,False
+work,worker,False,False,False,False
+4pm,10/16/2012,False,False,False,False
+horrifying,25 tips,False,False,False,False
+clues,investigators,False,False,False,False
+it,apartment,False,False,False,False
+cell phone,worker,False,False,False,False
+jonathan holt,larch mountain,False,False,False,False
+remains,five minute,False,False,False,False
+cell phone,work,False,False,False,False
+whitney heichel,woman,False,False,False,False
+cellphone,now,False,False,False,False
+kids,more,False,False,False,False
+she,tuesday morn.tipline,False,False,False,False
+barista,jonathon holt,False,False,False,False
+cellphone,news conference,False,False,False,False
+searchers,park,False,False,False,False
+news conference,u.s news,False,False,False,False
+police,body,False,False,False,False
+21-year-old,man,False,False,False,False
+man,clackamas county,False,False,False,False
+cellphone,so incredibly,False,False,False,False
+horrifying,21,False,False,False,False
+jonathon holt,portland local news,False,False,False,False
+whitney heichel.watch,searchers,False,False,False,False
+prayers,only 21,False,False,False,False
+her,6:30 pm,False,False,False,False
+starbucks,portland local news,False,False,False,False
+4pm,jonathan holt,False,False,False,False
+gresham pd,sad,False,False,False,False
+sad,only 21,False,False,False,False
+whitney,apartment,False,False,False,False
+whitney heichel,park,False,False,False,False
+tomorrow night,21,False,False,False,False
+so sad,21,False,False,False,False
+police,case,False,False,False,False
+barista,overnight,False,False,False,False
+police,the oregonian,False,False,False,False
+news conference,portland local news,False,False,False,False
+work,21,False,False,False,False
+jonathan holt,u.s news,False,False,False,False
+her,they,False,False,False,False
+she,so incredibly,False,False,False,False
+police,apartment,False,False,False,False
+starbucks,only 21,False,False,False,False
+investigators,cold world,False,False,False,False
+tonight,search,False,False,False,False
+five minute,city,False,False,False,False
+starbucks,thoughts,False,False,False,False
+now,portland local news,False,False,False,False
+police,man,False,False,False,False
+body,searchers,False,False,False,False
+cellphone,larch mountain,False,False,False,False
+tonight,residents,False,False,False,False
+suspect,residents,False,False,False,False
+whitney,tonight,False,False,False,False
+they,remains,False,False,False,False
+whitney heichel,thoughts,False,False,False,False
+tonight,woman,False,False,False,False
+only 21,larch mt,False,False,False,False
+man,crews,False,False,False,False
+oregon,searchers,False,False,False,False
+man,big,False,False,False,False
+the oregonian,park,False,False,False,False
+missingperson,larch mt,False,False,False,False
+complex,thoughts,False,False,False,False
+cellphone,6:30 pm,False,False,False,False
+it,cold world,False,False,False,False
+her,miz.chellielas vegas world news,False,False,False,False
+remains,worker,False,False,False,False
+cell phone,case,False,False,False,False
+horrifying,larch mt,False,False,False,False
+bushes,overnight,False,False,False,False
+woman,tuesday morn.tipline,False,False,False,False
+horrifying,10/16/2012,False,False,False,False
+whitney heichel,it,False,False,False,False
+her,only 21,False,False,False,False
+troutdale,neighbor,False,False,False,False
+suspect,search,False,False,False,False
+gresham pd,crews,False,False,False,False
+city,park,False,False,False,False
+crews,larch mt,False,False,False,False
+oregon trail starbucks,city,False,False,False,False
+whitney heichel.watch,6:30 pm,False,False,False,False
+bushes,25 tips,False,False,False,False
+troutdale,worker,False,False,False,False
+barista,woman,False,False,False,False
+tuesday morn.tipline,4pm,False,False,False,False
+4pm,worker,False,False,False,False
+so sad,investigators,False,False,False,False
+troutdale,10/16/2012,False,False,False,False
+the oregonian,4pm,False,False,False,False
+apartments,portland local news,False,False,False,False
+big,investigators,False,False,False,False
+whitney heichel.watch,u.s news,False,False,False,False
+five minute,clackamas county,False,False,False,False
+five minute,neighbor,False,False,False,False
+neighbor,yesterday,False,False,False,False
+the oregonian,21,False,False,False,False
+barista,larch mt,False,False,False,False
+work,woman,False,False,False,False
+tomorrow night,man,False,False,False,False
+cellphone,candlelight vigil,False,False,False,False
+now,clackamas county,False,False,False,False
+jonathan holt,our,False,False,False,False
+gresham pd,cell phone,False,False,False,False
+complex,so sad,False,False,False,False
+family,neighbor,False,False,False,False
+oregon,cold world,False,False,False,False
+gresham pd,search,False,False,False,False
+gresham,portland local news,False,False,False,False
+overnight,our,False,False,False,False
+sad,portland local news,False,False,False,False
+apartment,apartments,True,False,False,False
+whitney heichel.watch,barista,False,False,False,False
+it,search,False,False,False,False
+only 21,park,False,False,False,False
+missingperson,barista,False,False,False,False
+apartment,big,False,False,False,False
+work,tonight,False,False,False,False
+cellphone,tonight,False,False,False,False
+tuesday morn.tipline,park,False,False,False,False
+21-year-old,searchers,False,False,False,False
+worker,crews,False,False,False,False
+case,crews,False,False,False,False
+whitney,cellphone,False,False,False,False
+cellphone,the oregonian,False,False,False,False
+missingperson,jonathan holt,False,False,False,False
+whitney heichel,remains,False,False,False,False
+searchers,4pm,False,False,False,False
+tonight,u.s news,False,False,False,False
+missingperson,overnight,False,False,False,False
+now,tonight,False,False,False,False
+she,6:30 pm,False,False,False,False
+missingperson,complex,False,False,False,False
+candlelight vigil,search,False,False,False,False
+oregon,work,False,False,False,False
+remains,only 21,False,False,False,False
+police,office depot,False,False,False,False
+candlelight vigil,only 21,False,False,False,False
+oregon,6:30 pm,False,False,False,False
+they,complex,False,False,False,False
+suspect,neighbor,False,False,False,False
+4pm,cold world,False,False,False,False
+sad,city,False,False,False,False
+gresham,woman,False,False,False,False
+horrifying,residents,False,False,False,False
+candlelight vigil,thoughts,False,False,False,False
+five minute,yesterday,False,False,False,False
+sad,kids,False,False,False,False
+barista,they,False,False,False,False
+she,neighbor,False,False,False,False
+complex,u.s news,False,False,False,False
+the oregonian,work,False,False,False,False
+miz.chellielas vegas world news,only 21,False,False,False,False
+five minute,crews,False,False,False,False
+it,the oregonian,False,False,False,False
+gresham,office depot,False,False,False,False
+family,only 21,False,False,False,False
+whitney,five minute,False,False,False,False
+they,cold world,False,False,False,False
+starbucks,the oregonian,False,False,False,False
+cell phone,only 21,False,False,False,False
+tonight,yesterday,False,False,False,False
+apartments,complex,False,False,False,False
+4pm,u.s news,False,False,False,False
+whitney heichel.watch,cell phone,False,False,False,False
+office depot,investigators,False,False,False,False
+prayers,suspect,False,False,False,False
+police,search,False,False,False,False
+complex,overnight,False,False,False,False
+bushes,more,False,False,False,False
+21-year-old,horrifying,False,False,False,False
+sad,10/16/2012,False,False,False,False
+news conference,crews,False,False,False,False
+her,barista,False,False,False,False
+she,news conference,False,False,False,False
+only 21,thoughts,False,False,False,False
+office depot,crews,False,False,False,False
+prayers,u.s news,False,False,False,False
+they,clues,False,False,False,False
+apartments,suspect,False,False,False,False
+barista,10/16/2012,False,False,False,False
+it,25 tips,False,False,False,False
+woman,kids,False,False,False,False
+oregon,our,False,False,False,False
+remains,investigators,False,False,False,False
+whitney heichel.watch,case,False,False,False,False
+whitney heichel.watch,larch mountain,False,False,False,False
+whitney heichel.watch,thoughts,False,False,False,False
+work,larch mt,False,False,False,False
+oregon trail starbucks,portland local news,False,False,False,False
+cell phone,residents,False,False,False,False
+remains,more,False,False,False,False
+it,6:30 pm,False,False,False,False
+police,police,True,False,False,False
+sad,overnight,False,False,False,False
+troutdale,now,False,False,False,False
+apartments,body,False,False,False,False
+city,our,False,False,False,False
+troutdale,sad,False,False,False,False
+the oregonian,residents,False,False,False,False
+thoughts,10/16/2012,False,False,False,False
+her,bushes,False,False,False,False
+gresham pd,4pm,False,False,False,False
+thoughts,more,False,False,False,False
+bushes,work,False,False,False,False
+starbucks,more,False,False,False,False
+now,neighbor,False,False,False,False
+troutdale,suspect,False,False,False,False
+kids,portland local news,False,False,False,False
+kids,big,False,False,False,False
+her,oregon trail starbucks,False,False,False,False
+only 21,larch mountain,False,False,False,False
+oregon,man,False,False,False,False
+the oregonian,larch mountain,False,False,False,False
+sad,yesterday,False,False,False,False
+troutdale,residents,False,False,False,False
+body,suspect,False,False,False,False
+sad,clackamas county,False,False,False,False
+gresham pd,clues,False,False,False,False
+bushes,complex,False,False,False,False
+now,6:30 pm,False,False,False,False
+tonight,investigators,False,False,False,False
+tonight,jonathon holt,False,False,False,False
+troutdale,larch mt,False,False,False,False
+horrifying,office depot,False,False,False,False
+cellphone,tomorrow night,False,False,False,False
+apartment,city,False,False,False,False
+law wire news,crews,False,False,False,False
+whitney heichel.watch,bushes,False,False,False,False
+police,tomorrow night,False,False,False,False
+missingperson,yesterday,False,False,False,False
+larch mountain,cold world,False,False,False,False
+prayers,investigators,False,False,False,False
+news conference,larch mountain,False,False,False,False
+25 tips,city,False,False,False,False
+miz.chellielas vegas world news,oregon,False,False,False,False
+troutdale,jonathan holt,False,False,False,False
+news conference,21,False,False,False,False
+suspect,office depot,False,False,False,False
+cell phone,office depot,False,False,False,False
+searchers,residents,False,False,False,False
+troutdale,21,False,False,False,False
+only 21,clackamas county,False,False,False,False
+horrifying,big,False,False,False,False
+clackamas county,u.s news,False,False,False,False
+her,cellphone,False,False,False,False
+it,portland local news,False,False,False,False
+starbucks,cold world,False,False,False,False
+complex,6:30 pm,False,False,False,False
+search,clackamas county,False,False,False,False
+cold world,10/16/2012,False,False,False,False
+cellphone,so sad,False,False,False,False
+whitney heichel,overnight,False,False,False,False
+oregon,law wire news,False,False,False,False
+whitney,larch mountain,False,False,False,False
+tomorrow night,woman,False,False,False,False
+oregon,five minute,False,False,False,False
+whitney,oregon trail starbucks,False,False,False,False
+barista,police,False,False,False,False
+field,searchers,False,False,False,False
+her,cell phone,False,False,False,False
+it,kids,False,False,False,False
+apartment,yesterday,False,False,False,False
+apartment,21-year-old,False,False,False,False
+man,only 21,False,False,False,False
+crews,more,False,False,False,False
+woman,larch mountain,False,False,False,False
+missingperson,apartment,False,False,False,False
+the oregonian,6:30 pm,False,False,False,False
+it,jonathon holt,False,False,False,False
+her,family,False,False,False,False
+horrifying,park,False,False,False,False
+apartments,field,False,False,False,False
+they,field,False,False,False,False
+work,10/16/2012,False,False,False,False
+work,family,False,False,False,False
+they,candlelight vigil,False,False,False,False
+apartment,jonathon holt,False,False,False,False
+she,candlelight vigil,False,False,False,False
+so incredibly,10/16/2012,False,False,False,False
+tuesday morn.tipline,thoughts,False,False,False,False
+jonathon holt,our,False,False,False,False
+remains,work,False,False,False,False
+21-year-old,search,False,False,False,False
+prayers,five minute,False,False,False,False
+apartments,search,False,False,False,False
+complex,search,False,False,False,False
+it,now,False,False,False,False
+searchers,city,False,False,False,False
+missingperson,park,False,False,False,False
+field,10/16/2012,False,False,False,False
+our,residents,False,False,False,False
+city,10/16/2012,False,False,False,False
+family,our,False,False,False,False
+oregon trail starbucks,office depot,False,False,False,False
+21-year-old,larch mt,False,False,False,False
+4pm,yesterday,False,False,False,False
+her,25 tips,False,False,False,False
+woman,more,False,False,False,False
+man,searchers,False,False,False,False
+yesterday,park,False,False,False,False
+police,horrifying,False,False,False,False
+suspect,u.s news,False,False,False,False
+6:30 pm,neighbor,False,False,False,False
+search,10/16/2012,False,False,False,False
+case,search,False,False,False,False
+barista,clues,False,False,False,False
+horrifying,only 21,False,False,False,False
+they,man,False,False,False,False
+whitney heichel.watch,investigators,False,False,False,False
+it,complex,False,False,False,False
+cellphone,worker,False,False,False,False
+investigators,25 tips,False,False,False,False
+the oregonian,worker,False,False,False,False
+cell phone,bushes,False,False,False,False
+complex,remains,False,False,False,False
+cold world,residents,False,False,False,False
+tomorrow night,cold world,False,False,False,False
+family,clues,False,False,False,False
+she,yesterday,False,False,False,False
+it,work,False,False,False,False
+she,cell phone,False,False,False,False
+barista,residents,False,False,False,False
+the oregonian,jonathan holt,False,False,False,False
+they,family,False,False,False,False
+she,only 21,False,False,False,False
+horrifying,man,False,False,False,False
+apartments,6:30 pm,False,False,False,False
+law wire news,only 21,False,False,False,False
+her,starbucks,False,False,False,False
+police,25 tips,False,False,False,False
+law wire news,portland local news,False,False,False,False
+barista,search,False,False,False,False
+five minute,news conference,False,False,False,False
+it,so sad,False,False,False,False
+troutdale,investigators,False,False,False,False
+five minute,so incredibly,False,False,False,False
+whitney heichel.watch,suspect,False,False,False,False
+work,thoughts,False,False,False,False
+21-year-old,family,False,False,False,False
+21-year-old,clues,False,False,False,False
+overnight,clackamas county,False,False,False,False
+barista,tomorrow night,False,False,False,False
+they,kids,False,False,False,False
+remains,woman,False,False,False,False
+miz.chellielas vegas world news,gresham pd,False,False,False,False
+barista,more,False,False,False,False
+whitney heichel,suspect,False,False,False,False
+apartments,the oregonian,False,False,False,False
+cell phone,cellphone,False,True,False,False
+case,cold world,False,False,False,False
+big,case,False,False,False,False
+gresham pd,clackamas county,False,False,False,False
+crews,overnight,False,False,False,False
+missingperson,gresham,False,False,False,False
+oregon trail starbucks,our,False,False,False,False
+4pm,larch mt,False,False,False,False
+they,more,False,False,False,False
+gresham,jonathon holt,False,False,False,False
+her,horrifying,False,False,False,False
+case,worker,False,False,False,False
+gresham,6:30 pm,False,False,False,False
+starbucks,cellphone,False,False,False,False
+work,cold world,False,False,False,False
+body,21-year-old,False,False,False,False
+cell phone,suspect,False,False,False,False
+suspect,man,False,False,False,False
+work,searchers,False,False,False,False
+prayers,man,False,False,False,False
+news conference,family,False,False,False,False
+search,overnight,False,False,False,False
+cellphone,complex,False,False,False,False
+missingperson,family,False,False,False,False
+only 21,crews,False,False,False,False
+troutdale,horrifying,False,False,False,False
+so sad,city,False,False,False,False
+kids,worker,False,False,False,False
+so sad,searchers,False,False,False,False
+so sad,more,False,False,False,False
+6:30 pm,clackamas county,False,False,False,False
+neighbor,larch mountain,False,False,False,False
+searchers,search,False,False,False,False
+whitney,law wire news,False,False,False,False
+complex,residents,False,False,False,False
+kids,larch mt,False,False,False,False
+sad,searchers,False,False,False,False
+sad,man,False,False,False,False
+so sad,jonathon holt,False,False,False,False
+investigators,more,False,False,False,False
+so incredibly,worker,False,False,False,False
+five minute,big,False,False,False,False
+big,crews,False,False,False,False
+the oregonian,horrifying,False,False,False,False
+search,portland local news,False,False,False,False
+suspect,clackamas county,False,False,False,False
+horrifying,investigators,False,False,False,False
+the oregonian,only 21,False,False,False,False
+whitney heichel.watch,10/16/2012,False,False,False,False
+whitney heichel.watch,five minute,False,False,False,False
+whitney,man,False,False,False,False
+police,yesterday,False,False,False,False
+man,man,True,False,False,False
+man,our,False,False,False,False
+apartments,tonight,False,False,False,False
+they,so sad,False,False,False,False
+clackamas county,10/16/2012,False,False,False,False
+complex,work,False,False,False,False
+she,police,False,False,False,False
+police,field,False,False,False,False
+law wire news,search,False,False,False,False
+miz.chellielas vegas world news,worker,False,False,False,False
+missingperson,investigators,False,False,False,False
+25 tips,overnight,False,False,False,False
+starbucks,cell phone,False,False,False,False
+work,man,False,False,False,False
+cold world,more,False,False,False,False
+tomorrow night,crews,False,False,False,False
+so sad,10/16/2012,False,False,False,False
+apartments,woman,False,False,False,False
+oregon,jonathan holt,False,False,False,False
+barista,barista,False,True,False,False
+whitney heichel,news conference,False,False,False,False
+now,overnight,False,False,False,False
+remains,big,False,False,False,False
+6:30 pm,cold world,False,False,False,False
+body,portland local news,False,False,False,False
+her,so sad,False,False,False,False
+the oregonian,tuesday morn.tipline,False,False,False,False
+suspect,park,False,False,False,False
+news conference,so sad,False,False,False,False
+her,she,False,False,False,False
+now,21,False,False,False,False
+our,u.s news,False,False,False,False
+apartment,remains,False,False,False,False
+missingperson,our,False,False,False,False
+complex,searchers,False,False,False,False
+crews,investigators,False,False,False,False
+whitney,whitney heichel.watch,False,False,True,False
+barista,gresham pd,False,False,False,False
+work,yesterday,False,False,False,False
+kids,4pm,False,False,False,False
+now,more,False,False,False,False
+field,park,False,False,False,False
+searchers,portland local news,False,False,False,False
+her,park,False,False,False,False
+prayers,big,False,False,False,False
+gresham pd,body,False,False,False,False
+starbucks,it,False,False,False,False
+crews,25 tips,False,False,False,False
+21-year-old,woman,False,False,False,False
+family,office depot,False,False,False,False
+five minute,search,False,False,False,False
+missingperson,office depot,False,False,False,False
+prayers,they,False,False,False,False
+man,4pm,False,False,False,False
+barista,u.s news,False,False,False,False
+law wire news,city,False,False,False,False
+police,city,False,False,False,False
+it,candlelight vigil,False,False,False,False
+complex,body,False,False,False,False
+the oregonian,big,False,False,False,False
+police,larch mt,False,False,False,False
+it,21,False,False,False,False
+neighbor,crews,False,False,False,False
+only 21,21,False,False,True,False
+only 21,portland local news,False,False,False,False
+tuesday morn.tipline,worker,False,False,False,False
+city,portland local news,False,False,False,False
+office depot,cold world,False,False,False,False
+work,4pm,False,False,False,False
+work,u.s news,False,False,False,False
+cellphone,25 tips,False,False,False,False
+remains,our,False,False,False,False
+tomorrow night,larch mt,False,False,False,False
+jonathon holt,yesterday,False,False,False,False
+whitney heichel.watch,man,False,False,False,False
+office depot,4pm,False,False,False,False
+gresham,big,False,False,False,False
+body,tonight,False,False,False,False
+case,25 tips,False,False,False,False
+cell phone,cell phone,False,True,False,False
+tomorrow night,more,False,False,False,False
+apartments,news conference,False,False,False,False
+clues,thoughts,False,False,False,False
+body,residents,False,False,False,False
+jonathon holt,jonathan holt,False,True,False,False
+missingperson,u.s news,False,False,False,False
+horrifying,city,False,False,False,False
+suspect,21-year-old,False,False,False,False
+whitney heichel,neighbor,False,False,False,False
+starbucks,worker,False,False,False,False
+police,news conference,False,False,False,False
+missingperson,apartments,False,False,False,False
+the oregonian,kids,False,False,False,False
+tomorrow night,residents,False,False,False,False
+work,horrifying,False,False,False,False
+residents,u.s news,False,False,False,False
+tomorrow night,jonathan holt,False,False,False,False
+miz.chellielas vegas world news,sad,False,False,False,False
+work,case,False,False,False,False
+man,city,False,False,False,False
+she,now,False,False,False,False
+horrifying,worker,False,False,False,False
+she,sad,False,False,False,False
+6:30 pm,searchers,False,False,False,False
+man,25 tips,False,False,False,False
+it,horrifying,False,False,False,False
+neighbor,investigators,False,False,False,False
+oregon,case,False,False,False,False
+missingperson,work,False,False,False,False
+so incredibly,residents,False,False,False,False
+cellphone,park,False,False,False,False
+25 tips,thoughts,False,False,False,False
+gresham,so incredibly,False,False,False,False
+her,yesterday,False,False,False,False
+whitney heichel,clackamas county,False,False,False,False
+police,larch mountain,False,False,False,False
+suspect,10/16/2012,False,False,False,False
+prayers,she,False,False,False,False
+field,cold world,False,False,False,False
+whitney,gresham,False,False,False,False
+neighbor,25 tips,False,False,False,False
+prayers,it,False,False,False,False
+cellphone,remains,False,False,False,False
+she,park,False,False,False,False
+candlelight vigil,10/16/2012,False,False,False,False
+whitney,horrifying,False,False,False,False
+complex,larch mt,False,False,False,False
+remains,yesterday,False,False,False,False
+she,21-year-old,False,False,False,False
+her,law wire news,False,False,False,False
+only 21,worker,False,False,False,False
+it,office depot,False,False,False,False
+apartment,residents,False,False,False,False
+now,the oregonian,False,False,False,False
+oregon trail starbucks,police,False,False,False,False
+gresham,crews,False,False,False,False
+troutdale,21-year-old,False,False,False,False
+starbucks,horrifying,False,False,False,False
+oregon,search,False,False,False,False
+now,crews,False,False,False,False
+her,field,False,False,False,False
+family,crews,False,False,False,False
+cellphone,suspect,False,False,False,False
+suspect,cold world,False,False,False,False
+neighbor,park,False,False,False,False
+law wire news,residents,False,False,False,False
+oregon trail starbucks,yesterday,False,False,False,False
+6:30 pm,10/16/2012,False,False,False,False
+larch mountain,larch mt,False,False,False,False
+sad,woman,False,False,False,False
+worker,overnight,False,False,False,False
+man,park,False,False,False,False
+big,only 21,False,False,False,False
+troutdale,tomorrow night,False,False,False,False
+larch mountain,our,False,False,False,False
+work,office depot,False,False,False,False
+candlelight vigil,more,False,False,False,False
+starbucks,4pm,False,False,False,False
+6:30 pm,clues,False,False,False,False
+now,office depot,False,False,False,False
+the oregonian,larch mt,False,False,False,False
+she,they,False,False,False,False
+remains,park,False,False,False,False
+cellphone,search,False,False,False,False
+bushes,troutdale,False,False,False,False
+bushes,thoughts,False,False,False,False
+suspect,larch mt,False,False,False,False
+missingperson,news conference,False,False,False,False
+starbucks,apartments,False,False,False,False
+remains,so incredibly,False,False,False,False
+starbucks,big,False,False,False,False
+they,searchers,False,False,False,False
+cellphone,jonathan holt,False,False,False,False
+neighbor,clues,False,False,False,False
+crews,u.s news,False,False,False,False
+man,cold world,False,False,False,False
+her,suspect,False,False,False,False
+complex,troutdale,False,False,False,False
+complex,woman,False,False,False,False
+man,thoughts,False,False,False,False
+kids,clackamas county,False,False,False,False
+woman,yesterday,False,False,False,False
+field,residents,False,False,False,False
+five minute,sad,False,False,False,False
+so incredibly,u.s news,False,False,False,False
+work,work,True,False,False,False
+whitney heichel.watch,law wire news,False,False,False,False
+tonight,larch mt,False,False,False,False
+big,10/16/2012,False,False,False,False
+so incredibly,search,False,False,False,False
+barista,4pm,False,False,False,False
+whitney heichel.watch,police,False,False,False,False
+apartment,clues,False,False,False,False
+suspect,worker,False,False,False,False
+whitney heichel,cellphone,False,False,False,False
+prayers,larch mountain,False,False,False,False
+21-year-old,city,False,False,False,False
+gresham,residents,False,False,False,False
+residents,10/16/2012,False,False,False,False
+so incredibly,4pm,False,False,False,False
+field,only 21,False,False,False,False
+candlelight vigil,cold world,False,False,False,False
+whitney,it,False,False,False,False
+troutdale,overnight,False,False,False,False
+starbucks,larch mt,False,False,False,False
+suspect,candlelight vigil,False,False,False,False
+police,only 21,False,False,False,False
+suspect,investigators,False,False,False,False
+6:30 pm,crews,False,False,False,False
+woman,u.s news,False,False,False,False
+miz.chellielas vegas world news,park,False,False,False,False
+4pm,search,False,False,False,False
+they,the oregonian,False,False,False,False
+crews,larch mountain,False,False,False,False
+the oregonian,sad,False,False,False,False
+gresham,tuesday morn.tipline,False,False,False,False
+whitney heichel,searchers,False,False,False,False
+oregon,horrifying,False,False,False,False
+law wire news,office depot,False,False,False,False
+oregon,oregon,True,False,False,False
+cell phone,jonathon holt,False,False,False,False
+cell phone,sad,False,False,False,False
+field,portland local news,False,False,False,False
+now,thoughts,False,False,False,False
+apartment,office depot,False,False,False,False
+law wire news,park,False,False,False,False
+complex,tuesday morn.tipline,False,False,False,False
+whitney,kids,False,False,False,False
+tuesday morn.tipline,more,False,False,False,False
+news conference,case,False,False,False,False
+jonathon holt,park,False,False,False,False
+tomorrow night,city,False,False,False,False
+candlelight vigil,crews,False,False,False,False
+jonathon holt,10/16/2012,False,False,False,False
+21-year-old,work,False,False,False,False
+so sad,u.s news,False,False,False,False
+office depot,yesterday,False,False,False,False
+body,tomorrow night,False,False,False,False
+remains,sad,False,False,False,False
+only 21,overnight,False,False,False,False
+oregon,office depot,False,False,False,False
+case,larch mt,False,False,False,False
+horrifying,kids,False,False,False,False
+larch mountain,overnight,False,False,False,False
+whitney,u.s news,False,False,False,False
+news conference,woman,False,False,False,False
+suspect,only 21,False,False,False,False
+whitney heichel,larch mt,False,False,False,False
+missingperson,thoughts,False,False,False,False
+horrifying,larch mountain,False,False,False,False
+they,clackamas county,False,False,False,False
+cellphone,jonathon holt,False,False,False,False
+troutdale,man,False,False,False,False
+troutdale,our,False,False,False,False
+office depot,10/16/2012,False,False,False,False
+body,larch mt,False,False,False,False
+whitney heichel.watch,park,False,False,False,False
+kids,clues,False,False,False,False
+cellphone,u.s news,False,False,False,False
+6:30 pm,jonathon holt,False,False,False,False
+whitney heichel,so incredibly,False,False,False,False
+horrifying,tuesday morn.tipline,False,False,False,False
+it,worker,False,False,False,False
+jonathan holt,clues,False,False,False,False
+whitney,work,False,False,False,False
+it,clues,False,False,False,False
+body,crews,False,False,False,False
+her,thoughts,False,False,False,False
+missingperson,crews,False,False,False,False
+law wire news,candlelight vigil,False,False,False,False
+police,kids,False,False,False,False
+thoughts,clackamas county,False,False,False,False
+police,complex,False,False,False,False
+bushes,city,False,False,False,False
+bushes,case,False,False,False,False
+6:30 pm,search,False,False,False,False
+cellphone,21,False,False,False,False
+they,apartment,False,False,False,False
+tuesday morn.tipline,21,False,False,False,False
+oregon,only 21,False,False,False,False
+apartments,thoughts,False,False,False,False
+so incredibly,park,False,False,False,False
+whitney,woman,False,False,False,False
+neighbor,tuesday morn.tipline,False,False,False,False
+news conference,our,False,False,False,False
+cell phone,horrifying,False,False,False,False
+now,woman,False,False,False,False
+police,sad,False,False,False,False
+law wire news,clackamas county,False,False,False,False
+candlelight vigil,searchers,False,False,False,False
+starbucks,tuesday morn.tipline,False,False,False,False
+whitney,worker,False,False,False,False
+search,park,False,False,False,False
+troutdale,office depot,False,False,False,False
+21-year-old,law wire news,False,False,False,False
+cell phone,so incredibly,False,False,False,False
+jonathon holt,clackamas county,False,False,False,False
+tonight,tomorrow night,False,False,False,False
+21-year-old,crews,False,False,False,False
+complex,neighbor,False,False,False,False
+apartments,man,False,False,False,False
+21,city,False,False,False,False
+the oregonian,tomorrow night,False,False,False,False
+worker,residents,False,False,False,False
+clackamas county,residents,False,False,False,False
+complex,the oregonian,False,False,False,False
+it,yesterday,False,False,False,False
+police,bushes,False,False,False,False
+whitney heichel,her,False,False,False,False
+kids,yesterday,False,False,False,False
+kids,25 tips,False,False,False,False
+tomorrow night,10/16/2012,False,False,False,False
+law wire news,man,False,False,False,False
+tuesday morn.tipline,overnight,False,False,False,False
+it,neighbor,False,False,False,False
+prayers,jonathon holt,False,False,False,False
+starbucks,gresham pd,False,False,False,False
+tuesday morn.tipline,search,False,False,False,False
+tuesday morn.tipline,kids,False,False,False,False
+big,4pm,False,False,False,False
+cellphone,searchers,False,False,False,False
+office depot,jonathon holt,False,False,False,False
+big,larch mountain,False,False,False,False
+body,clues,False,False,False,False
+troutdale,larch mountain,False,False,False,False
+miz.chellielas vegas world news,so sad,False,False,False,False
+missingperson,miz.chellielas vegas world news,False,False,False,False
+work,candlelight vigil,False,False,False,False
+whitney heichel,whitney heichel,False,True,False,False
+five minute,4pm,False,False,False,False
+news conference,thoughts,False,False,False,False
+they,larch mountain,False,False,False,False
+body,work,False,False,False,False
+she,law wire news,False,False,False,False
+gresham,sad,False,False,False,False
+body,man,False,False,False,False
+whitney,jonathon holt,False,False,False,False
+miz.chellielas vegas world news,21,False,False,False,False
+tonight,neighbor,False,False,False,False
+crews,10/16/2012,False,False,False,False
+miz.chellielas vegas world news,law wire news,False,False,False,False
+troutdale,law wire news,False,False,False,False
+whitney heichel.watch,she,False,False,False,False
+she,woman,False,False,False,False
+starbucks,search,False,False,False,False
+miz.chellielas vegas world news,troutdale,False,False,False,False
+candlelight vigil,kids,False,False,False,False
+cellphone,it,False,False,False,False
+man,portland local news,False,False,False,False
+bushes,cold world,False,False,False,False
+they,larch mt,False,False,False,False
+five minute,five minute,False,True,False,False
+five minute,only 21,False,False,False,False
+whitney,only 21,False,False,False,False
+now,case,False,False,False,False
+tonight,21,False,False,False,False
+larch mountain,25 tips,False,False,False,False
+apartment,field,False,False,False,False
+troutdale,crews,False,False,False,False
+21-year-old,jonathan holt,False,False,False,False
+21-year-old,tonight,False,False,False,False
+it,big,False,False,False,False
+yesterday,clackamas county,False,False,False,False
+now,family,False,False,False,False
+bushes,park,False,False,False,False
+whitney heichel,jonathan holt,False,False,False,False
+whitney,clues,False,False,False,False
+cell phone,man,False,False,False,False
+neighbor,cold world,False,False,False,False
+oregon,field,False,False,False,False
+so incredibly,city,False,False,False,False
+big,jonathon holt,False,False,False,False
+her,clackamas county,False,False,False,False
+law wire news,tuesday morn.tipline,False,False,False,False
+family,clackamas county,False,False,False,False
+complex,clues,False,False,False,False
+her,jonathon holt,False,False,False,False
+police,tonight,False,False,False,False
+tonight,thoughts,False,False,False,False
+remains,office depot,False,False,False,False
+horrifying,so sad,False,False,False,False
+crews,portland local news,False,False,False,False
+so incredibly,our,False,False,False,False
+candlelight vigil,woman,False,False,False,False
+oregon,21,False,False,False,False
+apartment,u.s news,False,False,False,False
+thoughts,our,False,False,False,False
+whitney heichel,more,False,False,False,False
+they,cellphone,False,False,False,False
+portland local news,clackamas county,False,False,False,False
+five minute,clues,False,False,False,False
+barista,big,False,False,False,False
+she,21,False,False,False,False
+they,4pm,False,False,False,False
+sad,jonathon holt,False,False,False,False
+tomorrow night,kids,False,False,False,False
+21-year-old,worker,False,False,False,False
+missingperson,oregon,False,False,False,False
+law wire news,cold world,False,False,False,False
+cell phone,kids,False,False,False,False
+prayers,21-year-old,False,False,False,False
+remains,oregon,False,False,False,False
+whitney heichel.watch,apartments,False,False,False,False
+whitney heichel.watch,jonathon holt,False,False,False,False
+case,case,True,False,False,False
+work,clues,False,False,False,False
+bushes,larch mountain,False,False,False,False
+body,tuesday morn.tipline,False,False,False,False
+she,overnight,False,False,False,False
+prayers,larch mt,False,False,False,False
+apartments,clues,False,False,False,False
+oregon,overnight,False,False,False,False
+whitney heichel.watch,starbucks,False,False,False,False
+big,yesterday,False,False,False,False
+whitney,her,False,False,False,False
+remains,candlelight vigil,False,False,False,False
+her,10/16/2012,False,False,False,False
+miz.chellielas vegas world news,gresham,False,False,False,False
+neighbor,searchers,False,False,False,False
+bushes,candlelight vigil,False,False,False,False
+bushes,our,False,False,False,False
+barista,searchers,False,False,False,False
+complex,so incredibly,False,False,False,False
+jonathan holt,park,False,False,False,False
+yesterday,more,False,False,False,False
+office depot,big,False,False,False,False
+whitney heichel.watch,missingperson,False,False,False,False
+law wire news,woman,False,False,False,False
+it,bushes,False,False,False,False
+suspect,kids,False,False,False,False
+now,oregon,False,False,False,False
+tomorrow night,clackamas county,False,False,False,False
+body,candlelight vigil,False,False,False,False
+bushes,apartment,False,False,False,False
+jonathon holt,worker,False,False,False,False
+cellphone,apartment,False,False,False,False
+sad,park,False,False,False,False
+barista,body,False,False,False,False
+she,missingperson,False,False,False,False
+starbucks,yesterday,False,False,False,False
+her,woman,False,False,False,False
+bushes,tomorrow night,False,False,False,False
+family,portland local news,False,False,False,False
+whitney heichel.watch,so sad,False,False,False,False
+missingperson,cell phone,False,False,False,False
+remains,u.s news,False,False,False,False
+larch mountain,park,False,False,False,False
+woman,25 tips,False,False,False,False
+oregon trail starbucks,worker,False,False,False,False
+whitney,cell phone,False,False,False,False
+search,yesterday,False,False,False,False
+they,10/16/2012,False,False,False,False
+sad,tomorrow night,False,False,False,False
+horrifying,searchers,False,False,False,False
+apartment,man,False,False,False,False
+gresham pd,investigators,False,False,False,False
+apartments,more,False,False,False,False
+cellphone,woman,False,False,False,False
+21-year-old,field,False,False,False,False
+whitney heichel,investigators,False,False,False,False
+whitney,larch mt,False,False,False,False
+they,suspect,False,False,False,False
+kids,10/16/2012,False,False,False,False
+work,so incredibly,False,False,False,False
+gresham pd,city,False,False,False,False
+body,10/16/2012,False,False,False,False
+complex,10/16/2012,False,False,False,False
+field,jonathan holt,False,False,False,False
+miz.chellielas vegas world news,family,False,False,False,False
+so incredibly,jonathan holt,False,False,False,False
+cell phone,apartments,False,False,False,False
+apartment,overnight,False,False,False,False
+office depot,overnight,False,False,False,False
+apartment,larch mt,False,False,False,False
+cell phone,big,False,False,False,False
+suspect,law wire news,False,False,False,False
+whitney heichel,apartment,False,False,False,False
+they,now,False,False,False,False
+miz.chellielas vegas world news,cellphone,False,False,False,False
+woman,10/16/2012,False,False,False,False
+apartments,only 21,False,False,False,False
+neighbor,case,False,False,False,False
+woman,jonathon holt,False,False,False,False
+tomorrow night,thoughts,False,False,False,False
+so incredibly,family,False,False,False,False
+woman,park,False,False,False,False
+jonathan holt,larch mt,False,False,False,False
+five minute,larch mountain,False,False,False,False
+whitney,she,False,False,False,False
+overnight,city,False,False,False,False
+cell phone,family,False,False,False,False
+neighbor,thoughts,False,False,False,False
+remains,jonathon holt,False,False,False,False
+news conference,city,False,False,False,False
+gresham,the oregonian,False,False,False,False
+suspect,more,False,False,False,False
+clues,25 tips,False,False,False,False
+prayers,the oregonian,False,False,False,False
+larch mountain,investigators,False,False,False,False
+suspect,portland local news,False,False,False,False
+so incredibly,office depot,False,False,False,False
+office depot,kids,False,False,False,False
+woman,city,False,False,False,False
+so incredibly,thoughts,False,False,False,False
+five minute,so sad,False,False,False,False
+it,sad,False,False,False,False
+horrifying,family,False,False,False,False
+whitney heichel.watch,oregon,False,False,False,False
+starbucks,case,False,False,False,False
+miz.chellielas vegas world news,apartment,False,False,False,False
+complex,case,False,False,False,False
+news conference,10/16/2012,False,False,False,False
+five minute,jonathan holt,False,False,False,False
+whitney,thoughts,False,False,False,False
+whitney,troutdale,False,False,False,False
+case,jonathon holt,False,False,False,False
+barista,law wire news,False,False,False,False
+cold world,u.s news,False,False,False,False
+prayers,21,False,False,False,False
+worker,portland local news,False,False,False,False
+gresham,police,False,False,False,False
+starbucks,our,False,False,False,False
+cell phone,thoughts,False,False,False,False
+her,now,False,False,False,False
+21-year-old,sad,False,False,False,False
+barista,25 tips,False,False,False,False
+starbucks,man,False,False,False,False
+missingperson,larch mountain,False,False,False,False
+police,cell phone,False,False,False,False
+now,yesterday,False,False,False,False
+case,4pm,False,False,False,False
+candlelight vigil,park,False,False,False,False
+candlelight vigil,man,False,False,False,False
+sad,25 tips,False,False,False,False
+6:30 pm,larch mt,False,False,False,False
+gresham pd,residents,False,False,False,False
+remains,tonight,False,False,False,False
+searchers,thoughts,False,False,False,False
+tuesday morn.tipline,larch mountain,False,False,False,False
+cell phone,oregon,False,False,False,False
+office depot,clues,False,False,False,False
+larch mt,city,False,False,False,False
+6:30 pm,kids,False,False,False,False
+her,the oregonian,False,False,False,False
+cellphone,five minute,False,False,False,False
+police,clues,False,False,False,False
+news conference,horrifying,False,False,False,False
+so incredibly,jonathon holt,False,False,False,False
+prayers,gresham,False,False,False,False
+big,our,False,False,False,False
+yesterday,cold world,False,False,False,False
+prayers,thoughts,False,False,False,False
+whitney,apartments,False,False,False,False
+police,10/16/2012,False,False,False,False
+the oregonian,clackamas county,False,False,False,False
+miz.chellielas vegas world news,cold world,False,False,False,False
+only 21,yesterday,False,False,False,False
+21-year-old,tomorrow night,False,False,False,False
+tomorrow night,park,False,False,False,False
+it,remains,False,False,False,False
+her,residents,False,False,False,False
+search,u.s news,False,False,False,False
+oregon,larch mt,False,False,False,False
+kids,searchers,False,False,False,False
+oregon trail starbucks,clues,False,False,False,False
+she,our,False,False,False,False
+they,news conference,False,False,False,False
+gresham pd,case,False,False,False,False
+whitney,now,False,False,False,False
+suspect,family,False,False,False,False
+work,so sad,False,False,False,False
+she,man,False,False,False,False
+cell phone,crews,False,False,False,False
+whitney,6:30 pm,False,False,False,False
+apartment,oregon,False,False,False,False
+oregon trail starbucks,jonathon holt,False,False,False,False
+missingperson,man,False,False,False,False
+miz.chellielas vegas world news,tuesday morn.tipline,False,False,False,False
+cellphone,residents,False,False,False,False
+they,tuesday morn.tipline,False,False,False,False
+law wire news,big,False,False,False,False
+they,investigators,False,False,False,False
+now,work,False,False,False,False
+five minute,office depot,False,False,False,False
+troutdale,woman,False,False,False,False
+prayers,work,False,False,False,False
+miz.chellielas vegas world news,kids,False,False,False,False
+office depot,larch mt,False,False,False,False
+prayers,bushes,False,False,False,False
+barista,news conference,False,False,False,False
+it,searchers,False,False,False,False
+suspect,sad,False,False,False,False
+jonathan holt,search,False,False,False,False
+only 21,u.s news,False,False,False,False
+office depot,city,False,False,False,False
+6:30 pm,jonathan holt,False,False,False,False
+body,cold world,False,False,False,False
+the oregonian,case,False,False,False,False
+body,big,False,False,False,False
+barista,the oregonian,False,False,False,False
+complex,city,False,False,False,False
+big,25 tips,False,False,False,False
+oregon trail starbucks,only 21,False,False,False,False
+she,bushes,False,False,False,False
+prayers,case,False,False,False,False
+investigators,yesterday,False,False,False,False
+sad,neighbor,False,False,False,False
+sad,office depot,False,False,False,False
+21-year-old,neighbor,False,False,False,False
+her,neighbor,False,False,False,False
+her,troutdale,False,False,False,False
+case,yesterday,False,False,False,False
+office depot,tuesday morn.tipline,False,False,False,False
+apartments,so sad,False,False,False,False
+so incredibly,crews,False,False,False,False
+missingperson,they,False,False,False,False
+cell phone,complex,False,False,False,False
+starbucks,now,False,False,False,False
+gresham,horrifying,False,False,False,False
+cell phone,cold world,False,False,False,False
+larch mt,overnight,False,False,False,False
+tonight,clues,False,False,False,False
+suspect,tuesday morn.tipline,False,False,False,False
+big,21,False,False,False,False
+only 21,case,False,False,False,False
+her,21,False,False,False,False
+larch mt,portland local news,False,False,False,False
+tonight,our,False,False,False,False
+the oregonian,yesterday,False,False,False,False
+oregon,tonight,False,False,False,False
+missingperson,21,False,False,False,False
+she,troutdale,False,False,False,False
+miz.chellielas vegas world news,6:30 pm,False,False,False,False
+now,so incredibly,False,False,False,False
+missingperson,so sad,False,False,False,False
+cell phone,so sad,False,False,False,False
+she,search,False,False,False,False
+miz.chellielas vegas world news,man,False,False,False,False
+apartments,so incredibly,False,False,False,False
+whitney heichel.watch,miz.chellielas vegas world news,False,False,False,False
+larch mt,cold world,False,False,False,False
+case,investigators,False,False,False,False
+whitney heichel,whitney,False,False,True,False
+family,cold world,False,False,False,False
+whitney heichel.watch,gresham,False,False,False,False
+miz.chellielas vegas world news,jonathan holt,False,False,False,False
+bushes,larch mt,False,False,False,False
+miz.chellielas vegas world news,remains,False,False,False,False
+oregon,kids,False,False,False,False
+complex,jonathan holt,False,False,False,False
+overnight,u.s news,False,False,False,False
+the oregonian,five minute,False,False,False,False
+she,larch mt,False,False,False,False
+she,apartment,False,False,False,False
+25 tips,u.s news,False,False,False,False
+only 21,jonathon holt,False,False,False,False
+apartments,candlelight vigil,False,False,False,False
+her,five minute,False,False,False,False
+tonight,big,False,False,False,False
+cell phone,investigators,False,False,False,False
+miz.chellielas vegas world news,4pm,False,False,False,False
+they,jonathan holt,False,False,False,False
+jonathon holt,larch mt,False,False,False,False
+news conference,searchers,False,False,False,False
+news conference,office depot,False,False,False,False
+so sad,our,False,False,False,False
+whitney heichel,gresham pd,False,False,False,False
+oregon,city,False,False,False,False
+whitney heichel.watch,candlelight vigil,False,False,False,False
+neighbor,4pm,False,False,False,False
+the oregonian,search,False,False,False,False
+worker,larch mt,False,False,False,False
+candlelight vigil,6:30 pm,False,False,False,False
+larch mt,thoughts,False,False,False,False
+bushes,portland local news,False,False,False,False
+gresham pd,office depot,False,False,False,False
+apartment,five minute,False,False,False,False
+missingperson,portland local news,False,False,False,False
+whitney heichel,sad,False,False,False,False
+sad,big,False,False,False,False
+so incredibly,candlelight vigil,False,False,False,False
+whitney heichel,now,False,False,False,False
+complex,tonight,False,False,False,False
+work,portland local news,False,False,False,False
+police,more,False,False,False,False
+field,city,False,False,False,False
+she,complex,False,False,False,False
+law wire news,more,False,False,False,False
+prayers,more,False,False,False,False
+oregon,big,False,False,False,False
+complex,more,False,False,False,False
+gresham pd,so sad,False,False,False,False
+woman,case,False,False,False,False
+body,jonathon holt,False,False,False,False
+her,gresham,False,False,False,False
+remains,searchers,False,False,False,False
+news conference,search,False,False,False,False
+miz.chellielas vegas world news,police,False,False,False,False
+starbucks,suspect,False,False,False,False
+cell phone,law wire news,False,False,False,False
+barista,now,False,False,False,False
+whitney heichel.watch,25 tips,False,False,False,False
+so sad,search,False,False,False,False
+miz.chellielas vegas world news,portland local news,False,False,False,False
+complex,tomorrow night,False,False,False,False
+searchers,overnight,False,False,False,False
+she,worker,False,False,False,False
+police,park,False,False,False,False
+family,more,False,False,False,False
+the oregonian,cold world,False,False,False,False
+body,jonathan holt,False,False,False,False
+bushes,yesterday,False,False,False,False
+park,residents,False,False,False,False
+candlelight vigil,yesterday,False,False,False,False
+whitney heichel.watch,portland local news,False,False,False,False
+office depot,only 21,False,False,False,False
+family,yesterday,False,False,False,False
+office depot,portland local news,False,False,False,False
+oregon trail starbucks,field,False,False,False,False
+missingperson,now,False,False,False,False
+complex,office depot,False,False,False,False
+troutdale,more,False,False,False,False
+barista,so incredibly,False,False,False,False
+larch mountain,more,False,False,False,False
+gresham pd,the oregonian,False,False,False,False
+whitney,field,False,False,False,False
+clackamas county,park,False,False,False,False
+21-year-old,news conference,False,False,False,False
+prayers,so incredibly,False,False,False,False
+miz.chellielas vegas world news,search,False,False,False,False
+starbucks,residents,False,False,False,False
+gresham pd,man,False,False,False,False
+five minute,park,False,False,False,False
+jonathon holt,u.s news,False,False,False,False
+oregon trail starbucks,tuesday morn.tipline,False,False,False,False
+barista,tuesday morn.tipline,False,False,False,False
+bushes,tonight,False,False,False,False
+it,law wire news,False,False,False,False
+starbucks,they,False,False,False,False
+they,case,False,False,False,False
+clues,residents,False,False,False,False
+horrifying,more,False,False,False,False
+tonight,law wire news,False,False,False,False
+searchers,our,False,False,False,False
+body,overnight,False,False,False,False
+she,it,False,False,False,False
+apartments,yesterday,False,False,False,False
+investigators,park,False,False,False,False
+gresham,candlelight vigil,False,False,False,False
+remains,21,False,False,False,False
+the oregonian,investigators,False,False,False,False
+whitney heichel,bushes,False,False,False,False
+cellphone,horrifying,False,False,False,False
+jonathan holt,10/16/2012,False,False,False,False
+gresham,clues,False,False,False,False
+news conference,tuesday morn.tipline,False,False,False,False
+prayers,field,False,False,False,False
+body,city,False,False,False,False
+prayers,apartment,False,False,False,False
+whitney heichel.watch,more,False,False,False,False
+field,21,False,False,False,False
+bushes,4pm,False,False,False,False
+family,tomorrow night,False,False,False,False
+4pm,residents,False,False,False,False
+21,10/16/2012,False,False,False,False
+horrifying,clackamas county,False,False,False,False
+bushes,now,False,False,False,False
+horrifying,6:30 pm,False,False,False,False
+yesterday,thoughts,False,False,False,False
+horrifying,search,False,False,False,False
+search,our,False,False,False,False
+apartment,suspect,False,False,False,False
+searchers,jonathon holt,False,False,False,False
+search,thoughts,False,False,False,False
+family,kids,False,False,False,False
+whitney heichel,horrifying,False,False,False,False
+she,more,False,False,False,False
+starbucks,law wire news,False,False,False,False
+tonight,crews,False,False,False,False
+worker,park,False,False,False,False
+4pm,park,False,False,False,False
+21-year-old,10/16/2012,False,False,False,False
+cell phone,neighbor,False,False,False,False
+apartments,park,False,False,False,False
+only 21,city,False,False,False,False
+law wire news,21,False,False,False,False
+oregon,sad,False,False,False,False
+woman,worker,False,False,False,False
+gresham pd,u.s news,False,False,False,False
+apartments,remains,False,False,False,False
+tonight,jonathan holt,False,False,False,False
+prayers,searchers,False,False,False,False
+25 tips,portland local news,False,False,False,False
+her,gresham pd,False,False,False,False
+cellphone,big,False,False,False,False
+tomorrow night,portland local news,False,False,False,False
+candlelight vigil,investigators,False,False,False,False
+news conference,clues,False,False,False,False
+gresham pd,news conference,False,False,False,False
+portland local news,10/16/2012,False,False,False,False
+field,clues,False,False,False,False
+apartment,work,False,False,False,False
+prayers,her,False,False,False,False
+gresham,overnight,False,False,False,False
+cellphone,law wire news,False,False,False,False
+five minute,field,False,False,False,False
+6:30 pm,tuesday morn.tipline,False,False,False,False
+21-year-old,five minute,False,False,False,False
+whitney heichel.watch,yesterday,False,False,False,False
+missingperson,case,False,False,False,False
+family,woman,False,False,False,False
+five minute,tomorrow night,False,False,False,False
+barista,jonathan holt,False,False,False,False
+now,25 tips,False,False,False,False
+prayers,miz.chellielas vegas world news,False,False,False,False
+police,law wire news,False,False,False,False
+police,five minute,False,False,False,False
+only 21,our,False,False,False,False
+gresham pd,21-year-old,False,False,False,False
+miz.chellielas vegas world news,body,False,False,False,False
+now,clues,False,False,False,False
+family,larch mt,False,False,False,False
+kids,our,False,False,False,False
+whitney,more,False,False,False,False
+apartment,tuesday morn.tipline,False,False,False,False
+missingperson,remains,False,False,False,False
+6:30 pm,office depot,False,False,False,False
+horrifying,law wire news,False,False,False,False
+4pm,25 tips,False,False,False,False
+body,field,False,False,False,False
+park,10/16/2012,False,False,False,False
+crews,cold world,False,False,False,False
+apartment,cold world,False,False,False,False
+jonathon holt,crews,False,False,False,False
+oregon,investigators,False,False,False,False
+miz.chellielas vegas world news,so incredibly,False,False,False,False
+6:30 pm,our,False,False,False,False
+apartment,crews,False,False,False,False
+kids,search,False,False,False,False
+body,worker,False,False,False,False
+tomorrow night,6:30 pm,False,False,False,False
+cellphone,oregon,False,False,False,False
+sad,our,False,False,False,False
+tuesday morn.tipline,residents,False,False,False,False
+her,jonathan holt,False,False,False,False
+whitney heichel.watch,clackamas county,False,False,False,False
+she,starbucks,False,False,False,False
+candlelight vigil,residents,False,False,False,False
+woman,big,False,False,False,False
+news conference,tonight,False,False,False,False
+search,investigators,False,False,False,False
+whitney heichel,law wire news,False,False,False,False
+miz.chellielas vegas world news,tomorrow night,False,False,False,False
+gresham,oregon,False,False,False,False
+cell phone,4pm,False,False,False,False
+family,man,False,False,False,False
+troutdale,4pm,False,False,False,False
+whitney,tuesday morn.tipline,False,False,False,False
+she,gresham,False,False,False,False
+searchers,investigators,False,False,False,False
+gresham,searchers,False,False,False,False
+missingperson,cold world,False,False,False,False
+6:30 pm,big,False,False,False,False
+tuesday morn.tipline,25 tips,False,False,False,False
+portland local news,u.s news,False,False,False,False
+field,25 tips,False,False,False,False
+gresham pd,big,False,False,False,False
+suspect,crews,False,False,False,False
+overnight,thoughts,False,False,False,False
+big,park,False,False,False,False
+body,remains,False,False,False,False
+complex,21-year-old,False,False,False,False
+news conference,jonathon holt,False,False,False,False
+news conference,4pm,False,False,False,False
+she,body,False,False,False,False
+neighbor,jonathan holt,False,False,False,False
+so sad,4pm,False,False,False,False
+bushes,remains,False,False,False,False
+so incredibly,overnight,False,False,False,False
+whitney heichel,city,False,False,False,False
+miz.chellielas vegas world news,five minute,False,False,False,False
+whitney,residents,False,False,False,False
+now,city,False,False,False,False
+only 21,4pm,False,False,False,False
+bushes,search,False,False,False,False
+suspect,big,False,False,False,False
+cell phone,our,False,False,False,False
+law wire news,investigators,False,False,False,False
+troutdale,clackamas county,False,False,False,False
+her,work,False,False,False,False
+sad,search,False,False,False,False
+sad,law wire news,False,False,False,False
+whitney heichel.watch,apartment,False,False,False,False
+cell phone,news conference,False,False,False,False
+gresham pd,so incredibly,False,False,False,False
+candlelight vigil,u.s news,False,False,False,False
+law wire news,jonathon holt,False,False,False,False
+barista,work,False,False,False,False
+prayers,yesterday,False,False,False,False
+clues,u.s news,False,False,False,False
+oregon,park,False,False,False,False
+big,clackamas county,False,False,False,False
+tomorrow night,big,False,False,False,False
+jonathan holt,worker,False,False,False,False
+21-year-old,big,False,False,False,False
+starbucks,21-year-old,False,False,False,False
+troutdale,yesterday,False,False,False,False
+larch mt,u.s news,False,False,False,False
+work,park,False,False,False,False
+whitney heichel.watch,cellphone,False,False,False,False
+cell phone,tuesday morn.tipline,False,False,False,False
+law wire news,worker,False,False,False,False
+21-year-old,kids,False,False,False,False
+man,larch mt,False,False,False,False
+law wire news,clues,False,False,False,False
+five minute,man,False,False,False,False
+now,investigators,False,False,False,False
+work,clackamas county,False,False,False,False
+cellphone,crews,False,False,False,False
+barista,case,False,False,False,False
+21-year-old,tuesday morn.tipline,False,False,False,False
+barista,field,False,False,False,False
+so incredibly,6:30 pm,False,False,False,False
+25 tips,clackamas county,False,False,False,False
+complex,big,False,False,False,False
+cell phone,troutdale,False,False,False,False
+it,apartments,False,False,False,False
+starbucks,park,False,False,False,False
+tuesday morn.tipline,cold world,False,False,False,False
+remains,neighbor,False,False,False,False
+searchers,25 tips,False,False,False,False
+tonight,case,False,False,False,False
+prayers,4pm,False,False,False,False
+bushes,only 21,False,False,False,False
+so sad,case,False,False,False,False
+so sad,residents,False,False,False,False
+body,kids,False,False,False,False
+searchers,yesterday,False,False,False,False
+work,neighbor,False,False,False,False
+complex,man,False,False,False,False
+barista,gresham,False,False,False,False
+candlelight vigil,4pm,False,False,False,False
+tonight,cold world,False,False,False,False
+prayers,residents,False,False,False,False
+complex,our,False,False,False,False
+gresham pd,jonathon holt,False,False,False,False
+they,so incredibly,False,False,False,False
+family,big,False,False,False,False
+gresham,tonight,False,False,False,False
+body,neighbor,False,False,False,False
+so sad,crews,False,False,False,False
+gresham,jonathan holt,False,False,False,False
+whitney,city,False,False,False,False
+whitney,case,False,False,False,False
+crews,clues,False,False,False,False
+news conference,so incredibly,False,False,False,False
+it,more,False,False,False,False
+kids,jonathon holt,False,False,False,False
+suspect,city,False,False,False,False
+she,so sad,False,False,False,False
+whitney heichel.watch,news conference,False,False,False,False
+portland local news,residents,False,False,False,False
+troutdale,6:30 pm,False,False,False,False
+it,overnight,False,False,False,False
+tonight,worker,False,False,False,False
+bushes,jonathon holt,False,False,False,False
+miz.chellielas vegas world news,larch mountain,False,False,False,False
+cell phone,u.s news,False,False,False,False
+suspect,6:30 pm,False,False,False,False
+apartments,larch mountain,False,False,False,False
+starbucks,10/16/2012,False,False,False,False
+family,overnight,False,False,False,False
+21-year-old,thoughts,False,False,False,False
+her,city,False,False,False,False
+her,4pm,False,False,False,False
+search,more,False,False,False,False
+her,whitney heichel.watch,False,False,False,False
+news conference,25 tips,False,False,False,False
+her,u.s news,False,False,False,False
+big,clues,False,False,False,False
+police,family,False,False,False,False
+she,25 tips,False,False,False,False
+bushes,family,False,False,False,False
+jonathan holt,clackamas county,False,False,False,False
+she,residents,False,False,False,False
+cell phone,search,False,False,False,False
+whitney heichel.watch,search,False,False,False,False
+cellphone,sad,False,False,False,False
+five minute,horrifying,False,False,False,False
+10/16/2012,u.s news,False,False,False,False
+missingperson,21-year-old,False,False,False,False
+missingperson,so incredibly,False,False,False,False
+miz.chellielas vegas world news,cell phone,False,False,False,False
+kids,cold world,False,False,False,False
+remains,case,False,False,False,False
+five minute,family,False,False,False,False
+tonight,office depot,False,False,False,False
+now,tuesday morn.tipline,False,False,False,False
+her,our,False,False,False,False
+her,candlelight vigil,False,False,False,False
+police,jonathon holt,False,False,False,False
+21,our,False,False,False,False
+whitney heichel,worker,False,False,False,False
+work,overnight,False,False,False,False
+starbucks,neighbor,False,False,False,False
+five minute,work,False,False,False,False
+field,investigators,False,False,False,False
+apartments,tuesday morn.tipline,False,False,False,False
+jonathan holt,overnight,False,False,False,False
+suspect,field,False,False,False,False
+thoughts,park,False,False,False,False
+apartment,so sad,False,False,False,False
+starbucks,apartment,False,False,False,False
+horrifying,sad,False,False,False,False
+body,woman,False,False,False,False
+the oregonian,25 tips,False,False,False,False
+oregon,yesterday,False,False,False,False
+whitney heichel,missingperson,False,False,False,False
+bushes,21-year-old,False,False,False,False
+man,clues,False,False,False,False
+jonathon holt,city,False,False,False,False
+cold world,clackamas county,False,False,False,False
+our,more,False,False,False,False
+tomorrow night,neighbor,False,False,False,False
+6:30 pm,yesterday,False,False,False,False
+21-year-old,portland local news,False,False,False,False
+it,larch mt,False,False,False,False
+kids,thoughts,False,False,False,False
+barista,suspect,False,False,False,False
+it,case,False,False,False,False
+woman,woman,True,False,False,False
+prayers,tonight,False,False,False,False
+whitney,gresham pd,False,False,False,False
+she,oregon,False,False,False,False
+she,horrifying,False,False,False,False
+horrifying,yesterday,False,False,False,False
+searchers,jonathan holt,False,False,False,False
+apartments,jonathan holt,False,False,False,False
+remains,man,False,False,False,False
+apartments,work,False,False,False,False
+gresham,yesterday,False,False,False,False
+so sad,park,False,False,False,False
+whitney heichel.watch,our,False,False,False,False
+apartment,only 21,False,False,False,False
+horrifying,candlelight vigil,False,False,False,False
+tonight,candlelight vigil,False,False,False,False
+law wire news,our,False,False,False,False
+gresham,larch mountain,False,False,False,False
+apartments,21-year-old,False,False,False,False
+oregon trail starbucks,park,False,False,False,False
+news conference,candlelight vigil,False,False,False,False
+man,kids,False,False,False,False
+whitney,clackamas county,False,False,False,False
+6:30 pm,more,False,False,False,False
+so incredibly,25 tips,False,False,False,False
+remains,remains,True,False,False,False
+gresham pd,oregon,False,False,False,False
+law wire news,jonathan holt,False,False,False,False
+body,thoughts,False,False,False,False
+tuesday morn.tipline,jonathan holt,False,False,False,False
+police,suspect,False,False,False,False
+prayers,whitney heichel.watch,False,False,False,False
+her,kids,False,False,False,False
+searchers,10/16/2012,False,False,False,False
+25 tips,10/16/2012,False,False,False,False
+prayers,jonathan holt,False,False,False,False
+jonathan holt,investigators,False,False,False,False
+it,park,False,False,False,False
+apartment,21,False,False,False,False
+only 21,searchers,False,False,False,False
+whitney,so incredibly,False,False,False,False
+missingperson,city,False,False,False,False
+apartment,horrifying,False,False,False,False
+they,tonight,False,False,False,False
+barista,thoughts,False,False,False,False
+apartments,searchers,False,False,False,False
+cellphone,21-year-old,False,False,False,False
+gresham pd,horrifying,False,False,False,False
+sad,more,False,False,False,False
+office depot,searchers,False,False,False,False
+clues,10/16/2012,False,False,False,False
+police,4pm,False,False,False,False
+oregon,portland local news,False,False,False,False
+bushes,office depot,False,False,False,False
+office depot,25 tips,False,False,False,False
+whitney,the oregonian,False,False,False,False
+gresham,neighbor,False,False,False,False
+it,investigators,False,False,False,False
+oregon,family,False,False,False,False
+jonathan holt,crews,False,False,False,False
+body,search,False,False,False,False
+cellphone,overnight,False,False,False,False
+worker,25 tips,False,False,False,False
+law wire news,case,False,False,False,False
+it,our,False,False,False,False
+field,larch mt,False,False,False,False
+barista,cellphone,False,False,False,False
+remains,21-year-old,False,False,False,False
+cellphone,cold world,False,False,False,False
+remains,the oregonian,False,False,False,False
+miz.chellielas vegas world news,more,False,False,False,False
+gresham pd,woman,False,False,False,False
+body,family,False,False,False,False
+so incredibly,kids,False,False,False,False
+our,park,False,False,False,False
+whitney heichel.watch,worker,False,False,False,False
+jonathon holt,more,False,False,False,False
+barista,our,False,False,False,False
+so sad,larch mt,False,False,False,False
+gresham,clackamas county,False,False,False,False
+whitney heichel.watch,neighbor,False,False,False,False
+suspect,21,False,False,False,False
+apartment,candlelight vigil,False,False,False,False
+kids,crews,False,False,False,False
+oregon,u.s news,False,False,False,False
+whitney,police,False,False,False,False
+law wire news,10/16/2012,False,False,False,False
+prayers,so sad,False,False,False,False
+whitney heichel,kids,False,False,False,False
+6:30 pm,portland local news,False,False,False,False
+gresham pd,25 tips,False,False,False,False
+barista,tonight,False,False,False,False
+jonathon holt,25 tips,False,False,False,False
+woman,jonathan holt,False,False,False,False
+whitney heichel,6:30 pm,False,False,False,False
+prayers,kids,False,False,False,False
+jonathan holt,city,False,False,False,False
+police,clackamas county,False,False,False,False
+missingperson,searchers,False,False,False,False
+it,troutdale,False,False,False,False
+cellphone,work,False,False,False,False
+whitney heichel.watch,work,False,False,False,False
+police,searchers,False,False,False,False
+kids,overnight,False,False,False,False
+tuesday morn.tipline,crews,False,False,False,False
+her,cold world,False,False,False,False
+she,remains,False,False,False,False
+troutdale,u.s news,False,False,False,False
+suspect,so incredibly,False,False,False,False
+kids,park,False,False,False,False
+five minute,6:30 pm,False,False,False,False
+neighbor,10/16/2012,False,False,False,False
+whitney heichel.watch,so incredibly,False,False,False,False
+troutdale,so sad,False,False,False,False
+sad,residents,False,False,False,False
+cellphone,4pm,False,False,False,False
+21-year-old,yesterday,False,False,False,False
+21-year-old,candlelight vigil,False,False,False,False
+the oregonian,man,False,False,False,False
+news conference,sad,False,False,False,False
+barista,apartments,False,False,False,False
+she,tomorrow night,False,False,False,False
+barista,bushes,False,False,False,False
+it,thoughts,False,False,False,False
+five minute,law wire news,False,False,False,False
+police,portland local news,False,False,False,False
+jonathon holt,thoughts,False,False,False,False
+prayers,crews,False,False,False,False
+case,u.s news,False,False,False,False
+the oregonian,clues,False,False,False,False
+crews,yesterday,False,False,False,False
+the oregonian,searchers,False,False,False,False
+prayers,10/16/2012,False,False,False,False
+tuesday morn.tipline,our,False,False,False,False
+police,so sad,False,False,False,False
+whitney heichel,cold world,False,False,False,False
+case,park,False,False,False,False
+so incredibly,clues,False,False,False,False
+cell phone,woman,False,False,False,False
+whitney heichel,clues,False,False,False,False
+body,our,False,False,False,False
+missingperson,kids,False,False,False,False
+remains,kids,False,False,False,False
+missingperson,tuesday morn.tipline,False,False,False,False
+whitney,25 tips,False,False,False,False
+woman,residents,False,False,False,False
+barista,troutdale,False,False,False,False
+so incredibly,more,False,False,False,False
+whitney heichel,our,False,False,False,False
+whitney heichel,man,False,False,False,False
+work,larch mountain,False,False,False,False
+jonathan holt,thoughts,False,False,False,False
+gresham pd,apartment,False,False,False,False
+work,investigators,False,False,False,False
+the oregonian,overnight,False,False,False,False
+whitney heichel.watch,field,False,False,False,False
+apartment,kids,False,False,False,False
+only 21,clues,False,False,False,False
+whitney heichel,so sad,False,False,False,False
+whitney heichel.watch,crews,False,False,False,False
+family,tonight,False,False,False,False
+gresham pd,bushes,False,False,False,False
+five minute,tonight,False,False,False,False
+five minute,portland local news,False,False,False,False
+horrifying,jonathan holt,False,False,False,False
+apartment,news conference,False,False,False,False
+remains,tuesday morn.tipline,False,False,False,False
+whitney heichel,case,False,False,False,False
+cell phone,yesterday,False,False,False,False
+police,u.s news,False,False,False,False
+troutdale,so incredibly,False,False,False,False
+whitney heichel,five minute,False,False,False,False
+work,city,False,False,False,False
+only 21,25 tips,False,False,False,False
+man,worker,False,False,False,False
+investigators,our,False,False,False,False
+they,troutdale,False,False,False,False
+miz.chellielas vegas world news,it,False,False,False,False
+starbucks,larch mountain,False,False,False,False
+remains,10/16/2012,False,False,False,False
+sad,6:30 pm,False,False,False,False
+6:30 pm,4pm,False,False,False,False
+now,man,False,False,False,False
+crews,park,False,False,False,False
+sad,worker,False,False,False,False
+so incredibly,man,False,False,False,False
+starbucks,bushes,False,False,False,False
+office depot,worker,False,False,False,False
+apartments,our,False,False,False,False
+complex,investigators,False,False,False,False
+neighbor,residents,False,False,False,False
+horrifying,clues,False,False,False,False
+gresham,remains,False,False,False,False
+starbucks,overnight,False,False,False,False
+she,u.s news,False,False,False,False
+prayers,6:30 pm,False,False,False,False
+barista,yesterday,False,False,False,False
+work,tuesday morn.tipline,False,False,False,False
+apartments,25 tips,False,False,False,False
+now,remains,False,False,False,False
+whitney heichel.watch,overnight,False,False,False,False
+suspect,case,False,False,False,False
+gresham pd,jonathan holt,False,False,False,False
+her,portland local news,False,False,False,False
+candlelight vigil,office depot,False,False,False,False
+overnight,10/16/2012,False,False,False,False
+6:30 pm,overnight,False,False,False,False
+21-year-old,4pm,False,False,False,False
+gresham pd,10/16/2012,False,False,False,False
+troutdale,city,False,False,False,False
+bushes,suspect,False,False,False,False
+apartments,21,False,False,False,False
+starbucks,troutdale,False,False,False,False
+miz.chellielas vegas world news,our,False,False,False,False
+starbucks,miz.chellielas vegas world news,False,False,False,False
+6:30 pm,investigators,False,False,False,False
+she,barista,False,False,False,False
+barista,remains,False,False,False,False
+man,jonathon holt,False,False,False,False
+office depot,thoughts,False,False,False,False
+search,clues,False,False,False,False
+oregon,more,False,False,False,False
+neighbor,jonathon holt,False,False,False,False
+troutdale,big,False,False,False,False
+barista,clackamas county,False,False,False,False
+bushes,residents,False,False,False,False
+21,u.s news,False,False,False,False
+candlelight vigil,big,False,False,False,False
+city,clackamas county,False,False,False,False
+worker,10/16/2012,False,False,False,False
+only 21,residents,False,False,False,False
+apartment,woman,False,False,False,False
+law wire news,6:30 pm,False,False,False,False
+25 tips,park,False,False,False,False
+her,office depot,False,False,False,False
+it,suspect,False,False,False,False
+miz.chellielas vegas world news,residents,False,False,False,False
+man,larch mountain,False,False,False,False
+bushes,man,False,False,False,False
+so sad,thoughts,False,False,False,False
+remains,clues,False,False,False,False
+horrifying,jonathon holt,False,False,False,False
+miz.chellielas vegas world news,clues,False,False,False,False
+so sad,jonathan holt,False,False,False,False
+searchers,cold world,False,False,False,False
+whitney,remains,False,False,False,False
+oregon,so incredibly,False,False,False,False
+gresham,kids,False,False,False,False
+barista,21-year-old,False,False,False,False
+miz.chellielas vegas world news,21-year-old,False,False,False,False
+now,larch mt,False,False,False,False
+they,worker,False,False,False,False
+searchers,more,False,False,False,False
+only 21,search,False,False,False,False
+it,news conference,False,False,False,False
+gresham pd,family,False,False,False,False
+whitney heichel,u.s news,False,False,False,False
+troutdale,troutdale,False,True,False,False
+miz.chellielas vegas world news,candlelight vigil,False,False,False,False
+cell phone,larch mt,False,False,False,False
+miz.chellielas vegas world news,yesterday,False,False,False,False
+remains,family,False,False,False,False
+apartment,searchers,False,False,False,False
+whitney,missingperson,False,False,False,False
+21-year-old,residents,False,False,False,False
+big,cold world,False,False,False,False
+she,gresham pd,False,False,False,False
+it,larch mountain,False,False,False,False
+search,residents,False,False,False,False
+gresham pd,thoughts,False,False,False,False
+whitney heichel.watch,office depot,False,False,False,False
+her,crews,False,False,False,False
+whitney heichel,starbucks,False,False,False,False
+bushes,the oregonian,False,False,False,False
+miz.chellielas vegas world news,city,False,False,False,False
+oregon trail starbucks,investigators,False,False,False,False
+law wire news,u.s news,False,False,False,False
+sad,thoughts,False,False,False,False
+whitney heichel,residents,False,False,False,False
+cellphone,clackamas county,False,False,False,False
+missingperson,gresham pd,False,False,False,False
+missingperson,tonight,False,False,False,False
+case,more,False,False,False,False
+tuesday morn.tipline,portland local news,False,False,False,False
+6:30 pm,larch mountain,False,False,False,False
+barista,complex,False,False,False,False
+21-year-old,more,False,False,False,False
+troutdale,the oregonian,False,False,False,False
+whitney heichel,police,False,False,False,False
+so incredibly,tuesday morn.tipline,False,False,False,False
+6:30 pm,worker,False,False,False,False
+complex,kids,False,False,False,False
+tomorrow night,4pm,False,False,False,False
+jonathan holt,more,False,False,False,False
+cellphone,tuesday morn.tipline,False,False,False,False
+now,jonathan holt,False,False,False,False
+now,residents,False,False,False,False
+6:30 pm,residents,False,False,False,False
+bushes,u.s news,False,False,False,False
+oregon trail starbucks,clackamas county,False,False,False,False
+cell phone,park,False,False,False,False
+4pm,thoughts,False,False,False,False
+gresham pd,only 21,False,False,False,False
+man,10/16/2012,False,False,False,False
+suspect,overnight,False,False,False,False
+whitney heichel.watch,clues,False,False,False,False
+miz.chellielas vegas world news,field,False,False,False,False
+the oregonian,our,False,False,False,False
+whitney,search,False,False,False,False
+complex,21,False,False,False,False
+bushes,21,False,False,False,False
+miz.chellielas vegas world news,complex,False,False,False,False
+gresham,work,False,False,False,False
+missingperson,horrifying,False,False,False,False
+complex,clackamas county,False,False,False,False
+apartments,law wire news,False,False,False,False
+horrifying,woman,False,False,False,False
+starbucks,6:30 pm,False,False,False,False
+oregon trail starbucks,big,False,False,False,False
+apartments,office depot,False,False,False,False
+whitney heichel,whitney heichel.watch,False,False,False,False
+cellphone,neighbor,False,False,False,False
+body,law wire news,False,False,False,False
+suspect,25 tips,False,False,False,False
+whitney heichel,work,False,False,False,False
+gresham pd,they,False,False,False,False
+missingperson,search,False,False,False,False
+neighbor,portland local news,False,False,False,False
+police,remains,False,False,False,False
+she,miz.chellielas vegas world news,False,False,False,False
+family,6:30 pm,False,False,False,False
+prayers,barista,False,False,False,False
+oregon,clues,False,False,False,False
+gresham,thoughts,False,False,False,False
+apartments,kids,False,False,False,False
+field,yesterday,False,False,False,False
+miz.chellielas vegas world news,overnight,False,False,False,False
+worker,city,False,False,False,False
+whitney,oregon,False,False,False,False
+whitney,complex,False,False,False,False
+so incredibly,larch mountain,False,False,False,False
+body,horrifying,False,False,False,False
+complex,oregon,False,False,False,False
+remains,6:30 pm,False,False,False,False
+searchers,u.s news,False,False,False,False
+they,thoughts,False,False,False,False
+thoughts,cold world,False,False,False,False
+apartment,case,False,False,False,False
+prayers,apartments,False,False,False,False
+gresham,21-year-old,False,False,False,False
+horrifying,so incredibly,False,False,False,False
+miz.chellielas vegas world news,suspect,False,False,False,False
+sad,cold world,False,False,False,False
+work,25 tips,False,False,False,False
+prayers,police,False,False,False,False
+larch mt,10/16/2012,False,False,False,False
+oregon trail starbucks,residents,False,False,False,False
+gresham pd,21,False,False,False,False
+she,portland local news,False,False,False,False
+missingperson,the oregonian,False,False,False,False
+office depot,21,False,False,False,False
+candlelight vigil,case,False,False,False,False
+her,body,False,False,False,False
+missingperson,neighbor,False,False,False,False
+missingperson,only 21,False,False,False,False
+they,city,False,False,False,False
+now,so sad,False,False,False,False
+now,u.s news,False,False,False,False
+starbucks,clackamas county,False,False,False,False
+neighbor,21,False,False,False,False
+complex,horrifying,False,False,False,False
+whitney heichel,cell phone,False,False,False,False
+body,clackamas county,False,False,False,False
+jonathan holt,yesterday,False,False,False,False
+horrifying,thoughts,False,False,False,False
+missingperson,tomorrow night,False,False,False,False
+starbucks,police,False,False,False,False
+troutdale,news conference,False,False,False,False
+21-year-old,21,False,False,False,False
+cellphone,case,False,False,False,False
+oregon,jonathon holt,False,False,False,False
+five minute,searchers,False,False,False,False
+starbucks,complex,False,False,False,False
+work,jonathon holt,False,False,False,False
+barista,neighbor,False,False,False,False
+family,u.s news,False,False,False,False
+oregon,10/16/2012,False,False,False,False
+complex,now,False,False,False,False
+oregon trail starbucks,neighbor,False,False,False,False
+remains,horrifying,False,False,False,False
+tuesday morn.tipline,clackamas county,False,False,False,False
+gresham pd,suspect,False,False,False,False
+complex,sad,False,False,False,False
+21-year-old,office depot,False,False,False,False
+whitney heichel.watch,now,False,False,False,False
+missingperson,body,False,False,False,False
+bushes,woman,False,False,False,False
+cell phone,10/16/2012,False,False,False,False
+oregon,clackamas county,False,False,False,False
+gresham pd,police,False,False,False,False
+man,search,False,False,False,False
+man,21,False,False,False,False
+work,residents,False,False,False,False
+troutdale,kids,False,False,False,False
+whitney heichel,miz.chellielas vegas world news,False,False,False,False
+oregon trail starbucks,so sad,False,False,False,False
+bushes,horrifying,False,False,False,False
+prayers,starbucks,False,False,False,False
+her,police,False,False,False,False
+the oregonian,woman,False,False,False,False
+police,investigators,False,False,False,False
+whitney,miz.chellielas vegas world news,False,False,False,False
+prayers,news conference,False,False,False,False
+whitney heichel.watch,remains,False,False,False,False
+barista,family,False,False,False,False
+case,residents,False,False,False,False
+apartment,park,False,False,False,False
+portland local news,park,False,False,False,False
+five minute,our,False,False,False,False
+troutdale,portland local news,False,False,False,False
+the oregonian,news conference,False,False,False,False
+big,city,False,False,False,False
+oregon,4pm,False,False,False,False
+yesterday,portland local news,False,False,False,False
+whitney,bushes,False,False,False,False
+whitney heichel,complex,False,False,False,False
+so incredibly,woman,False,False,False,False
+miz.chellielas vegas world news,u.s news,False,False,False,False
+it,city,False,False,False,False
+suspect,larch mountain,False,False,False,False
+the oregonian,21-year-old,False,False,False,False
+her,remains,False,False,False,False
+jonathon holt,cold world,False,False,False,False
+field,case,True,False,False,False
+more,10/16/2012,False,False,False,False
+search,crews,False,False,False,False
+remains,so sad,False,False,False,False
+gresham pd,neighbor,False,False,False,False
+sad,jonathan holt,False,False,False,False
+park,u.s news,False,False,False,False
+sad,investigators,False,False,False,False
+candlelight vigil,larch mt,False,False,False,False
+police,overnight,False,False,False,False
+case,10/16/2012,False,False,False,False
+6:30 pm,21,False,False,False,False
+4pm,crews,False,False,False,False
+yesterday,residents,False,False,False,False
+she,4pm,False,False,False,False
+whitney heichel,office depot,False,False,False,False
+horrifying,crews,False,False,False,False
+apartment,so incredibly,False,False,False,False
+our,portland local news,False,False,False,False
+starbucks,crews,False,False,False,False
+apartments,oregon,False,False,False,False
+jonathon holt,search,False,False,False,False
+her,man,False,False,False,False
+she,city,False,False,False,False
+cellphone,office depot,False,False,False,False
+bushes,news conference,False,False,False,False
+body,investigators,False,False,False,False
+prayers,search,False,False,False,False
+whitney,10/16/2012,False,False,False,False
+whitney heichel.watch,oregon trail starbucks,False,False,False,False
+bushes,five minute,False,False,False,False
+gresham pd,cellphone,False,False,False,False
+21-year-old,park,False,False,False,False
+miz.chellielas vegas world news,work,False,False,False,False
+whitney,yesterday,False,False,False,False
+larch mountain,u.s news,False,False,False,False
+missingperson,jonathon holt,False,False,False,False
+neighbor,kids,False,False,False,False
+tomorrow night,searchers,False,False,False,False
+tonight,more,False,False,False,False
+missingperson,suspect,False,False,False,False
+big,u.s news,False,False,False,False
+missingperson,25 tips,False,False,False,False
+troutdale,jonathon holt,False,False,False,False
+she,cold world,False,False,False,False
+her,worker,False,False,False,False
+cellphone,family,False,False,False,False
+suspect,jonathan holt,False,False,False,False
+only 21,more,False,False,False,False
+troutdale,case,False,False,False,False
+now,body,False,False,False,False
+neighbor,clackamas county,False,False,False,False
+gresham pd,tuesday morn.tipline,False,False,False,False
+family,park,False,False,False,False
+so sad,portland local news,False,False,False,False
+whitney,jonathan holt,False,False,False,False
+tuesday morn.tipline,clues,False,False,False,False
+tomorrow night,overnight,False,False,False,False
+our,clackamas county,False,False,False,False
+man,investigators,False,False,False,False
+prayers,body,False,False,False,False
+thoughts,u.s news,False,False,False,False
+tomorrow night,search,False,False,False,False
+gresham,worker,False,False,False,False
+missingperson,candlelight vigil,False,False,False,False
+cell phone,body,False,False,False,False
+larch mt,more,False,False,False,False
+family,search,False,False,False,False
+police,oregon,False,False,False,False
+sad,crews,False,False,False,False
+whitney,cold world,False,False,False,False
+gresham,investigators,False,False,False,False
+clues,more,False,False,False,False
+law wire news,4pm,False,False,False,False
+news conference,worker,False,False,False,False
+big,thoughts,False,False,False,False
+woman,larch mt,False,False,False,False
+five minute,25 tips,False,False,False,False
+she,larch mountain,False,False,False,False
+oregon,thoughts,False,False,False,False
+police,apartments,False,False,False,False
+they,residents,False,False,False,False
+prayers,sad,False,False,False,False
+apartment,larch mountain,False,False,False,False
+apartment,body,False,False,False,False
+only 21,investigators,False,False,False,False
+starbucks,oregon trail starbucks,False,False,True,False
+6:30 pm,city,False,False,False,False
+tomorrow night,office depot,False,False,False,False
+big,portland local news,False,False,False,False
+6:30 pm,case,False,False,False,False
+tomorrow night,jonathon holt,False,False,False,False
+five minute,cold world,False,False,False,False
+suspect,the oregonian,False,False,False,False
+overnight,residents,False,False,False,False
+barista,office depot,False,False,False,False
+residents,more,False,False,False,False
+police,troutdale,False,False,False,False
+larch mountain,portland local news,False,False,False,False
+starbucks,office depot,False,False,False,False
+office depot,case,False,False,False,False
+searchers,clues,False,False,False,False
+so incredibly,cold world,False,False,False,False
+larch mt,clackamas county,False,False,False,False
+bushes,searchers,False,False,False,False
+five minute,larch mt,False,False,False,False
+field,jonathon holt,False,False,False,False
+whitney heichel,field,False,False,False,False
+case,overnight,False,False,False,False
+they,police,False,False,False,False
+starbucks,sad,False,False,False,False
+crews,thoughts,False,False,False,False
+they,neighbor,False,False,False,False
+neighbor,big,False,False,False,False
+whitney heichel.watch,the oregonian,False,False,False,False
+office depot,larch mountain,False,False,False,False
+it,residents,False,False,False,False
+they,park,False,False,False,False
+office depot,jonathan holt,False,False,False,False
+tomorrow night,yesterday,False,False,False,False
+woman,our,False,False,False,False
+horrifying,4pm,False,False,False,False
+bushes,law wire news,False,False,False,False
+cell phone,21-year-old,False,False,False,False
+the oregonian,more,False,False,False,False
+prayers,cellphone,False,False,False,False
+whitney heichel.watch,tomorrow night,False,False,False,False
+body,oregon,False,False,False,False
+barista,21,False,False,False,False
+horrifying,portland local news,False,False,False,False
+bushes,apartments,False,False,False,False
+it,man,False,False,False,False
+suspect,jonathon holt,False,False,False,False
+they,our,False,False,False,False
+prayers,law wire news,False,False,False,False
+worker,clackamas county,False,False,False,False
+tonight,larch mountain,False,False,False,False
+case,city,False,False,False,False
+remains,residents,False,False,False,False
+family,21,False,False,False,False
+missingperson,bushes,False,False,False,False
+office depot,u.s news,False,False,False,False
+barista,man,False,False,False,False
+gresham,only 21,False,False,False,False
+now,4pm,False,False,False,False
+remains,portland local news,False,False,False,False
+larch mt,residents,False,False,False,False
+complex,law wire news,False,False,False,False
+sad,case,False,False,False,False
+21-year-old,case,False,False,False,False
+case,larch mountain,False,False,False,False
+body,25 tips,False,False,False,False
+25 tips,more,False,False,False,False
+news conference,man,False,False,False,False
+work,law wire news,False,False,False,False
+gresham pd,kids,False,False,False,False
+police,21,False,False,False,False
+sad,clues,False,False,False,False
+park,more,False,False,False,False
+so sad,larch mountain,False,False,False,False
+remains,thoughts,False,False,False,False
+whitney heichel.watch,21,False,False,False,False
+cell phone,tomorrow night,False,False,False,False
+so incredibly,larch mt,False,False,False,False
+so sad,cold world,False,False,False,False
+6:30 pm,u.s news,False,False,False,False
+whitney heichel.watch,they,False,False,False,False
+whitney heichel.watch,complex,False,False,False,False
+oregon trail starbucks,jonathan holt,False,False,False,False
+cell phone,25 tips,False,False,False,False
+gresham pd,tomorrow night,False,False,False,False
+6:30 pm,park,False,False,False,False
+five minute,u.s news,False,False,False,False
+work,news conference,False,False,False,False
+her,sad,False,False,False,False
+field,more,False,False,False,False
+police,big,False,False,False,False
+bushes,field,False,False,False,False
+troutdale,only 21,False,False,False,False
+neighbor,larch mt,False,False,False,False
+body,body,True,False,False,False
+21-year-old,larch mountain,False,False,False,False
+candlelight vigil,overnight,False,False,False,False
+complex,field,False,False,False,False
+barista,city,False,False,False,False
+clues,cold world,False,False,False,False
+the oregonian,office depot,False,False,False,False
+barista,only 21,False,False,False,False
+gresham,park,False,False,False,False
+whitney heichel.watch,4pm,False,False,False,False
+apartments,family,False,False,False,False
+office depot,park,False,False,False,False
+neighbor,search,False,False,False,False
+barista,portland local news,False,False,False,False
+she,10/16/2012,False,False,False,False
+tuesday morn.tipline,city,False,False,False,False
+the oregonian,crews,False,False,False,False
+troutdale,work,False,False,False,False
+starbucks,city,False,False,False,False
+work,tomorrow night,False,False,False,False
+candlelight vigil,25 tips,False,False,False,False
+starbucks,investigators,False,False,False,False
+21-year-old,6:30 pm,False,False,False,False
+news conference,tomorrow night,False,False,False,False
+her,tuesday morn.tipline,False,False,False,False
+6:30 pm,man,False,False,False,False
+oregon trail starbucks,crews,False,False,False,False
+barista,kids,False,False,False,False
+her,case,False,False,False,False
+five minute,residents,False,False,False,False
+investigators,overnight,False,False,False,False
+family,jonathon holt,False,False,False,False
+miz.chellielas vegas world news,office depot,False,False,False,False
+oregon,woman,False,False,False,False
+gresham pd,cold world,False,False,False,False
+sad,larch mt,False,False,False,False
+cell phone,field,False,False,False,False
+oregon trail starbucks,cold world,False,False,False,False
+oregon trail starbucks,thoughts,False,False,False,False
+her,apartments,False,False,False,False
+law wire news,tomorrow night,False,False,False,False
+woman,cold world,False,False,False,False
+police,crews,False,False,False,False
+21-year-old,25 tips,False,False,False,False
+whitney,our,False,False,False,False
+barista,apartment,False,False,False,False
+now,21-year-old,False,False,False,False
+prayers,troutdale,False,False,False,False
+whitney heichel.watch,it,False,False,False,False
+body,five minute,False,False,False,False
+her,search,False,False,False,False
+cellphone,yesterday,False,False,False,False
+whitney heichel.watch,larch mt,False,False,False,False
+21-year-old,clackamas county,False,False,False,False
+miz.chellielas vegas world news,news conference,False,False,False,False
+troutdale,tonight,False,False,False,False
+4pm,clackamas county,False,False,False,False
+law wire news,neighbor,False,False,False,False
+she,case,False,False,False,False
+clues,larch mountain,False,False,False,False
+body,4pm,False,False,False,False
+oregon,residents,False,False,False,False
+suspect,news conference,False,False,False,False
+cell phone,6:30 pm,False,False,False,False
+body,only 21,False,False,False,False
+remains,larch mt,False,False,False,False
+now,searchers,False,False,False,False
+missingperson,five minute,False,False,False,False
+candlelight vigil,clues,False,False,False,False
+starbucks,body,False,False,False,False
+so incredibly,portland local news,False,False,False,False
+oregon,25 tips,False,False,False,False
+portland local news,more,False,False,False,False
+21,park,False,False,False,False
+prayers,worker,False,False,False,False
+larch mountain,residents,False,False,False,False
+oregon trail starbucks,searchers,False,False,False,False
+so sad,worker,False,False,False,False
+man,neighbor,False,False,False,False
+she,jonathan holt,False,False,False,False
+so incredibly,clackamas county,False,False,False,False
+clues,yesterday,False,False,False,False
+whitney heichel,tomorrow night,False,False,False,False
+barista,candlelight vigil,False,False,False,False
+they,big,False,False,False,False
+oregon trail starbucks,u.s news,False,False,False,False
+apartments,now,False,False,False,False
+law wire news,25 tips,False,False,False,False
+barista,crews,False,False,False,False
+apartment,family,False,False,False,False
+21,cold world,False,False,False,False
+more,u.s news,False,False,False,False
+so sad,clues,False,False,False,False
+cellphone,man,False,False,False,False
+sad,tuesday morn.tipline,False,False,False,False
+case,portland local news,False,False,False,False
+body,u.s news,False,False,False,False
+news conference,big,False,False,False,False
+whitney heichel.watch,only 21,False,False,False,False
+21-year-old,jonathon holt,False,False,False,False
+big,jonathan holt,False,False,False,False
+remains,suspect,False,False,False,False
+her,big,False,False,False,False
+gresham,so sad,False,False,False,False
+prayers,family,False,False,False,False
+now,larch mountain,False,False,False,False
+investigators,thoughts,False,False,False,False
+kids,21,False,False,False,False
+sad,so sad,False,False,True,False
+they,body,False,False,False,False
+21-year-old,investigators,False,False,False,False
+cell phone,searchers,False,False,False,False
+whitney heichel.watch,body,False,False,False,False
+news conference,investigators,False,False,False,False
+her,tomorrow night,False,False,False,False
+prayers,oregon trail starbucks,False,False,False,False
+whitney heichel.watch,tuesday morn.tipline,False,False,False,False
+prayers,complex,False,False,False,False
+oregon,tomorrow night,False,False,False,False
+cellphone,kids,False,False,False,False
+sad,21,False,False,False,False
+family,worker,False,False,False,False
+whitney heichel,4pm,False,False,False,False
+man,tuesday morn.tipline,False,False,False,False
+gresham pd,portland local news,False,False,False,False
+woman,clackamas county,False,False,False,False
+family,larch mountain,False,False,False,False
+prayers,now,False,False,False,False
+cell phone,candlelight vigil,False,False,False,False
+it,body,False,False,False,False
+law wire news,larch mountain,False,False,False,False
+they,only 21,False,False,False,False
+missingperson,it,False,False,False,False
+gresham pd,apartments,False,False,False,False
+investigators,city,False,False,False,False
+gresham,man,False,False,False,False
+cellphone,more,False,False,False,False
+they,office depot,False,False,False,False
+4pm,more,False,False,False,False
+woman,neighbor,False,False,False,False
+family,family,True,False,False,False
+whitney heichel,only 21,False,False,False,False
+whitney,tomorrow night,False,False,False,False
+law wire news,thoughts,False,False,False,False
+sad,tonight,False,False,False,False
+suspect,thoughts,False,False,False,False
+sad,family,False,False,False,False
+miz.chellielas vegas world news,jonathon holt,False,False,False,False
+starbucks,u.s news,False,False,False,False
+whitney,neighbor,False,False,False,False
+work,only 21,False,False,False,False
+they,search,False,False,False,False
+the oregonian,law wire news,False,False,False,False
+troutdale,cold world,False,False,False,False
+larch mountain,clackamas county,False,False,False,False
+jonathon holt,investigators,False,False,False,False
+larch mountain,city,False,False,False,False
+whitney heichel.watch,troutdale,False,False,False,False
+gresham,field,False,False,False,False
+remains,4pm,False,False,False,False
+troutdale,five minute,False,False,False,False
+sad,4pm,False,False,False,False
+apartment,search,False,False,False,False
+starbucks,work,False,False,False,False
+family,investigators,False,False,False,False
+now,law wire news,False,False,False,False
+starbucks,family,False,False,False,False
+apartments,investigators,False,False,False,False
+remains,crews,False,False,False,False
+whitney,big,False,False,False,False
+apartments,cold world,False,False,False,False
+tuesday morn.tipline,big,False,False,False,False
+crews,our,False,False,False,False
+it,21-year-old,False,False,False,False
+remains,city,False,False,False,False
+so incredibly,sad,False,False,False,False
+so incredibly,tomorrow night,False,False,False,False
+whitney,crews,False,False,False,False
+cell phone,five minute,False,False,False,False
+police,tuesday morn.tipline,False,False,False,False
+gresham,family,False,False,False,False
+now,cold world,False,False,False,False
+starbucks,woman,False,False,False,False
+miz.chellielas vegas world news,the oregonian,False,False,False,False
+miz.chellielas vegas world news,bushes,False,False,False,False
+whitney heichel,the oregonian,False,False,False,False
+they,oregon,False,False,False,False
+apartments,troutdale,False,False,False,False
+bushes,so sad,False,False,False,False
+gresham,five minute,False,False,False,False
+starbucks,field,False,False,False,False
+so incredibly,so sad,False,False,False,False
+prayers,cold world,False,False,False,False
+miz.chellielas vegas world news,they,False,False,False,False
+cold world,park,False,False,False,False
+barista,so sad,False,False,False,False
+whitney heichel,tonight,False,False,False,False
+gresham pd,yesterday,False,False,False,False
+oregon trail starbucks,kids,False,False,False,False
+search,cold world,False,False,False,False
+field,u.s news,False,False,False,False
+she,big,False,False,False,False
+worker,more,False,False,False,False
+family,4pm,False,False,False,False
+prayers,remains,False,False,False,False
+her,it,False,False,False,False
+news conference,neighbor,False,False,False,False
+she,work,False,False,False,False
+bushes,jonathan holt,False,False,False,False
+cellphone,larch mt,False,False,False,False
+yesterday,overnight,False,False,False,False
+larch mountain,yesterday,False,False,False,False
+her,overnight,False,False,False,False
+oregon trail starbucks,more,False,False,False,False
+missingperson,sad,False,False,False,False
+police,21-year-old,False,False,False,False
+kids,investigators,False,False,False,False
+kids,only 21,False,False,False,False
+prayers,park,False,False,False,False
+city,u.s news,False,False,False,False
+police,cellphone,False,False,False,False
+25 tips,our,False,False,False,False
+now,worker,False,False,False,False
+work,more,False,False,False,False
+whitney heichel,oregon trail starbucks,False,False,False,False
+tonight,4pm,False,False,False,False
+gresham,more,False,False,False,False
+gresham,city,False,False,False,False
+tonight,25 tips,False,False,False,False
+whitney,park,False,False,False,False
+tuesday morn.tipline,larch mt,False,False,False,False
+man,overnight,False,False,False,False
+suspect,searchers,False,False,False,False
+apartments,city,False,False,False,False
+tomorrow night,25 tips,False,False,False,False
+apartment,4pm,False,False,False,False
+prayers,gresham pd,False,False,False,False
+so incredibly,case,False,False,False,False
+searchers,clackamas county,False,False,False,False
+starbucks,so incredibly,False,False,False,False
+tuesday morn.tipline,case,False,False,False,False
+tomorrow night,tuesday morn.tipline,False,False,False,False

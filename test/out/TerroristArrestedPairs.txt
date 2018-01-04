@@ -1,0 +1,1452 @@
+new york,alleged,False,False,False,False
+21-year-old,detonator,False,False,False,False
+fbi,terror,False,False,False,False
+federal reserve,cbsnews,False,False,False,False
+ny federal reserve,allegedly,False,False,False,False
+sky news,detonator,False,False,False,False
+task force,purported,False,False,False,False
+source,task force,False,False,False,False
+new york city,bomb,False,False,False,False
+21-year-old,task force,False,False,False,False
+ny federal reserve bank,new york city,False,False,False,False
+suspect,massive,False,False,False,False
+new york times,fbi-nypd,False,False,False,False
+new york fed,source,False,False,False,False
+man,it,False,False,False,False
+federal reserve,new york federal reserve,False,False,True,False
+it,witless,False,False,False,False
+federal reserve bank,new york fed,False,False,False,False
+muslim,cbsnews,False,False,False,False
+it,fbi-nypd,False,False,False,False
+federal reserve bank of new york,susan candiotti,False,False,False,False
+terrorist,nyc,False,False,False,False
+federal reserve bank,cbsnews,False,False,False,False
+federal reserve,1,000 pound,False,False,False,False
+cbsnews,yahoo ! news,False,False,False,False
+'bomber,nypd,False,False,False,False
+bangladeshi,the lookout,False,False,False,False
+'bomber,bomb,False,False,False,False
+new york city,cbsnews,False,False,False,False
+man,federal reserve bank of new york,False,False,False,False
+bank,new york fed,False,False,False,False
+federal reserve bank,purported,False,False,False,False
+quazi nafis,nyc,False,False,False,False
+nypd,21 years old,False,False,False,False
+new york fed,susan candiotti,False,False,False,False
+ny federal reserve,nypd,False,False,False,False
+ny federal reserve,the lookout,False,False,False,False
+ajc,washington post,False,False,False,False
+suspect,fbi,False,False,False,False
+washington post,task force,False,False,False,False
+muslim,bank,False,False,False,False
+quazi nafis,new york fed,False,False,False,False
+new york,al-qaeda,False,False,False,False
+fbi-nypd,detonator,False,False,False,False
+patsy,nypd,False,False,False,False
+nypd,terror,False,False,False,False
+suspect,ajc,False,False,False,False
+federal reserve bank,source,False,False,False,False
+quazi nafis,alex jones,False,False,False,False
+detonator,susan candiotti,False,False,False,False
+patsy,ny federal reserve,False,False,False,False
+fbi,sky news,False,False,False,False
+man,cnn,False,False,False,False
+source,car,False,False,False,False
+'bomber,federal reserve,False,False,False,False
+'bomber,the lookout,False,False,False,False
+person,new york fed,False,False,False,False
+new york,massive,False,False,False,False
+nyc,susan candiotti,False,False,False,False
+1,000 pound,alex jones,False,False,False,False
+21 years old,car,False,False,False,False
+al-qaeda,fbi-nypd,False,False,False,False
+yahoo ! news,purported,False,False,False,False
+new york federal reserve bank,new york,False,False,True,False
+person,man,False,False,False,False
+quazi nafis,21-year-old,False,False,False,False
+bank,cnn,False,False,False,False
+new york,yahoo ! news,False,False,False,False
+new york federal reserve,21 years old,False,False,False,False
+ny federal reserve,nbc new york,False,False,False,False
+man,situation,False,False,False,False
+1,000 pound,fbi-nypd,False,False,False,False
+new york federal reserve bank,susan candiotti,False,False,False,False
+fed reserve bank,detonator,False,False,False,False
+ajc,nypd,False,False,False,False
+ny federal reserve bank,sky news,False,False,False,False
+nyc,cnn,False,False,False,False
+bank,1,000 pound,False,False,False,False
+muslim,new york,False,False,False,False
+bomb,alleged,False,False,False,False
+federal reserve bank of new york,ny federal reserve,False,False,False,False
+new york city,yahoo ! news,False,False,False,False
+fbi,bomb,False,False,False,False
+new york fed,fbi,False,False,False,False
+quazi nafis,federal reserve,False,False,False,False
+massive,task force,False,False,False,False
+ny federal reserve,susan candiotti,False,False,False,False
+new york federal reserve,fbi-nypd,False,False,False,False
+the lookout,alleged,False,False,False,False
+bangladeshi,ajc,False,False,False,False
+nbc new york,situation,False,False,False,False
+new york,21 years old,False,False,False,False
+source,massive,False,False,False,False
+ajc,allegedly,False,False,False,False
+fed reserve bank,purported,False,False,False,False
+federal reserve bank of new york,yahoo ! news,False,False,False,False
+nypd,the lookout,False,False,False,False
+man,patsy,False,False,False,False
+bomb,terror,False,False,False,False
+task force,allegedly,False,False,False,False
+federal reserve bank of new york,fbi,False,False,False,False
+nbc new york,fbi,False,False,False,False
+car,detonator,False,False,False,False
+it,detonator,False,False,False,False
+sky news,terror,False,False,False,False
+quazi nafis,car,False,False,False,False
+allegedly,situation,False,False,False,False
+suspect,source,False,False,False,False
+patsy,new york federal reserve,False,False,False,False
+bangladeshi,fbi-nypd,False,False,False,False
+new york federal reserve bank,al-qaeda,False,False,False,False
+'bomber,21 years old,False,False,False,False
+fbi,21 years old,False,False,False,False
+fed reserve bank,allegedly,False,False,False,False
+21 years old,situation,False,False,False,False
+suspect,federal reserve bank,False,False,False,False
+fbi,allegedly,False,False,False,False
+muslim,al-qaeda,False,False,False,False
+bangladeshi,terror,False,False,False,False
+new york times,cnn,False,False,False,False
+washington post,situation,False,False,False,False
+car,terror,False,False,False,False
+ny federal reserve bank,new york fed,False,False,False,False
+bangladeshi,detonator,False,False,False,False
+nyc,terror,False,False,False,False
+new york federal reserve bank,fbi-nypd,False,False,False,False
+federal reserve bank,sky news,False,False,False,False
+ny federal reserve,fbi-nypd,False,False,False,False
+person,federal reserve bank of new york,False,False,False,False
+witless,21-year-old,False,False,False,False
+new york federal reserve,nyc,False,False,False,False
+los angeles times,cnn,False,False,False,False
+man,21-year-old,False,False,False,False
+nyc,massive,False,False,False,False
+nypd,situation,False,False,False,False
+suspect,washington post,False,False,False,False
+federal reserve bank of new york,car,False,False,False,False
+quazi nafis,terror,False,False,False,False
+it,ajc,False,False,False,False
+sky news,yahoo ! news,False,False,False,False
+federal reserve bank of new york,bomb,False,False,False,False
+cbsnews,alex jones,False,False,False,False
+source,washington post,False,False,False,False
+nypd,washington post,False,False,False,False
+suspect,new york times,False,False,False,False
+ajc,car,False,False,False,False
+bomb,sky news,False,False,False,False
+massive,washington post,False,False,False,False
+new york,fbi-nypd,False,False,False,False
+terrorist,massive,False,False,False,False
+massive,allegedly,False,False,False,False
+new york city,massive,False,False,False,False
+washington post,fbi-nypd,False,False,False,False
+susan candiotti,terror,False,False,False,False
+'bomber,fbi,False,False,False,False
+the lookout,allegedly,False,False,False,False
+federal reserve,allegedly,False,False,False,False
+witless,nypd,False,False,False,False
+nyc,car,False,False,False,False
+suspected,purported,False,False,False,False
+al-qaeda,detonator,False,False,False,False
+new york times,terror,False,False,False,False
+suspect,nyc,False,False,False,False
+new york fed,it,False,False,False,False
+new york federal reserve bank,source,False,False,False,False
+bank,witless,False,False,False,False
+federal reserve bank of new york,nbc new york,False,False,False,False
+fbi,cbsnews,False,False,False,False
+new york city,washington post,False,False,False,False
+fbi,yahoo ! news,False,False,False,False
+terrorist,quazi nafis,False,False,False,False
+person,federal reserve bank,False,False,False,False
+new york federal reserve,nypd,False,False,False,False
+federal reserve bank of new york,new york federal reserve,False,False,False,False
+suspect,purported,False,False,False,False
+nbc new york,car,False,False,False,False
+bank,massive,False,False,False,False
+federal reserve bank of new york,witless,False,False,False,False
+patsy,susan candiotti,False,False,False,False
+nyc,1,000 pound,False,False,False,False
+21 years old,terror,False,False,False,False
+quazi nafis,nypd,False,False,False,False
+person,fed reserve bank,False,False,False,False
+new york,car,False,False,False,False
+los angeles times,terror,False,False,False,False
+nyc,alleged,False,False,False,False
+man,purported,False,False,False,False
+ny federal reserve,new york federal reserve bank,False,False,False,False
+fed reserve bank,new york fed,False,False,False,False
+21 years old,purported,False,False,False,False
+fbi-nypd,task force,False,False,False,False
+person,ny federal reserve bank,False,False,False,False
+man,task force,False,False,False,False
+man,fed reserve bank,False,False,False,False
+al-qaeda,allegedly,False,False,False,False
+bomb,fbi-nypd,False,False,False,False
+massive,susan candiotti,False,False,False,False
+fed reserve bank,car,False,False,False,False
+new york federal reserve,witless,False,False,False,False
+terrorist,'bomber,False,False,False,False
+fed reserve bank,task force,False,False,False,False
+quazi nafis,new york federal reserve bank,False,False,False,False
+terrorist,man,False,False,False,False
+terrorist,situation,False,False,False,False
+it,1,000 pound,False,False,False,False
+federal reserve,21-year-old,False,False,False,False
+ny federal reserve bank,nypd,False,False,False,False
+federal reserve bank,21-year-old,False,False,False,False
+sky news,allegedly,False,False,False,False
+new york federal reserve,purported,False,False,False,False
+source,situation,False,False,False,False
+los angeles times,susan candiotti,False,False,False,False
+new york,washington post,False,False,False,False
+man,new york federal reserve,False,False,False,False
+suspect,bomb,False,False,False,False
+al-qaeda,terror,False,False,False,False
+federal reserve bank,new york federal reserve,False,False,False,False
+'bomber,suspected,False,False,False,False
+massive,witless,False,False,False,False
+21 years old,1,000 pound,False,False,False,False
+man,quazi nafis,False,False,False,False
+new york times,task force,False,False,False,False
+bangladeshi,it,False,False,False,False
+it,allegedly,False,False,False,False
+fbi,21-year-old,False,False,False,False
+bangladeshi,nbc new york,False,False,False,False
+ajc,cnn,False,False,False,False
+terrorist,cnn,False,False,False,False
+nyc,alex jones,False,False,False,False
+witless,situation,False,False,False,False
+bank,terror,False,False,False,False
+federal reserve bank of new york,bank,False,False,True,False
+person,task force,False,False,False,False
+alleged,terror,False,False,False,False
+federal reserve,task force,False,False,False,False
+bomb,alex jones,False,False,False,False
+muslim,detonator,False,False,False,False
+terrorist,purported,False,False,False,False
+cnn,terror,False,False,False,False
+1,000 pound,los angeles times,False,False,False,False
+new york times,situation,False,False,False,False
+it,yahoo ! news,False,False,False,False
+'bomber,it,False,False,False,False
+new york,nbc new york,False,False,True,False
+new york federal reserve,fbi,False,False,False,False
+new york fed,alex jones,False,False,False,False
+'bomber,new york federal reserve bank,False,False,False,False
+fbi-nypd,los angeles times,False,False,False,False
+witless,purported,False,False,False,False
+new york federal reserve,bomb,False,False,False,False
+suspect,suspected,True,False,False,False
+new york city,terror,False,False,False,False
+bangladeshi,washington post,False,False,False,False
+quazi nafis,washington post,False,False,False,False
+source,21 years old,False,False,False,False
+yahoo ! news,susan candiotti,False,False,False,False
+muslim,the lookout,False,False,False,False
+federal reserve,alleged,False,False,False,False
+fbi,source,False,False,False,False
+source,fbi-nypd,False,False,False,False
+nyc,nypd,False,False,False,False
+cbsnews,purported,False,False,False,False
+patsy,washington post,False,False,False,False
+new york,terror,False,False,False,False
+man,nypd,False,False,False,False
+fed reserve bank,fbi-nypd,False,False,False,False
+person,nypd,False,False,False,False
+bangladeshi,federal reserve bank,False,False,False,False
+muslim,los angeles times,False,False,False,False
+bank,allegedly,False,False,False,False
+federal reserve,fed reserve bank,False,False,False,False
+massive,purported,False,False,False,False
+new york federal reserve bank,nypd,False,False,False,False
+ny federal reserve,terror,False,False,False,False
+new york times,massive,False,False,False,False
+federal reserve bank,fed reserve bank,False,True,False,False
+new york federal reserve,washington post,False,False,False,False
+ny federal reserve,situation,False,False,False,False
+nyc,fbi,False,False,False,False
+federal reserve,alex jones,False,False,False,False
+ajc,los angeles times,False,False,False,False
+nbc new york,alex jones,False,False,False,False
+new york city,situation,False,False,False,False
+new york federal reserve bank,car,False,False,False,False
+new york,alex jones,False,False,False,False
+sky news,21-year-old,False,False,False,False
+terrorist,person,False,False,False,False
+new york,allegedly,False,False,False,False
+new york times,yahoo ! news,False,False,False,False
+muslim,it,False,False,False,False
+suspect,yahoo ! news,False,False,False,False
+federal reserve,it,False,False,False,False
+person,car,False,False,False,False
+muslim,new york federal reserve,False,False,False,False
+it,purported,False,False,False,False
+suspect,cbsnews,False,False,False,False
+bank,new york city,False,False,False,False
+the lookout,detonator,False,False,False,False
+patsy,bangladeshi,False,False,False,False
+muslim,susan candiotti,False,False,False,False
+witless,terror,False,False,False,False
+person,massive,False,False,False,False
+bomb,21 years old,False,False,False,False
+ny federal reserve,sky news,False,False,False,False
+new york federal reserve bank,washington post,False,False,False,False
+ny federal reserve,al-qaeda,False,False,False,False
+cbsnews,situation,False,False,False,False
+source,terror,False,False,False,False
+cbsnews,sky news,False,False,False,False
+terrorist,new york federal reserve,False,False,False,False
+new york,cnn,False,False,False,False
+fed reserve bank,the lookout,False,False,False,False
+car,purported,False,False,False,False
+federal reserve,new york federal reserve bank,False,False,True,False
+man,suspected,False,False,False,False
+al-qaeda,cnn,False,False,False,False
+bomb,bomb,True,False,False,False
+new york,purported,False,False,False,False
+yahoo ! news,los angeles times,False,False,False,False
+sky news,alex jones,False,False,False,False
+new york fed,los angeles times,False,False,False,False
+new york federal reserve,new york fed,False,False,False,False
+patsy,source,False,False,False,False
+quazi nafis,1,000 pound,False,False,False,False
+muslim,nbc new york,False,False,False,False
+bangladeshi,alex jones,False,False,False,False
+source,nypd,False,False,False,False
+federal reserve bank,nypd,False,False,False,False
+new york federal reserve bank,fbi,False,False,False,False
+massive,21 years old,False,False,False,False
+quazi nafis,massive,False,False,False,False
+21-year-old,yahoo ! news,False,False,False,False
+task force,situation,False,False,False,False
+21-year-old,cnn,False,False,False,False
+ny federal reserve,yahoo ! news,False,False,False,False
+ny federal reserve bank,ajc,False,False,False,False
+fed reserve bank,fbi,False,False,False,False
+federal reserve bank,situation,False,False,False,False
+federal reserve bank,detonator,False,False,False,False
+al-qaeda,task force,False,False,False,False
+nbc new york,detonator,False,False,False,False
+bank,los angeles times,False,False,False,False
+terrorist,federal reserve,False,False,False,False
+it,sky news,False,False,False,False
+cbsnews,al-qaeda,False,False,False,False
+new york city,ajc,False,False,False,False
+federal reserve bank,susan candiotti,False,False,False,False
+federal reserve bank of new york,new york city,False,False,False,False
+ny federal reserve bank,cnn,False,False,False,False
+federal reserve,new york times,False,False,False,False
+bank,car,False,False,False,False
+'bomber,bank,False,False,False,False
+person,1,000 pound,False,False,False,False
+1,000 pound,yahoo ! news,False,False,False,False
+suspect,new york city,False,False,False,False
+terrorist,ny federal reserve bank,False,False,False,False
+person,suspected,False,False,False,False
+bangladeshi,21-year-old,False,False,False,False
+nypd,fbi-nypd,False,False,False,False
+fed reserve bank,bomb,False,False,False,False
+suspect,alex jones,False,False,False,False
+ny federal reserve,witless,False,False,False,False
+car,al-qaeda,False,False,False,False
+patsy,fed reserve bank,False,False,False,False
+person,patsy,False,False,False,False
+'bomber,cnn,False,False,False,False
+terrorist,federal reserve bank of new york,False,False,False,False
+patsy,fbi,False,False,False,False
+new york fed,nbc new york,False,False,False,False
+terrorist,federal reserve bank,False,False,False,False
+new york federal reserve bank,new york fed,False,False,False,False
+terrorist,cbsnews,False,False,False,False
+21-year-old,susan candiotti,False,False,False,False
+susan candiotti,alleged,False,False,False,False
+bangladeshi,task force,False,False,False,False
+quazi nafis,ajc,False,False,False,False
+nyc,washington post,False,False,False,False
+suspect,alleged,False,False,False,False
+person,muslim,False,False,False,False
+'bomber,nbc new york,False,False,False,False
+yahoo ! news,allegedly,False,False,False,False
+21-year-old,car,False,False,False,False
+man,massive,False,False,False,False
+suspect,new york federal reserve bank,False,False,False,False
+new york federal reserve,21-year-old,False,False,False,False
+bangladeshi,allegedly,False,False,False,False
+'bomber,fed reserve bank,False,False,False,False
+new york federal reserve bank,1,000 pound,False,False,False,False
+it,los angeles times,False,False,False,False
+muslim,washington post,False,False,False,False
+sky news,ajc,False,False,False,False
+terrorist,alleged,False,False,False,False
+yahoo ! news,cnn,False,False,False,False
+muslim,alleged,False,False,False,False
+car,yahoo ! news,False,False,False,False
+terrorist,suspect,False,False,False,False
+suspect,new york federal reserve,False,False,False,False
+new york federal reserve bank,21-year-old,False,False,False,False
+new york city,sky news,False,False,False,False
+terrorist,new york,False,False,False,False
+massive,detonator,False,False,False,False
+new york federal reserve,the lookout,False,False,False,False
+washington post,los angeles times,False,False,False,False
+man,ny federal reserve bank,False,False,False,False
+bank,detonator,False,False,False,False
+witless,witless,True,False,False,False
+alleged,situation,False,False,False,False
+man,the lookout,False,False,False,False
+new york federal reserve,detonator,False,False,False,False
+'bomber,detonator,False,False,False,False
+federal reserve,new york city,False,False,False,False
+alleged,alleged,True,False,False,False
+terror,terror,True,False,False,False
+nyc,sky news,False,False,False,False
+sky news,los angeles times,False,False,False,False
+terrorist,detonator,False,False,False,False
+bangladeshi,source,False,False,False,False
+ny federal reserve bank,new york federal reserve,False,False,False,False
+new york federal reserve,allegedly,False,False,False,False
+washington post,yahoo ! news,False,False,False,False
+source,detonator,False,False,False,False
+fbi,situation,False,False,False,False
+task force,cnn,False,False,False,False
+muslim,fed reserve bank,False,False,False,False
+patsy,allegedly,False,False,False,False
+patsy,bomb,False,False,False,False
+fbi,purported,False,False,False,False
+bangladeshi,fbi,False,False,False,False
+task force,alex jones,False,False,False,False
+suspect,21 years old,False,False,False,False
+susan candiotti,situation,False,False,False,False
+federal reserve,detonator,False,False,False,False
+sky news,witless,False,False,False,False
+cnn,situation,False,False,False,False
+1,000 pound,task force,False,False,False,False
+nbc new york,massive,False,False,False,False
+new york federal reserve bank,21 years old,False,False,False,False
+car,the lookout,False,False,False,False
+new york times,car,False,False,False,False
+man,al-qaeda,False,False,False,False
+quazi nafis,new york,False,False,False,False
+nbc new york,sky news,False,False,False,False
+ajc,situation,False,False,False,False
+ny federal reserve bank,ny federal reserve bank,False,True,False,False
+fbi,detonator,False,False,False,False
+federal reserve bank,federal reserve bank,False,True,False,False
+bank,21-year-old,False,False,False,False
+terrorist,bangladeshi,False,False,False,False
+alleged,purported,False,False,False,False
+federal reserve,federal reserve bank,False,True,False,False
+purported,terror,False,False,False,False
+new york,susan candiotti,False,False,False,False
+federal reserve bank of new york,new york times,False,False,False,False
+federal reserve bank of new york,washington post,False,False,False,False
+fbi,task force,False,False,False,False
+fed reserve bank,1,000 pound,False,False,False,False
+sky news,nypd,False,False,False,False
+new york times,witless,False,False,False,False
+suspect,cnn,False,False,False,False
+source,21-year-old,False,False,False,False
+federal reserve bank of new york,cnn,False,False,False,False
+cbsnews,the lookout,False,False,False,False
+bangladeshi,suspected,False,False,False,False
+21 years old,alleged,False,False,False,False
+it,car,False,False,False,False
+new york,1,000 pound,False,False,False,False
+ny federal reserve,task force,False,False,False,False
+new york city,allegedly,False,False,False,False
+bank,fbi,False,False,False,False
+bomb,1,000 pound,False,False,False,False
+21 years old,los angeles times,False,False,False,False
+massive,nypd,False,False,False,False
+nbc new york,witless,False,False,False,False
+car,susan candiotti,False,False,False,False
+terrorist,1,000 pound,False,False,False,False
+suspect,los angeles times,False,False,False,False
+patsy,ajc,False,False,False,False
+fed reserve bank,cnn,False,False,False,False
+source,witless,False,False,False,False
+21 years old,washington post,False,False,False,False
+bangladeshi,quazi nafis,False,False,False,False
+bangladeshi,los angeles times,False,False,False,False
+new york federal reserve bank,task force,False,False,False,False
+ny federal reserve,washington post,False,False,False,False
+new york,fbi,False,False,False,False
+quazi nafis,bank,False,False,False,False
+21 years old,the lookout,False,False,False,False
+task force,detonator,False,False,False,False
+1,000 pound,susan candiotti,False,False,False,False
+federal reserve,terror,False,False,False,False
+quazi nafis,new york city,False,False,False,False
+new york federal reserve,task force,False,False,False,False
+fed reserve bank,new york,False,False,False,False
+'bomber,federal reserve bank,False,False,False,False
+detonator,allegedly,False,False,False,False
+new york fed,allegedly,False,False,False,False
+massive,los angeles times,False,False,False,False
+new york federal reserve,it,False,False,False,False
+fed reserve bank,situation,False,False,False,False
+ny federal reserve,new york federal reserve,False,True,False,False
+los angeles times,alex jones,False,False,False,False
+new york fed,sky news,False,False,False,False
+21 years old,allegedly,False,False,False,False
+patsy,federal reserve,False,False,False,False
+cbsnews,terror,False,False,False,False
+ny federal reserve bank,source,False,False,False,False
+man,fbi,False,False,False,False
+'bomber,ny federal reserve bank,False,False,False,False
+quazi nafis,ny federal reserve bank,False,False,False,False
+bomb,21-year-old,False,False,False,False
+yahoo ! news,fbi-nypd,False,False,False,False
+bank,nbc new york,False,False,False,False
+terrorist,sky news,False,False,False,False
+new york,detonator,False,False,False,False
+man,allegedly,False,False,False,False
+alex jones,situation,False,False,False,False
+nypd,yahoo ! news,False,False,False,False
+suspect,fbi-nypd,False,False,False,False
+massive,alex jones,False,False,False,False
+sky news,washington post,False,False,False,False
+muslim,21 years old,False,False,False,False
+federal reserve bank,alex jones,False,False,False,False
+patsy,quazi nafis,False,False,False,False
+federal reserve,al-qaeda,False,False,False,False
+man,alleged,False,False,False,False
+new york times,al-qaeda,False,False,False,False
+federal reserve,sky news,False,False,False,False
+quazi nafis,federal reserve bank,False,False,False,False
+terrorist,witless,False,False,False,False
+man,detonator,False,False,False,False
+muslim,21-year-old,False,False,False,False
+terrorist,allegedly,False,False,False,False
+'bomber,susan candiotti,False,False,False,False
+terrorist,21-year-old,False,False,False,False
+witless,task force,False,False,False,False
+massive,21-year-old,False,False,False,False
+federal reserve bank of new york,federal reserve bank,False,False,True,False
+ny federal reserve,alex jones,False,False,False,False
+21-year-old,the lookout,False,False,False,False
+new york fed,new york city,False,False,False,False
+new york times,ajc,False,False,False,False
+man,bangladeshi,False,False,False,False
+federal reserve bank,new york times,False,False,False,False
+yahoo ! news,task force,False,False,False,False
+patsy,federal reserve bank,False,False,False,False
+new york fed,task force,False,False,False,False
+witless,ajc,False,False,False,False
+new york,new york times,False,False,True,False
+bangladeshi,alleged,False,False,False,False
+new york fed,washington post,False,False,False,False
+nyc,21 years old,False,False,False,False
+new york federal reserve bank,it,False,False,False,False
+yahoo ! news,detonator,False,False,False,False
+person,cbsnews,False,False,False,False
+nbc new york,cbsnews,False,False,False,False
+person,los angeles times,False,False,False,False
+massive,the lookout,False,False,False,False
+person,alex jones,False,False,False,False
+nypd,alleged,False,False,False,False
+bangladeshi,federal reserve bank of new york,False,False,False,False
+car,1,000 pound,False,False,False,False
+new york federal reserve bank,alex jones,False,False,False,False
+new york city,fbi,False,False,False,False
+muslim,new york city,False,False,False,False
+man,man,True,False,False,False
+al-qaeda,situation,False,False,False,False
+ajc,al-qaeda,False,False,False,False
+person,witless,False,False,False,False
+ajc,the lookout,False,False,False,False
+nypd,21-year-old,False,False,False,False
+suspect,car,False,False,False,False
+cbsnews,21-year-old,False,False,False,False
+new york federal reserve,terror,False,False,False,False
+cbsnews,washington post,False,False,False,False
+man,1,000 pound,False,False,False,False
+man,'bomber,False,False,False,False
+ny federal reserve bank,los angeles times,False,False,False,False
+new york federal reserve,alex jones,False,False,False,False
+allegedly,purported,False,False,False,False
+ny federal reserve,fed reserve bank,False,False,False,False
+nypd,task force,False,False,False,False
+susan candiotti,purported,False,False,False,False
+the lookout,task force,False,False,False,False
+new york city,21 years old,False,False,False,False
+person,yahoo ! news,False,False,False,False
+bomb,washington post,False,False,False,False
+federal reserve,new york fed,False,False,False,False
+witless,allegedly,False,False,False,False
+quazi nafis,yahoo ! news,False,False,False,False
+new york fed,nypd,False,False,False,False
+los angeles times,detonator,False,False,False,False
+bangladeshi,situation,False,False,False,False
+ny federal reserve bank,ny federal reserve,False,True,False,False
+fbi,los angeles times,False,False,False,False
+21-year-old,21 years old,False,False,False,False
+cbsnews,detonator,False,False,False,False
+federal reserve bank,massive,False,False,False,False
+nbc new york,susan candiotti,False,False,False,False
+quazi nafis,al-qaeda,False,False,False,False
+muslim,witless,False,False,False,False
+patsy,new york federal reserve bank,False,False,False,False
+bangladeshi,suspect,False,False,False,False
+massive,terror,False,False,False,False
+ajc,yahoo ! news,False,False,False,False
+ny federal reserve,bomb,False,False,False,False
+suspect,21-year-old,False,False,False,False
+person,new york federal reserve,False,False,False,False
+new york federal reserve,cnn,False,False,False,False
+federal reserve bank,witless,False,False,False,False
+patsy,sky news,False,False,False,False
+patsy,al-qaeda,False,False,False,False
+nyc,cbsnews,False,False,False,False
+new york fed,car,False,False,False,False
+man,federal reserve,False,False,False,False
+fed reserve bank,new york city,False,False,False,False
+new york federal reserve bank,alleged,False,False,False,False
+witless,21 years old,False,False,False,False
+man,susan candiotti,False,False,False,False
+'bomber,yahoo ! news,False,False,False,False
+source,allegedly,False,False,False,False
+nyc,nyc,False,True,False,False
+man,21 years old,False,False,False,False
+new york federal reserve,ajc,False,False,False,False
+the lookout,cnn,False,False,False,False
+man,new york times,False,False,False,False
+new york city,los angeles times,False,False,False,False
+witless,yahoo ! news,False,False,False,False
+person,bangladeshi,False,False,False,False
+21-year-old,al-qaeda,False,False,False,False
+ajc,susan candiotti,False,False,False,False
+person,new york,False,False,False,False
+bangladeshi,car,False,False,False,False
+ny federal reserve,it,False,False,False,False
+new york,the lookout,False,False,False,False
+new york city,nypd,False,False,False,False
+new york fed,fbi-nypd,False,False,False,False
+new york federal reserve bank,nyc,False,False,False,False
+federal reserve bank,los angeles times,False,False,False,False
+fbi-nypd,susan candiotti,False,False,False,False
+federal reserve,susan candiotti,False,False,False,False
+suspect,federal reserve bank of new york,False,False,False,False
+source,1,000 pound,False,False,False,False
+witless,alleged,False,False,False,False
+man,federal reserve bank,False,False,False,False
+person,quazi nafis,False,False,False,False
+cbsnews,it,False,False,False,False
+yahoo ! news,situation,False,False,False,False
+the lookout,fbi-nypd,False,False,False,False
+terrorist,ajc,False,False,False,False
+new york federal reserve bank,terror,False,False,False,False
+man,nbc new york,False,False,False,False
+witless,susan candiotti,False,False,False,False
+bangladeshi,sky news,False,False,False,False
+ajc,detonator,False,False,False,False
+washington post,purported,False,False,False,False
+patsy,new york fed,False,False,False,False
+detonator,terror,False,False,False,False
+ny federal reserve bank,massive,False,False,False,False
+ny federal reserve,new york city,False,False,False,False
+person,sky news,False,False,False,False
+source,cnn,False,False,False,False
+washington post,susan candiotti,False,False,False,False
+ny federal reserve bank,alex jones,False,False,False,False
+nbc new york,21 years old,False,False,False,False
+new york fed,nyc,False,False,False,False
+terrorist,yahoo ! news,False,False,False,False
+21 years old,alex jones,False,False,False,False
+massive,1,000 pound,False,False,False,False
+muslim,new york times,False,False,False,False
+task force,los angeles times,False,False,False,False
+bank,the lookout,False,False,False,False
+ny federal reserve,21-year-old,False,False,False,False
+car,car,True,False,False,False
+federal reserve bank of new york,fed reserve bank,False,False,False,False
+nbc new york,purported,False,False,False,False
+yahoo ! news,alex jones,False,False,False,False
+nyc,al-qaeda,False,False,False,False
+nbc new york,21-year-old,False,False,False,False
+nyc,los angeles times,False,False,False,False
+federal reserve,federal reserve bank of new york,False,False,True,False
+fbi,susan candiotti,False,False,False,False
+ny federal reserve bank,task force,False,False,False,False
+nyc,detonator,False,False,False,False
+'bomber,quazi nafis,False,False,False,False
+nypd,cnn,False,False,False,False
+cbsnews,task force,False,False,False,False
+federal reserve bank,the lookout,False,False,False,False
+quazi nafis,fbi-nypd,False,False,False,False
+new york,bomb,False,False,False,False
+bangladeshi,federal reserve,False,False,False,False
+terrorist,washington post,False,False,False,False
+bangladeshi,new york fed,False,False,False,False
+suspect,susan candiotti,False,False,False,False
+patsy,new york city,False,False,False,False
+new york federal reserve,1,000 pound,False,False,False,False
+terrorist,fed reserve bank,False,False,False,False
+the lookout,purported,False,False,False,False
+ny federal reserve bank,susan candiotti,False,False,False,False
+car,situation,False,False,False,False
+man,yahoo ! news,False,False,False,False
+federal reserve,ny federal reserve,False,True,False,False
+patsy,nyc,False,False,False,False
+nbc new york,allegedly,False,False,False,False
+new york times,sky news,False,False,False,False
+bomb,susan candiotti,False,False,False,False
+new york times,the lookout,False,False,False,False
+terrorist,fbi,False,False,False,False
+new york times,21-year-old,False,False,False,False
+21 years old,yahoo ! news,False,False,False,False
+nbc new york,it,False,False,False,False
+man,los angeles times,False,False,False,False
+al-qaeda,1,000 pound,False,False,False,False
+new york times,purported,False,False,False,False
+patsy,detonator,False,False,False,False
+nbc new york,fbi-nypd,False,False,False,False
+federal reserve bank of new york,al-qaeda,False,False,False,False
+new york city,detonator,False,False,False,False
+source,ajc,False,False,False,False
+suspect,ny federal reserve bank,False,False,False,False
+fed reserve bank,source,False,False,False,False
+detonator,alleged,False,False,False,False
+terrorist,terror,False,False,False,False
+the lookout,alex jones,False,False,False,False
+federal reserve,washington post,False,False,False,False
+21-year-old,1,000 pound,False,False,False,False
+new york times,nypd,False,False,False,False
+alleged,allegedly,False,True,False,False
+cbsnews,allegedly,False,False,False,False
+ny federal reserve,ajc,False,False,False,False
+al-qaeda,the lookout,False,False,False,False
+muslim,ny federal reserve bank,False,False,False,False
+sky news,purported,False,False,False,False
+federal reserve bank,al-qaeda,False,False,False,False
+new york federal reserve,new york,False,False,True,False
+suspected,alleged,False,False,False,False
+fbi,fbi-nypd,False,False,False,False
+muslim,nyc,False,False,False,False
+'bomber,new york fed,False,False,False,False
+1,000 pound,allegedly,False,False,False,False
+new york federal reserve bank,new york city,False,False,False,False
+car,allegedly,False,False,False,False
+bank,alleged,False,False,False,False
+new york,source,False,False,False,False
+fbi,alleged,False,False,False,False
+new york federal reserve,new york federal reserve,False,True,False,False
+al-qaeda,yahoo ! news,False,False,False,False
+ny federal reserve,purported,False,False,False,False
+fbi-nypd,situation,False,False,False,False
+new york fed,massive,False,False,False,False
+suspect,witless,False,False,False,False
+ny federal reserve,21 years old,False,False,False,False
+car,alleged,False,False,False,False
+'bomber,1,000 pound,False,False,False,False
+patsy,car,False,False,False,False
+fbi-nypd,terror,False,False,False,False
+'bomber,new york federal reserve,False,False,False,False
+bangladeshi,new york times,False,False,False,False
+bangladeshi,yahoo ! news,False,False,False,False
+ny federal reserve bank,witless,False,False,False,False
+person,fbi-nypd,False,False,False,False
+witless,fbi-nypd,False,False,False,False
+detonator,situation,False,False,False,False
+muslim,purported,False,False,False,False
+patsy,patsy,True,False,False,False
+federal reserve,21 years old,False,False,False,False
+suspect,detonator,False,False,False,False
+federal reserve bank,bomb,False,False,False,False
+terrorist,alex jones,False,False,False,False
+21-year-old,terror,False,False,False,False
+federal reserve bank,alleged,False,False,False,False
+patsy,ny federal reserve bank,False,False,False,False
+bomb,it,False,False,False,False
+patsy,federal reserve bank of new york,False,False,False,False
+ny federal reserve bank,allegedly,False,False,False,False
+ny federal reserve bank,new york,False,False,False,False
+bomb,detonator,False,False,False,False
+ny federal reserve bank,cbsnews,False,False,False,False
+person,detonator,False,False,False,False
+21-year-old,allegedly,False,False,False,False
+man,sky news,False,False,False,False
+new york federal reserve bank,massive,False,False,False,False
+man,car,False,False,False,False
+bomb,ajc,False,False,False,False
+washington post,detonator,False,False,False,False
+person,washington post,False,False,False,False
+new york federal reserve bank,fed reserve bank,False,False,False,False
+fed reserve bank,nypd,False,False,False,False
+the lookout,situation,False,False,False,False
+new york,task force,False,False,False,False
+cbsnews,ajc,False,False,False,False
+new york federal reserve bank,allegedly,False,False,False,False
+federal reserve bank of new york,it,False,False,False,False
+witless,the lookout,False,False,False,False
+ny federal reserve,source,False,False,False,False
+bangladeshi,1,000 pound,False,False,False,False
+21 years old,fbi-nypd,False,False,False,False
+bank,nyc,False,False,False,False
+source,alleged,False,False,False,False
+federal reserve bank of new york,federal reserve bank of new york,False,True,False,False
+new york,witless,False,False,False,False
+new york city,witless,False,False,False,False
+nyc,fbi-nypd,False,False,False,False
+bangladeshi,massive,False,False,False,False
+terror,alex jones,False,False,False,False
+fed reserve bank,nbc new york,False,False,False,False
+new york federal reserve,massive,False,False,False,False
+federal reserve bank,yahoo ! news,False,False,False,False
+federal reserve bank,ajc,False,False,False,False
+bank,purported,False,False,False,False
+terrorist,los angeles times,False,False,False,False
+suspect,nbc new york,False,False,False,False
+nbc new york,los angeles times,False,False,False,False
+sky news,the lookout,False,False,False,False
+fed reserve bank,21-year-old,False,False,False,False
+new york times,21 years old,False,False,False,False
+quazi nafis,los angeles times,False,False,False,False
+federal reserve bank of new york,21 years old,False,False,False,False
+fbi,alex jones,False,False,False,False
+ny federal reserve bank,yahoo ! news,False,False,False,False
+person,bomb,False,False,False,False
+federal reserve bank,new york,False,False,False,False
+terrorist,bomb,False,False,False,False
+terrorist,new york times,False,False,False,False
+patsy,witless,False,False,False,False
+federal reserve,fbi,False,False,False,False
+nyc,task force,False,False,False,False
+new york city,21-year-old,False,False,False,False
+muslim,federal reserve bank,False,False,False,False
+source,sky news,False,False,False,False
+person,the lookout,False,False,False,False
+new york city,new york times,False,False,False,False
+person,fbi,False,False,False,False
+terrorist,nypd,False,False,False,False
+massive,situation,False,False,False,False
+suspect,it,False,False,False,False
+ny federal reserve,new york fed,False,False,False,False
+federal reserve bank of new york,alleged,False,False,False,False
+man,fbi-nypd,False,False,False,False
+bank,source,False,False,False,False
+new york federal reserve,susan candiotti,False,False,False,False
+fbi-nypd,alleged,False,False,False,False
+quazi nafis,susan candiotti,False,False,False,False
+patsy,21 years old,False,False,False,False
+witless,1,000 pound,False,False,False,False
+nbc new york,nypd,False,False,False,False
+massive,alleged,False,False,False,False
+muslim,federal reserve,False,False,False,False
+suspect,al-qaeda,False,False,False,False
+muslim,nypd,False,False,False,False
+man,ajc,False,False,False,False
+bomb,purported,False,False,False,False
+sky news,al-qaeda,False,False,False,False
+ny federal reserve,cbsnews,False,False,False,False
+witless,los angeles times,False,False,False,False
+bangladeshi,witless,False,False,False,False
+muslim,yahoo ! news,False,False,False,False
+fbi-nypd,alex jones,False,False,False,False
+detonator,alex jones,False,False,False,False
+source,yahoo ! news,False,False,False,False
+new york city,susan candiotti,False,False,False,False
+suspect,ny federal reserve,False,False,False,False
+bomb,al-qaeda,False,False,False,False
+quazi nafis,ny federal reserve,False,False,False,False
+'bomber,new york,False,False,False,False
+ny federal reserve bank,detonator,False,False,False,False
+new york city,car,False,False,False,False
+'bomber,los angeles times,False,False,False,False
+fbi,cnn,False,False,False,False
+cnn,alex jones,False,False,False,False
+bank,bomb,False,False,False,False
+ny federal reserve bank,car,False,False,False,False
+federal reserve bank,1,000 pound,False,False,False,False
+patsy,cnn,False,False,False,False
+los angeles times,situation,False,False,False,False
+new york city,alleged,False,False,False,False
+new york fed,cnn,False,False,False,False
+witless,washington post,False,False,False,False
+new york times,alleged,False,False,False,False
+muslim,sky news,False,False,False,False
+'bomber,witless,False,False,False,False
+federal reserve bank,fbi,False,False,False,False
+al-qaeda,susan candiotti,False,False,False,False
+'bomber,car,False,False,False,False
+nbc new york,source,False,False,False,False
+federal reserve bank of new york,cbsnews,False,False,False,False
+man,new york city,False,False,False,False
+ny federal reserve bank,fed reserve bank,False,False,False,False
+new york fed,new york,False,False,True,False
+new york times,susan candiotti,False,False,False,False
+'bomber,allegedly,False,False,False,False
+quazi nafis,alleged,False,False,False,False
+nyc,situation,False,False,False,False
+'bomber,massive,False,False,False,False
+it,alex jones,False,False,False,False
+nyc,ajc,False,False,False,False
+21 years old,detonator,False,False,False,False
+bank,situation,False,False,False,False
+ny federal reserve,los angeles times,False,False,False,False
+terrorist,new york fed,False,False,False,False
+suspected,allegedly,False,False,False,False
+ny federal reserve bank,bomb,False,False,False,False
+person,it,False,False,False,False
+ajc,terror,False,False,False,False
+bank,al-qaeda,False,False,False,False
+nbc new york,washington post,False,False,False,False
+it,alleged,False,False,False,False
+al-qaeda,los angeles times,False,False,False,False
+federal reserve,los angeles times,False,False,False,False
+source,cbsnews,False,False,False,False
+los angeles times,purported,False,False,False,False
+nbc new york,ajc,False,False,False,False
+suspect,fed reserve bank,False,False,False,False
+bangladeshi,purported,False,False,False,False
+'bomber,21-year-old,False,False,False,False
+terrorist,new york city,False,False,False,False
+sky news,car,False,False,False,False
+federal reserve,ajc,False,False,False,False
+ny federal reserve bank,fbi,False,False,False,False
+new york fed,yahoo ! news,False,False,False,False
+person,bank,False,False,False,False
+source,the lookout,False,False,False,False
+ajc,alex jones,False,False,False,False
+witless,al-qaeda,False,False,False,False
+man,washington post,False,False,False,False
+'bomber,alleged,False,False,False,False
+suspect,situation,False,False,False,False
+suspected,suspected,True,False,False,False
+nypd,alex jones,False,False,False,False
+quazi nafis,federal reserve bank of new york,False,False,False,False
+patsy,alex jones,False,False,False,False
+witless,cnn,False,False,False,False
+ny federal reserve,new york,False,False,False,False
+21-year-old,alex jones,False,False,False,False
+bangladeshi,bank,False,False,False,False
+fbi,washington post,False,False,False,False
+quazi nafis,purported,False,False,False,False
+patsy,massive,False,False,False,False
+los angeles times,allegedly,False,False,False,False
+federal reserve,federal reserve,False,True,False,False
+bomb,the lookout,False,False,False,False
+allegedly,terror,False,False,False,False
+new york federal reserve,yahoo ! news,False,False,False,False
+patsy,the lookout,False,False,False,False
+21-year-old,fbi-nypd,False,False,False,False
+car,cnn,False,False,False,False
+new york city,task force,False,False,False,False
+new york federal reserve,sky news,False,False,False,False
+new york federal reserve,nbc new york,False,False,False,False
+nypd,allegedly,False,False,False,False
+federal reserve bank of new york,nyc,False,False,False,False
+fed reserve bank,21 years old,False,False,False,False
+federal reserve,source,False,False,False,False
+person,federal reserve,False,False,False,False
+the lookout,los angeles times,False,False,False,False
+sky news,21 years old,False,False,False,False
+patsy,suspect,False,False,False,False
+new york federal reserve bank,nbc new york,False,False,False,False
+source,it,False,False,False,False
+nbc new york,new york times,False,False,False,False
+car,washington post,False,False,False,False
+source,al-qaeda,False,False,False,False
+quazi nafis,new york federal reserve,False,False,False,False
+task force,terror,False,False,False,False
+al-qaeda,alex jones,False,False,False,False
+ny federal reserve bank,situation,False,False,False,False
+muslim,allegedly,False,False,False,False
+quazi nafis,task force,False,False,False,False
+'bomber,terror,False,False,False,False
+nyc,yahoo ! news,False,False,False,False
+fbi-nypd,purported,False,False,False,False
+man,muslim,False,False,False,False
+new york federal reserve bank,ajc,False,False,False,False
+muslim,car,False,False,False,False
+person,susan candiotti,False,False,False,False
+bomb,allegedly,False,False,False,False
+the lookout,terror,False,False,False,False
+new york,new york,False,True,False,False
+federal reserve,situation,False,False,False,False
+witless,alex jones,False,False,False,False
+muslim,suspected,False,False,False,False
+man,suspect,False,False,False,False
+patsy,cbsnews,False,False,False,False
+task force,alleged,False,False,False,False
+quazi nafis,nbc new york,False,False,False,False
+bank,washington post,False,False,False,False
+'bomber,sky news,False,False,False,False
+car,alex jones,False,False,False,False
+nbc new york,terror,False,False,False,False
+1,000 pound,alleged,False,False,False,False
+bomb,los angeles times,False,False,False,False
+bomb,nypd,False,False,False,False
+man,terror,False,False,False,False
+1,000 pound,cnn,False,False,False,False
+source,bomb,False,False,False,False
+new york federal reserve,los angeles times,False,False,False,False
+witless,detonator,False,False,False,False
+bangladeshi,new york federal reserve bank,False,False,False,False
+fed reserve bank,nyc,False,False,False,False
+patsy,1,000 pound,False,False,False,False
+new york federal reserve bank,new york times,False,False,False,False
+it,21 years old,False,False,False,False
+terrorist,the lookout,False,False,False,False
+federal reserve bank,task force,False,False,False,False
+fbi,al-qaeda,False,False,False,False
+'bomber,federal reserve bank of new york,False,False,False,False
+person,new york city,False,False,False,False
+new york federal reserve,alleged,False,False,False,False
+21-year-old,los angeles times,False,False,False,False
+'bomber,purported,False,False,False,False
+bangladeshi,fed reserve bank,False,False,False,False
+massive,al-qaeda,False,False,False,False
+suspect,sky news,False,False,False,False
+new york federal reserve bank,bomb,False,False,False,False
+nypd,1,000 pound,False,False,False,False
+quazi nafis,cnn,False,False,False,False
+suspected,alex jones,False,False,False,False
+new york federal reserve bank,detonator,False,False,False,False
+ny federal reserve,car,False,False,False,False
+witless,car,False,False,False,False
+fbi,fbi,True,False,False,False
+new york fed,alleged,False,False,False,False
+federal reserve bank of new york,fbi-nypd,False,False,False,False
+bank,ajc,False,False,False,False
+person,'bomber,False,False,False,False
+washington post,terror,False,False,False,False
+person,new york federal reserve bank,False,False,False,False
+'bomber,al-qaeda,False,False,False,False
+fbi,witless,False,False,False,False
+bank,fed reserve bank,False,False,True,False
+'bomber,situation,False,False,False,False
+new york,situation,False,False,False,False
+federal reserve bank,ny federal reserve,False,False,False,False
+patsy,suspected,False,False,False,False
+federal reserve bank of new york,source,False,False,False,False
+terrorist,fbi-nypd,False,False,False,False
+new york fed,new york times,False,False,False,False
+bangladeshi,bomb,False,False,False,False
+cbsnews,susan candiotti,False,False,False,False
+ny federal reserve,alleged,False,False,False,False
+federal reserve bank,nyc,False,False,False,False
+quazi nafis,situation,False,False,False,False
+bank,task force,False,False,False,False
+bank,alex jones,False,False,False,False
+federal reserve bank,21 years old,False,False,False,False
+1,000 pound,terror,False,False,False,False
+federal reserve bank,fbi-nypd,False,False,False,False
+patsy,task force,False,False,False,False
+muslim,fbi,False,False,False,False
+washington post,alleged,False,False,False,False
+new york city,nbc new york,False,False,False,False
+'bomber,task force,False,False,False,False
+terrorist,muslim,False,False,False,False
+federal reserve bank of new york,21-year-old,False,False,False,False
+new york city,al-qaeda,False,False,False,False
+new york fed,21 years old,False,False,False,False
+federal reserve bank of new york,ny federal reserve bank,False,False,False,False
+nyc,witless,False,False,False,False
+fbi-nypd,allegedly,False,False,False,False
+muslim,new york fed,False,False,False,False
+federal reserve bank of new york,new york federal reserve bank,False,False,False,False
+massive,yahoo ! news,False,False,False,False
+ny federal reserve,nyc,False,False,False,False
+ny federal reserve bank,new york times,False,False,False,False
+person,situation,False,False,False,False
+new york federal reserve,situation,False,False,False,False
+suspected,situation,False,False,False,False
+fed reserve bank,washington post,False,False,False,False
+muslim,fbi-nypd,False,False,False,False
+nyc,source,False,False,False,False
+federal reserve,yahoo ! news,False,False,False,False
+'bomber,cbsnews,False,False,False,False
+quazi nafis,it,False,False,False,False
+federal reserve bank of new york,allegedly,False,False,False,False
+cbsnews,fbi-nypd,False,False,False,False
+ny federal reserve bank,the lookout,False,False,False,False
+person,nbc new york,False,False,False,False
+cbsnews,witless,False,False,False,False
+federal reserve bank of new york,los angeles times,False,False,False,False
+washington post,cnn,False,False,False,False
+muslim,terror,False,False,False,False
+new york,it,False,False,False,False
+21 years old,task force,False,False,False,False
+man,new york,False,False,False,False
+cbsnews,los angeles times,False,False,False,False
+fbi-nypd,cnn,False,False,False,False
+fed reserve bank,los angeles times,False,False,False,False
+man,cbsnews,False,False,False,False
+'bomber,nyc,False,False,False,False
+fbi,it,False,False,False,False
+detonator,purported,False,False,False,False
+new york fed,the lookout,False,False,False,False
+suspect,federal reserve,False,False,False,False
+sky news,massive,False,False,False,False
+fbi,nypd,False,False,False,False
+1,000 pound,detonator,False,False,False,False
+it,situation,False,False,False,False
+fed reserve bank,witless,False,False,False,False
+patsy,it,False,False,False,False
+cnn,susan candiotti,False,False,False,False
+new york federal reserve,cbsnews,False,False,False,False
+new york times,detonator,False,False,False,False
+man,source,False,False,False,False
+nbc new york,al-qaeda,False,False,False,False
+new york federal reserve bank,sky news,False,False,False,False
+new york fed,witless,False,False,False,False
+person,al-qaeda,False,False,False,False
+it,susan candiotti,False,False,False,False
+terrorist,source,False,False,False,False
+federal reserve bank of new york,ajc,False,False,False,False
+federal reserve bank,allegedly,False,False,False,False
+person,purported,False,False,False,False
+'bomber,fbi-nypd,False,False,False,False
+muslim,task force,False,False,False,False
+nbc new york,task force,False,False,False,False
+sky news,alleged,False,False,False,False
+nyc,allegedly,False,False,False,False
+washington post,allegedly,False,False,False,False
+bangladeshi,cbsnews,False,False,False,False
+fed reserve bank,alex jones,False,False,False,False
+muslim,patsy,False,False,False,False
+cnn,allegedly,False,False,False,False
+ny federal reserve,new york times,False,False,False,False
+susan candiotti,alex jones,False,False,False,False
+bangladeshi,new york,False,False,False,False
+federal reserve bank of new york,massive,False,False,False,False
+bangladeshi,cnn,False,False,False,False
+terrorist,bank,False,False,False,False
+federal reserve,purported,False,False,False,False
+21-year-old,purported,False,False,False,False
+person,allegedly,False,False,False,False
+nbc new york,1,000 pound,False,False,False,False
+'bomber,source,False,False,False,False
+source,los angeles times,False,False,False,False
+man,ny federal reserve,False,False,False,False
+yahoo ! news,terror,False,False,False,False
+federal reserve,bank,False,False,False,False
+ajc,21-year-old,False,False,False,False
+new york fed,bomb,False,False,False,False
+federal reserve,nyc,False,False,False,False
+new york federal reserve bank,cbsnews,False,False,False,False
+terrorist,it,False,False,False,False
+fed reserve bank,yahoo ! news,False,False,False,False
+federal reserve,fbi-nypd,False,False,False,False
+suspected,terror,False,False,False,False
+suspect,quazi nafis,False,False,False,False
+cnn,purported,False,False,False,False
+al-qaeda,washington post,False,False,False,False
+21 years old,cnn,False,False,False,False
+terrorist,suspected,False,False,False,False
+bank,nypd,False,False,False,False
+fed reserve bank,new york times,False,False,False,False
+nbc new york,bomb,False,False,False,False
+person,terror,False,False,False,False
+federal reserve bank of new york,the lookout,False,False,False,False
+the lookout,yahoo ! news,False,False,False,False
+new york federal reserve bank,witless,False,False,False,False
+purported,situation,False,False,False,False
+fbi,car,False,False,False,False
+nbc new york,yahoo ! news,False,False,False,False
+muslim,alex jones,False,False,False,False
+patsy,new york times,False,False,False,False
+quazi nafis,bomb,False,False,False,False
+bank,fbi-nypd,False,False,False,False
+nypd,susan candiotti,False,False,False,False
+patsy,'bomber,False,False,False,False
+suspect,the lookout,False,False,False,False
+new york federal reserve,al-qaeda,False,False,False,False
+new york city,it,False,False,False,False
+bank,susan candiotti,False,False,False,False
+bank,sky news,False,False,False,False
+patsy,yahoo ! news,False,False,False,False
+patsy,los angeles times,False,False,False,False
+source,purported,False,False,False,False
+federal reserve bank of new york,1,000 pound,False,False,False,False
+muslim,federal reserve bank of new york,False,False,False,False
+new york,los angeles times,False,False,False,False
+it,cnn,False,False,False,False
+muslim,situation,False,False,False,False
+new york fed,terror,False,False,False,False
+bomb,cnn,False,False,False,False
+man,new york fed,False,False,False,False
+new york,nyc,False,False,False,False
+quazi nafis,witless,False,False,False,False
+bomb,witless,False,False,False,False
+ny federal reserve bank,new york federal reserve bank,False,True,False,False
+new york times,bomb,False,False,False,False
+terrorist,21 years old,False,False,False,False
+'bomber,ny federal reserve,False,False,False,False
+'bomber,ajc,False,False,False,False
+federal reserve bank of new york,new york,False,False,True,False
+new york federal reserve,new york times,False,False,False,False
+car,fbi-nypd,False,False,False,False
+it,massive,False,False,False,False
+sky news,task force,False,False,False,False
+cbsnews,cnn,False,False,False,False
+federal reserve bank of new york,detonator,False,False,False,False
+yahoo ! news,alleged,False,False,False,False
+new york city,source,False,False,False,False
+bangladeshi,ny federal reserve,False,False,False,False
+muslim,'bomber,False,False,False,False
+new york fed,cbsnews,False,False,False,False
+terrorist,patsy,False,False,False,False
+muslim,ny federal reserve,False,False,False,False
+'bomber,washington post,False,False,False,False
+bank,new york,False,False,False,False
+new york fed,1,000 pound,False,False,False,False
+federal reserve,car,False,False,False,False
+washington post,the lookout,False,False,False,False
+muslim,1,000 pound,False,False,False,False
+patsy,21-year-old,False,False,False,False
+terror,situation,False,False,False,False
+new york city,1,000 pound,False,False,False,False
+cbsnews,alleged,False,False,False,False
+bangladeshi,nyc,False,False,False,False
+bank,cbsnews,False,False,False,False
+fed reserve bank,al-qaeda,False,False,False,False
+new york times,it,False,False,False,False
+ny federal reserve bank,21-year-old,False,False,False,False
+fed reserve bank,ajc,False,False,False,False
+bank,new york times,False,False,False,False
+sky news,susan candiotti,False,False,False,False
+federal reserve bank of new york,task force,False,False,False,False
+federal reserve bank,cnn,False,False,False,False
+nbc new york,alleged,False,False,False,False
+new york times,1,000 pound,False,False,False,False
+federal reserve bank,washington post,False,False,False,False
+fed reserve bank,alleged,False,False,False,False
+nypd,purported,False,False,False,False
+federal reserve bank of new york,sky news,False,False,False,False
+person,new york times,False,False,False,False
+1,000 pound,situation,False,False,False,False
+21 years old,susan candiotti,False,False,False,False
+federal reserve,ny federal reserve bank,False,False,True,False
+fed reserve bank,susan candiotti,False,False,False,False
+allegedly,alex jones,False,False,False,False
+patsy,bank,False,False,False,False
+person,cnn,False,False,False,False
+person,suspect,False,False,False,False
+new york times,cbsnews,False,False,False,False
+the lookout,susan candiotti,False,False,False,False
+quazi nafis,fbi,False,False,False,False
+new york federal reserve bank,situation,False,False,False,False
+bangladeshi,al-qaeda,False,False,False,False
+new york times,los angeles times,False,False,False,False
+bomb,yahoo ! news,False,False,False,False
+suspect,nypd,False,False,False,False
+cbsnews,car,False,False,False,False
+patsy,fbi-nypd,False,False,False,False
+new york fed,al-qaeda,False,False,False,False
+person,ajc,False,False,False,False
+fbi,ajc,False,False,False,False
+new york federal reserve,new york city,False,False,False,False
+suspect,new york fed,False,False,False,False
+new york fed,purported,False,False,False,False
+terrorist,ny federal reserve,False,False,False,False
+massive,car,False,False,False,False
+patsy,situation,False,False,False,False
+new york fed,situation,False,False,False,False
+patsy,alleged,False,False,False,False
+muslim,massive,False,False,False,False
+man,bank,False,False,False,False
+ny federal reserve,massive,False,False,False,False
+cbsnews,massive,False,False,False,False
+new york city,alex jones,False,False,False,False
+federal reserve bank of new york,purported,False,False,False,False
+1,000 pound,the lookout,False,False,False,False
+bomb,task force,False,False,False,False
+federal reserve,nbc new york,False,False,False,False
+new york federal reserve bank,purported,False,False,False,False
+federal reserve bank,car,False,False,False,False
+federal reserve bank of new york,terror,False,False,False,False
+ajc,fbi-nypd,False,False,False,False
+it,terror,False,False,False,False
+ny federal reserve bank,alleged,False,False,False,False
+terrorist,susan candiotti,False,False,False,False
+bangladeshi,'bomber,False,False,False,False
+federal reserve bank of new york,nypd,False,False,False,False
+bangladeshi,new york city,False,False,False,False
+ny federal reserve bank,it,False,False,False,False
+bangladeshi,susan candiotti,False,False,False,False
+nbc new york,the lookout,False,False,False,False
+muslim,ajc,False,False,False,False
+car,task force,False,False,False,False
+susan candiotti,allegedly,False,False,False,False
+ajc,1,000 pound,False,False,False,False
+muslim,cnn,False,False,False,False
+person,source,False,False,False,False
+new york fed,ajc,False,False,False,False
+bank,21 years old,False,False,False,False
+ny federal reserve,1,000 pound,False,False,False,False
+21-year-old,alleged,False,False,False,False
+new york fed,detonator,False,False,False,False
+federal reserve bank,new york city,False,False,False,False
+patsy,terror,False,False,False,False
+suspect,terror,False,False,False,False
+car,los angeles times,False,False,False,False
+federal reserve bank of new york,new york fed,False,False,False,False
+nyc,21-year-old,False,False,False,False
+sky news,situation,False,False,False,False
+nyc,the lookout,False,False,False,False
+quazi nafis,cbsnews,False,False,False,False
+1,000 pound,washington post,False,False,False,False
+los angeles times,alleged,False,False,False,False
+bomb,car,False,False,False,False
+it,al-qaeda,False,False,False,False
+suspect,allegedly,False,False,False,False
+'bomber,suspect,False,False,False,False
+federal reserve,new york,False,False,False,False
+bomb,situation,False,False,False,False
+new york city,fbi-nypd,False,False,False,False
+muslim,suspect,False,False,False,False
+bank,it,False,False,False,False
+new york,sky news,False,False,False,False
+quazi nafis,the lookout,False,False,False,False
+cbsnews,21 years old,False,False,False,False
+federal reserve,witless,False,False,False,False
+it,washington post,False,False,False,False
+massive,fbi-nypd,False,False,False,False
+detonator,cnn,False,False,False,False
+bank,yahoo ! news,False,False,False,False
+federal reserve bank,it,False,False,False,False
+new york federal reserve,car,False,False,False,False
+nbc new york,cnn,False,False,False,False
+ny federal reserve bank,washington post,False,False,False,False
+1,000 pound,purported,False,False,False,False
+nypd,los angeles times,False,False,False,False
+federal reserve bank,new york federal reserve bank,False,False,True,False
+terrorist,nbc new york,False,False,False,False
+person,nyc,False,False,False,False
+ny federal reserve bank,al-qaeda,False,False,False,False
+federal reserve,cnn,False,False,False,False
+task force,susan candiotti,False,False,False,False
+new york city,nyc,False,False,False,False
+person,alleged,False,False,False,False
+new york federal reserve bank,los angeles times,False,False,False,False
+new york fed,21-year-old,False,False,False,False
+ny federal reserve bank,fbi-nypd,False,False,False,False
+quazi nafis,new york times,False,False,False,False
+ny federal reserve bank,terror,False,False,False,False
+'bomber,new york city,False,False,False,False
+new york federal reserve bank,yahoo ! news,False,False,False,False
+person,ny federal reserve,False,False,False,False
+bangladeshi,nypd,False,False,False,False
+new york,21-year-old,False,False,False,False
+new york times,washington post,False,False,False,False
+new york,ajc,False,False,False,False
+person,21-year-old,False,False,False,False
+fed reserve bank,cbsnews,False,False,False,False
+federal reserve bank,nbc new york,False,False,False,False
+'bomber,new york times,False,False,False,False
+man,bomb,False,False,False,False
+patsy,nbc new york,False,False,False,False
+quazi nafis,fed reserve bank,False,False,False,False
+new york federal reserve,new york federal reserve bank,False,True,False,False
+ny federal reserve bank,purported,False,False,False,False
+terrorist,car,False,False,False,False
+it,the lookout,False,False,False,False
+new york federal reserve,fed reserve bank,False,False,False,False
+federal reserve bank of new york,alex jones,False,False,False,False
+'bomber,alex jones,False,False,False,False
+muslim,bangladeshi,False,False,False,False
+massive,cnn,False,False,False,False
+muslim,source,False,False,False,False
+cbsnews,1,000 pound,False,False,False,False
+man,new york federal reserve bank,False,False,False,False
+ny federal reserve bank,21 years old,False,False,False,False
+muslim,quazi nafis,False,False,False,False
+al-qaeda,purported,False,False,False,False
+alleged,alex jones,False,False,False,False
+al-qaeda,alleged,False,False,False,False
+ny federal reserve,detonator,False,False,False,False
+washington post,alex jones,False,False,False,False
+new york,nypd,False,False,False,False
+cnn,alleged,False,False,False,False
+massive,ajc,False,False,False,False
+it,task force,False,False,False,False
+ajc,task force,False,False,False,False
+quazi nafis,allegedly,False,False,False,False
+bangladeshi,ny federal reserve bank,False,False,False,False
+fbi,massive,False,False,False,False
+fbi,1,000 pound,False,False,False,False
+suspect,1,000 pound,False,False,False,False
+cbsnews,bomb,False,False,False,False
+source,alex jones,False,False,False,False
+nyc,bomb,False,False,False,False
+new york federal reserve bank,the lookout,False,False,False,False
+quazi nafis,detonator,False,False,False,False
+ajc,21 years old,False,False,False,False
+terrorist,al-qaeda,False,False,False,False
+man,alex jones,False,False,False,False
+federal reserve,massive,False,False,False,False
+new york city,cnn,False,False,False,False
+new york times,alex jones,False,False,False,False
+nyc,purported,False,False,False,False
+ny federal reserve bank,nbc new york,False,False,False,False
+patsy,new york,False,False,False,False
+new york,cbsnews,False,False,False,False
+bangladeshi,new york federal reserve,False,False,False,False
+new york,new york city,False,False,True,False
+purported,alex jones,False,False,False,False
+21 years old,al-qaeda,False,False,False,False
+federal reserve,the lookout,False,False,False,False
+terrorist,task force,False,False,False,False
+fed reserve bank,terror,False,False,False,False
+quazi nafis,sky news,False,False,False,False
+patsy,purported,False,False,False,False
+ny federal reserve,cnn,False,False,False,False
+nypd,car,False,False,False,False
+federal reserve bank,ny federal reserve bank,False,True,False,False
+federal reserve,nypd,False,False,False,False
+new york federal reserve,source,False,False,False,False
+quazi nafis,21 years old,False,False,False,False
+ny federal reserve,fbi,False,False,False,False
+man,witless,False,False,False,False
+it,nypd,False,False,False,False
+person,21 years old,False,False,False,False
+sky news,fbi-nypd,False,False,False,False
+new york federal reserve bank,cnn,False,False,False,False
+federal reserve bank of new york,situation,False,False,False,False
+ajc,purported,False,False,False,False
+man,nyc,False,False,False,False
+it,21-year-old,False,False,False,False
+nyc,it,False,False,False,False
+federal reserve bank,terror,False,False,False,False
+suspect,task force,False,False,False,False
+fed reserve bank,sky news,False,False,False,False
+fed reserve bank,massive,False,False,False,False
+bomb,massive,False,False,False,False
+suspect,bank,False,False,False,False
+source,susan candiotti,False,False,False,False
+federal reserve,bomb,False,False,False,False
+nypd,detonator,False,False,False,False
+ny federal reserve bank,nyc,False,False,False,False
+fed reserve bank,it,False,False,False,False
+new york times,allegedly,False,False,False,False
+sky news,1,000 pound,False,False,False,False
+quazi nafis,source,False,False,False,False
+ajc,alleged,False,False,False,False
+new york city,the lookout,False,False,False,False
+21-year-old,washington post,False,False,False,False
+muslim,bomb,False,False,False,False
+suspect,new york,False,False,False,False
+sky news,cnn,False,False,False,False
+nypd,al-qaeda,False,False,False,False
+ny federal reserve bank,1,000 pound,False,False,False,False
+bangladeshi,21 years old,False,False,False,False
+fbi,the lookout,False,False,False,False
+terrorist,new york federal reserve bank,False,False,False,False
+cbsnews,nypd,False,False,False,False
+21-year-old,situation,False,False,False,False
+new york city,purported,False,False,False,False
+muslim,new york federal reserve bank,False,False,False,False
