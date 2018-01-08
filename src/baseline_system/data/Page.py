@@ -1,20 +1,18 @@
 import json
 
 class Page:
-    def __init__(self, word, id, is_redirect, redirect_title):
+    def __init__(self, word=None, pageid=0, is_redirect=False, redirect_page=None, aliases=None):
         self.title = word
-        self.id = id
+        self.pageid = pageid
         self.is_redirect = is_redirect
-        self.redirect_title = redirect_title
+        self.redirect_page = redirect_page
+        self.aliases = aliases
 
     def isRedirectPage(self):
-        return
+        return self.is_redirect
 
     def getRedirectTarget(self):
-        return
+        return self.redirect_page
 
     def get(self):
         return
-
-    def default(self):
-        return json.dump(self.__dict__)

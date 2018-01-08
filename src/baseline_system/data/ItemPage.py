@@ -1,7 +1,16 @@
-class ItemPage():
-    def __init__(self):
-        self.aliases = {}
+class Item:
+    def __init__(self, page):
+        self.aliases = page.aliases
+
+    @staticmethod
+    def get():
         return
 
-    def fromPage(self, page):
+
+class ItemPage():
+    def __init__(self):
         return
+
+    @staticmethod
+    def fromPage(page):
+        return Item(page)

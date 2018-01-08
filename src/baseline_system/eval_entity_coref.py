@@ -8,12 +8,13 @@ Author: Rachel Wities
 
 import sys
 
+from src.baseline_system.data.pywikibot_factoy import PywikibotFactory
+
 sys.path.append('../common')
 sys.path.append('../agreement')
 
 import spacy
 import numpy as np
-import pywikibot
 
 from okr import *
 from munkres import *
@@ -25,7 +26,10 @@ from nltk.corpus import wordnet as wn
 from clustering_common import cluster_mentions,cluster_mentions_with_max_cluster
 from data.result_object import ResultObject
 
-site = pywikibot.Site('en', 'wikipedia')  # The site we want to run our bot on
+pywikibot_factory = PywikibotFactory("offline")
+site = pywikibot_factory.get_site()
+pywikibot = pywikibot_factory.pywikibot
+
 dup_dic = {}
 
 # Don't use spacy tokenizer, because we originally used NLTK to tokenize the files and they are already tokenized
@@ -128,7 +132,7 @@ def similar_words(x, y):
             if not fuzzy_result:
                 partial_result = partial_match(x,y)
                 if not partial_result:
-                    wikidata_result = False #wikidata_check(x,y)
+                    wikidata_result = wikidata_check(x,y)
 
         result = ResultObject(x,y,syn_result, fuzzy_result, partial_result, wikidata_result)
 
@@ -259,11 +263,11 @@ def ret_aliases(page, word):
     if page is not None:
         try:
             item = pywikibot.ItemPage.fromPage(page) # this can be used for any page object
-            item.get()  # you need to call it to access any data.
+            item.get()  # need to call it to access any data.
             if 'en' in item.aliases:
                 aliases = item.aliases['en']
                 return aliases
         except (pywikibot.NoPage, AttributeError, TypeError, NameError):
-            print "no page found for word: " + word
+            print "no aliases found for word: " + word
 
     return None
