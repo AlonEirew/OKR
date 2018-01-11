@@ -14,6 +14,7 @@ Usage example: coreference --gold=data/baseline/test
 import os
 import sys
 from docopt import docopt
+from os.path import basename
 
 for pack in os.listdir("src"):
     sys.path.append(os.path.join("src", pack))
@@ -23,6 +24,7 @@ import logging
 from okr import *
 import numpy as np
 from eval_entity_coref import eval_clusters
+from eval_entity_coref import dup_dict
 from parsers.spacy_wrapper import spacy_wrapper
 from eval_predicate_coref import get_mention_head
 
@@ -186,6 +188,14 @@ def eval_entity_coref_with_gold_graph(gold_graph):
     return curr_entity_scores
 
 
+def create_baseline(goldpath):
+    file_name = basename(goldpath)
+    file_name = os.path.splitext(file_name)[0]
+    with open("data/baseline/test_coref/" + file_name + ".csv", "w") as myfile:
+        for key in dup_dict:
+            myfile.write(dup_dict[key].to_string() + '\n')
+
+
 def main():
     args = docopt(__doc__)
     gold_path = args["--gold"]
@@ -198,6 +208,8 @@ def main():
     entity_coref_scores = []
     for gold_graph in gold_graphs:
         entity_coref_scores.append(eval_entity_coref_with_gold_graph(gold_graph))
+    # create base line GS file
+    create_baseline(gold_path)
     # compute mean of scores above files
     entity_coref_scores = np.mean(entity_coref_scores, axis=0).tolist()
     # report

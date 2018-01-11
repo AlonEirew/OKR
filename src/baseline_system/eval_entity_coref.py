@@ -8,8 +8,6 @@ Author: Rachel Wities
 
 import sys
 
-from src.baseline_system.data.pywikibot_factoy import PywikibotFactory
-
 sys.path.append('../common')
 sys.path.append('../agreement')
 
@@ -25,12 +23,17 @@ from num2words import num2words
 from nltk.corpus import wordnet as wn
 from clustering_common import cluster_mentions,cluster_mentions_with_max_cluster
 from data.result_object import ResultObject
+from data.pywikibot_factoy import PywikibotFactory
 
+# Create an instance of the pywikibot (API to query wikipedia)
+# will run by default offline, in case needed to be run online (meaning HTTP calls to wikipedia) just
+# pass "online" as input ie- PywikibotFactory("online")
 pywikibot_factory = PywikibotFactory("offline")
 site = pywikibot_factory.get_site()
 pywikibot = pywikibot_factory.pywikibot
 
-dup_dic = {}
+# dictionary to save the pairs evaluation (used for skipping mulipule test of same pairs & for testing)
+dup_dict = {}
 
 # Don't use spacy tokenizer, because we originally used NLTK to tokenize the files and they are already tokenized
 nlp = English()
@@ -103,6 +106,12 @@ def eval_clusters(clusters, graph):
     return np.array([muc1, bcubed1, ceaf1, mela1])
 
 
+def extract_mentions(clusters, graph):
+    graph1_ent_mentions = [set(map(str, entity.mentions.values())) for entity in graph.entities.values()]
+    graph2_ent_mentions = clusters
+    return graph1_ent_mentions, graph2_ent_mentions
+
+
 def score(mention, cluster):
     """
     Receives an entity mention (mention, head_lemma, head_pos)
@@ -112,17 +121,26 @@ def score(mention, cluster):
     :param cluster: the cluster
     :return: a numeric value denoting the similarity between the mention to the cluster
     """
-    return len([other for other in cluster if similar_words(other[1], mention[1])]) / (1.0 * len(cluster))
+    return len([other for other in cluster if similar_words(other, mention)]) / (1.0 * len(cluster))
 
 
-def similar_words(x, y):
+def similar_words(other, mention):
     """
     Returns whether x and y are similar
-    :param x: the first mention
-    :param y: the second mention
+    :param other: the first mention
+    :param mention: the second mention
     :return: whether x and y are similar
     """
-    if x + y not in dup_dic and y + x not in dup_dic:
+    x = other[1]
+    x_id = other[0]
+    y_id = mention[0]
+    y = mention[1]
+    word1_camel = x.title()
+    word2_camel = y.title()
+    key_list = [x, y, word1_camel, word2_camel]
+    sorted(key_list)
+    dictionary_key = ''.join(key_list)
+    if dictionary_key not in dup_dict:
         syn_result = same_synset(x, y)
         fuzzy_result = False;
         partial_result = False;
@@ -133,16 +151,23 @@ def similar_words(x, y):
                 partial_result = partial_match(x,y)
                 if not partial_result:
                     wikidata_result = wikidata_check(x,y)
+                    if not wikidata_result:
+                        wikidata_result = wikidata_check(word1_camel, word2_camel)
 
-        result = ResultObject(x,y,syn_result, fuzzy_result, partial_result, wikidata_result)
+        result = ResultObject(
+            x_id,
+            x,
+            y_id,
+            y,
+            syn_result,
+            fuzzy_result,
+            partial_result,
+            wikidata_result)
 
-        dup_dic[x+y] = result
+        dup_dict[dictionary_key] = result
         return result.final_result()
 
-    if x+y in dup_dic:
-        return dup_dic[x+y].final_result()
-
-    return dup_dic[y+x].final_result()
+    return dup_dict[dictionary_key].final_result()
 
 
 def same_synset(x, y):
@@ -220,6 +245,12 @@ def partial_match(x, y):
 
 
 def wikidata_check(word1, word2):
+    """
+    Returns whether word1 and word1 share a wikidata redirect page or one is alias of the other
+    :param word1: first mention
+    :param word2: second mention
+    :return: whether word1 and word1 share a wikidata redirect page or one is alias of the other
+    """
     print "wikidata compare " + word1 + " to " + word2
     page1 = pywikibot.Page(site, word1)
     page2 = pywikibot.Page(site, word2)
@@ -240,11 +271,19 @@ def wikidata_check(word1, word2):
 
 
 def wikidata_aliases(page1, word1, page2, word2):
-    aliases1 = ret_aliases(page1, word1)
+    """
+    Returns whether word1 and word2 aliases of each other
+    :param page1: first wikidata mention page representation
+    :param word1: first mention
+    :param page2: second wikidata mention page representation
+    :param word2: second mention
+    :return: whether word1 and word2 aliases of each other
+    """
+    aliases1 = get_aliases(page1)
     if is_in_list(word2, aliases1):
         return True
     else:
-        aliases2 = ret_aliases(page2, word2)
+        aliases2 = get_aliases(page2)
         if is_in_list(word1, aliases2):
             return True
 
@@ -259,7 +298,12 @@ def is_in_list(word, aliases):
     return False
 
 
-def ret_aliases(page, word):
+def get_aliases(page):
+    """
+    Returns page aliases
+    :param page: wikidata mention page representation
+    :return: Returns page aliases
+    """
     if page is not None:
         try:
             item = pywikibot.ItemPage.fromPage(page) # this can be used for any page object
@@ -268,6 +312,6 @@ def ret_aliases(page, word):
                 aliases = item.aliases['en']
                 return aliases
         except (pywikibot.NoPage, AttributeError, TypeError, NameError):
-            print "no aliases found for word: " + word
+            pass
 
     return None

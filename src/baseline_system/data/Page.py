@@ -1,5 +1,3 @@
-import json
-
 class Page:
     def __init__(self, word=None, pageid=0, is_redirect=False, redirect_page=None, aliases=None):
         self.title = word

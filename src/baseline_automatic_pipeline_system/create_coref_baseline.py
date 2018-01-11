@@ -1,5 +1,10 @@
-import os, sys, json
+"""
+WIP to create base line for core reference mentions evaluation
+Script is basically running the coreference script and save the result to a file,
+later this file will be used to compare with progressive work to see regressions or progressions
+"""
 
+import os, sys
 
 for pack in os.listdir("src"):
     sys.path.append(os.path.join("src", pack))
@@ -8,19 +13,11 @@ import eval_entity_coref
 import coreference
 
 
-def test_similar_word_full():
-    coreference.main()
-
-    with open("test/out/EntityCoreRefResultBaseLine.txt", "w") as myfile:
-        for key in eval_entity_coref.dup_dic:
-            myfile.write(eval_entity_coref.dup_dic[key].to_string() + '\n')
-
-
 def test_similar_word():
     word1 = 'IBM'
     word2 = 'international business machines'
     eval_entity_coref.similar_words(word1, word2)
-    print eval_entity_coref.dup_dic[word1+word2].to_string()
+    print eval_entity_coref.dup_dict[word1+word2].to_string()
 
 
 def test_wiki():
@@ -31,4 +28,4 @@ def test_wiki():
 
 
 if __name__ == '__main__':
-    test_similar_word_full()
+    create_baseline()
