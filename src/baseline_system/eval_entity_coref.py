@@ -66,7 +66,8 @@ def evaluate_entity_coref(test_graphs):
         clusters = [set([item[0] for item in cluster]) for cluster in clusters]
 
         # Evaluate
-        curr_scores = eval_clusters(clusters, graph)
+        graph_ent_mentions, gold_ent_mentions = extract_mentions(clusters, graph)
+        curr_scores = eval_clusters(graph_ent_mentions, gold_ent_mentions)
         scores.append(curr_scores)
 
     scores = np.mean(scores, axis=0).tolist()
@@ -83,10 +84,11 @@ def eval_entity_coref_between_two_graphs(predicted_graph,gold_graph):
     :return: the entity coreference metrics
     """
     predicted_clusters = [set(map(str, entity.mentions.values())) for entity in predicted_graph.entities.values()]
-    return eval_clusters(predicted_clusters, gold_graph)
+    graph_ent_mentions, gold_ent_mentions = extract_mentions(predicted_clusters, gold_graph)
+    return eval_clusters(graph_ent_mentions, gold_ent_mentions)
 
 
-def eval_clusters(clusters, graph):
+def eval_clusters(graph_ent_mentions, gold_ent_mentions):
     """
     Receives the predicted clusters and the gold standard graph and evaluates (with coref metrics) the entity
     coreferences
@@ -94,22 +96,19 @@ def eval_clusters(clusters, graph):
     :param graph: the gold standard graph
     :return: the predicate coreference metrics and the number of singletons
     """
-    graph1_ent_mentions = [set(map(str, entity.mentions.values())) for entity in graph.entities.values()]
-    graph2_ent_mentions = clusters
-
     # Evaluate
-    muc1, bcubed1, ceaf1 = muc(graph1_ent_mentions, graph2_ent_mentions), \
-                           bcubed(graph1_ent_mentions, graph2_ent_mentions), \
-                           ceaf(graph1_ent_mentions, graph2_ent_mentions)
+    muc1, bcubed1, ceaf1 = muc(graph_ent_mentions, gold_ent_mentions), \
+                           bcubed(graph_ent_mentions, gold_ent_mentions), \
+                           ceaf(graph_ent_mentions, gold_ent_mentions)
 
     mela1 = np.mean([muc1, bcubed1, ceaf1])
     return np.array([muc1, bcubed1, ceaf1, mela1])
 
 
 def extract_mentions(clusters, graph):
-    graph1_ent_mentions = [set(map(str, entity.mentions.values())) for entity in graph.entities.values()]
-    graph2_ent_mentions = clusters
-    return graph1_ent_mentions, graph2_ent_mentions
+    graph_ent_mentions = clusters
+    gold_ent_mentions = [set(map(str, entity.mentions.values())) for entity in graph.entities.values()]
+    return graph_ent_mentions, gold_ent_mentions
 
 
 def score(mention, cluster):

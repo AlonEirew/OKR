@@ -24,6 +24,7 @@ import logging
 from okr import *
 import numpy as np
 from eval_entity_coref import eval_clusters
+from eval_entity_coref import extract_mentions
 from eval_entity_coref import dup_dict
 from parsers.spacy_wrapper import spacy_wrapper
 from eval_predicate_coref import get_mention_head
@@ -184,17 +185,24 @@ def eval_entity_coref_with_gold_graph(gold_graph):
                                       entity.mentions.values()]
     entity_clusters = cluster_entity_mentions(entity_mentions_for_clustering)
     entity_clusters_for_eval = [set([item[0] for item in cluster]) for cluster in entity_clusters]
-    curr_entity_scores = eval_clusters(entity_clusters_for_eval, gold_graph)
+
+    graph1_ent_mentions, graph2_ent_mentions = extract_mentions(entity_clusters_for_eval, gold_graph)
+    curr_entity_scores = eval_clusters(graph1_ent_mentions, graph2_ent_mentions)
+
+    # create base line GS file
+    create_gs_test_result(graph2_ent_mentions)
+
     return curr_entity_scores
 
 
-def create_baseline(goldpath):
-    file_name = basename(goldpath)
-    file_name = os.path.splitext(file_name)[0]
-    with open("data/baseline/test_coref/" + file_name + ".csv", "w") as myfile:
-        for key in dup_dict:
-            myfile.write(dup_dict[key].to_string() + '\n')
-
+def create_gs_test_result(gold_graph):
+    for value in dup_dict.itervalues():
+        for cluster_set in gold_graph:
+            if set([value.word1_id, value.word2_id]).issubset(cluster_set):
+                value.expected = True
+                break
+        if not value.expected:
+            value.expected = False
 
 def main():
     args = docopt(__doc__)
@@ -208,14 +216,21 @@ def main():
     entity_coref_scores = []
     for gold_graph in gold_graphs:
         entity_coref_scores.append(eval_entity_coref_with_gold_graph(gold_graph))
-    # create base line GS file
-    create_baseline(gold_path)
     # compute mean of scores above files
     entity_coref_scores = np.mean(entity_coref_scores, axis=0).tolist()
     # report
     entity_muc, entity_b_cube, entity_ceaf_c, entity_mela = entity_coref_scores
     print 'Entity coreference: MUC=%.3f, B^3=%.3f, CEAF_C=%.3f, MELA=%.3f' % \
           (entity_muc, entity_b_cube, entity_ceaf_c, entity_mela)
+
+    file_name = basename(gold_path)
+    file_name = os.path.splitext(file_name)[0]
+    # input is a directory
+    if not file_name:
+        file_name = os.path.basename(os.path.normpath(gold_path)) + "_folder"
+    with open("data/baseline/gs_test_coref/" + file_name + ".csv", "w") as myfile:
+        for key in dup_dict:
+            myfile.write(dup_dict[key].to_string() + '\n')
 
 
 if __name__ == '__main__':
