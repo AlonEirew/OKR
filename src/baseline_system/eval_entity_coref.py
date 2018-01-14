@@ -250,7 +250,7 @@ def wikidata_check(word1, word2):
     :param word2: second mention
     :return: whether word1 and word1 share a wikidata redirect page or one is alias of the other
     """
-    print "wikidata compare " + word1 + " to " + word2
+    # print "wikidata compare " + word1 + " to " + word2
     page1 = pywikibot.Page(site, word1)
     page2 = pywikibot.Page(site, word2)
 
