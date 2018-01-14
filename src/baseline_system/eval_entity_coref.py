@@ -248,7 +248,7 @@ def wikidata_check(word1, word2):
     Returns whether word1 and word1 share a wikidata redirect page or one is alias of the other
     :param word1: first mention
     :param word2: second mention
-    :return: whether word1 and word1 share a wikidata redirect page or one is alias of the other
+    :return: True if word1 and word2 share a wikidata redirect page or one is alias of the other, False otherwise
     """
     # print "wikidata compare " + word1 + " to " + word2
     page1 = pywikibot.Page(site, word1)
@@ -290,6 +290,12 @@ def wikidata_aliases(page1, word1, page2, word2):
 
 
 def is_in_list(word, aliases):
+    """
+    Check's if word is in aliases list
+    :param word: mention to check
+    :param aliases: other mention aliases list
+    :return: Returns True if word exist in aliases, False otherwise
+    """
     if aliases is not None:
         worduni = unicode(word).lower()
         if worduni in (alias.lower() for alias in aliases):

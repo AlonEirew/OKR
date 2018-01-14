@@ -196,6 +196,11 @@ def eval_entity_coref_with_gold_graph(gold_graph):
 
 
 def create_gs_test_result(gold_graph):
+    """
+   Add the expected value (as taken from GS file) to dup_dict result pairs, this information will be then
+   dumped to a file representing the Baseline for regression/progression purposes
+   :param gold_graph: OKR object
+   """
     for value in dup_dict.itervalues():
         for cluster_set in gold_graph:
             if set([value.word1_id, value.word2_id]).issubset(cluster_set):
@@ -203,6 +208,7 @@ def create_gs_test_result(gold_graph):
                 break
         if not value.expected:
             value.expected = False
+
 
 def main():
     args = docopt(__doc__)
