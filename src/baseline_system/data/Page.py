@@ -14,3 +14,7 @@ class Page:
 
     def get(self):
         return
+
+    def to_string(self):
+        return str(self.title) + ', ' + str(self.pageid) + ', ' + str(self.is_redirect) + ', ' + \
+              str(self.redirect_page) + ', ' + str(self.aliases)
