@@ -95,7 +95,7 @@ ACRONYM,[muscle tension dysphonia],[MTD],Y
 ACRONYM,[Airplane Health Management],[AHM],Y
 ACRONYM,[unified Windows platform],[UWP],N
 ACRONYM,[Data Science Experience],[DSE],N
-ACRONYM,"[natural language processing, Natural-language processing, natural-language processing, Natural language processing, Natural Language processing, natural-language-processing, Natural Language Processing]",[NLP],N
+ACRONYM,"[natural language processing, Natural-language processing, natural-language processing, Natural language processing, Natural Language processing, natural-language-processing, Natural Language Processing]",[NLP],Y
 ACRONYM,[streaming video giant],[SVG],N
 ACRONYM,[type 1 diabetes],[T1D],Y
 ACRONYM,[Greenfield IT solutions],[GIS],N
@@ -130,7 +130,7 @@ ACRONYM,[accelerated processing unit],[APU],Y
 ACRONYM,[cloud industry partners],[CIP],N
 ACRONYM,[dense CPU/memory model],[DCM],N
 ACRONYM,[detailed product roadmaps],[DPR],N
-ACRONYM,[Grand Theft Auto],[GTA],N
+ACRONYM,[Grand Theft Auto],[GTA],Y
 ACRONYM,[Bloombergs Monte Reel],[BMR],N
 ACRONYM,[credit score engine],[CSE],N
 ACRONYM,"[Hewlett-Packard Enterprise, Hewlett Packard Enterprise]",[HPE],Y
@@ -280,8 +280,8 @@ ACRONYM,[Business Associate Agreement],[BAA],Y
 ACRONYM,[Machine learning benchmarks],[MLB],N
 ACRONYM,[business development centers],[BDC],N
 ACRONYM,[Open Compute Project],[OCP],Y
-ACRONYM,"[convolutional neural net, convolutional neural nets]",[CNN],N
-ACRONYM,[Internet service providers],[ISP],N
+ACRONYM,"[convolutional neural net, convolutional neural nets]",[CNN],Y
+ACRONYM,[Internet service providers],[ISP],Y
 ACRONYM,[software download store],[SDS],N
 ACRONYM,[Industrial Internet Consortium],[IIC],Y
 ACRONYM,"[IBM Cloud tools, IBM Cloud Tools]",[ICT],N

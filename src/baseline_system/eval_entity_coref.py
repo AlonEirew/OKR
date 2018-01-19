@@ -12,6 +12,7 @@ sys.path.append('../common')
 sys.path.append('../agreement')
 
 import spacy
+import re
 import numpy as np
 
 from okr import *
@@ -134,9 +135,7 @@ def similar_words(other, mention):
     x_id = other[0]
     y_id = mention[0]
     y = mention[1]
-    word1_camel = x.title()
-    word2_camel = y.title()
-    key_list = [x, y, word1_camel, word2_camel]
+    key_list = [x, y]
     sorted(key_list)
     dictionary_key = ''.join(key_list)
     if dictionary_key not in dup_dict:
@@ -150,8 +149,6 @@ def similar_words(other, mention):
                 partial_result = partial_match(x,y)
                 if not partial_result:
                     wikidata_result = wikidata_check(x,y)
-                    if not wikidata_result:
-                        wikidata_result = wikidata_check(word1_camel, word2_camel)
 
         result = ResultObject(
             x_id,
@@ -251,8 +248,8 @@ def wikidata_check(word1, word2):
     :return: True if word1 and word2 share a wikidata redirect page or one is alias of the other, False otherwise
     """
     # print "wikidata compare " + word1 + " to " + word2
-    page1 = pywikibot.Page(site, word1)
-    page2 = pywikibot.Page(site, word2)
+    page1 = get_word_page_by_casing(word1)
+    page2 = get_word_page_by_casing(word2)
 
     pageRed1 = page1
     pageRed2 = page2
@@ -266,10 +263,75 @@ def wikidata_check(word1, word2):
         if pageRed1.pageid == pageRed2.pageid:
             return True
 
-    return wikidata_aliases(page1, word1, page2, word2)
+    item1 = get_page_item(pageRed1)
+    item2 = get_page_item(pageRed2)
+
+    if wikidata_aliases(item1, word1, item2, word2):
+        return True
+
+    is1_disambiguate = is_disambiguate(item1)
+    is2_disambiguate = is_disambiguate(item2)
+
+    if is1_disambiguate and not is2_disambiguate:
+        categories1 = get_disambiguate_categories(pageRed1.text)
+        if any(word2 in s for s in categories1):
+            return True
+    elif not is1_disambiguate and is2_disambiguate:
+        categories2 = get_disambiguate_categories(pageRed2.text)
+        if any(word1 in s for s in categories2):
+            return True
+
+    return False
 
 
-def wikidata_aliases(page1, word1, page2, word2):
+def get_word_page_by_casing(word):
+    word = word.replace('-', ' ')
+    page = pywikibot.Page(site, word)
+    if page.pageid == 0:
+        word = word.title()
+        page = pywikibot.Page(site, word)
+        if page.pageid == 0:
+            word = word.upper()
+            page = pywikibot.Page(site, word)
+    return page
+
+
+def get_disambiguate_categories(text):
+    text_lines = text.split('\n')
+    cat_list = []
+    for line in text_lines:
+        p = re.compile('^\*\s\[\[(.*)\]\].*')
+        m = p.match(line)
+        if m is not None:
+            cat_list.append(m.group(1).lower().replace('-',' '))
+
+    return cat_list
+
+
+def is_disambiguate(item):
+    if item is not None:
+        dic = item.get()
+        if dic is not None and 'descriptions' in dic:
+            desc = dic['descriptions']
+            if desc is not None and 'en' in desc:
+                return True if desc['en'].lower() == 'wikimedia disambiguation page' else False
+
+    return False
+
+
+def get_page_item(page):
+    if page is not None:
+        try:
+            item = pywikibot.ItemPage.fromPage(page) # this can be used for any page object
+            item.get()  # need to call it to access any data.
+            return item
+        except (pywikibot.NoPage, AttributeError, TypeError, NameError):
+            pass
+
+    return None
+
+
+def wikidata_aliases(item1, word1, item2, word2):
     """
     Returns whether word1 and word2 aliases of each other
     :param page1: first wikidata mention page representation
@@ -278,13 +340,14 @@ def wikidata_aliases(page1, word1, page2, word2):
     :param word2: second mention
     :return: whether word1 and word2 aliases of each other
     """
-    aliases1 = get_aliases(page1)
-    if is_in_list(word2, aliases1):
-        return True
-    else:
-        aliases2 = get_aliases(page2)
-        if is_in_list(word1, aliases2):
+    if item1 is not None and item2 is not None:
+        aliases1 = get_aliases(item1)
+        if is_in_list(word2, aliases1):
             return True
+        else:
+            aliases2 = get_aliases(item2)
+            if is_in_list(word1, aliases2):
+                return True
 
     return False
 
@@ -303,20 +366,14 @@ def is_in_list(word, aliases):
     return False
 
 
-def get_aliases(page):
+def get_aliases(item):
     """
     Returns page aliases
     :param page: wikidata mention page representation
     :return: Returns page aliases
     """
-    if page is not None:
-        try:
-            item = pywikibot.ItemPage.fromPage(page) # this can be used for any page object
-            item.get()  # need to call it to access any data.
-            if 'en' in item.aliases:
-                aliases = item.aliases['en']
-                return aliases
-        except (pywikibot.NoPage, AttributeError, TypeError, NameError):
-            pass
+    if 'en' in item.aliases:
+        aliases = item.aliases['en']
+        return aliases
 
     return None

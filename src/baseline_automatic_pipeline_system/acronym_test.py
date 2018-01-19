@@ -8,6 +8,13 @@ from src.baseline_system.eval_entity_coref import wikidata_check
 from src.baseline_system.data.result_object import ResultObject
 
 
+def test_single():
+    word1 = 'graphics processor unit'
+    word2 = 'GPU'
+    wikidata_result = wikidata_check(word1, word2)
+    print wikidata_result
+
+
 def main():
     dataframes = pd.read_csv("./data/intel_gs/Acronym_all_news.csv")
     result_objs = []
@@ -23,8 +30,10 @@ def main():
             print group1
 
         for word1 in group1:
-            wiki_result = wikidata_check(word1, group2[0])
-            result_objs.append(ResultObject(word1, group2[0], wiki_result, expected))
+            word1 = word1.strip()
+            word2 = group2[0].strip()
+            wiki_result = wikidata_check(word1.lower(), word2.lower())
+            result_objs.append(ResultObject(word1, word2, wiki_result, expected))
 
     with open("./data/intel_gs/result.csv", 'w') as acronyms_out:
         for result in result_objs:
