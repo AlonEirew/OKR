@@ -1,0 +1,503 @@
+TYPE, GROUP1, GROUP2, EXPECTED_RESULT
+ACRONYM,[network video recorder],[NVR],Y
+ACRONYM,[International Accounting Standards Board],[IASB],Y
+ACRONYM,[Virtualized Network Function],[VNF],Y
+ACRONYM,[Enterprise Data Management Council],[EDMC],Y
+ACRONYM,[transaction processing software],[TPS],N
+ACRONYM,[Manufacturing Execution System],[MES],Y
+ACRONYM,[Modern Art Specialist],[MAS],N
+ACRONYM,[Programmable Automation Controller],[PAC],Y
+ACRONYM,[Patrizia C. McBride],[PCM],N
+ACRONYM,[wireless local loop],[WLL],Y
+ACRONYM,[albeit not undervalued],"[Anu, ANU]",N
+ACRONYM,[Richard D. Shiels],[RDS],N
+ACRONYM,[Common Weakness Enumeration],[CWE],Y
+ACRONYM,[Brocade Communications Systems],[BCS],N
+ACRONYM,[Host Card Emulation],[HCE],Y
+ACRONYM,[Dependable Vehicular Communications],[DVC],Y
+ACRONYM,[Amazon Web Services],[AWS],Y
+ACRONYM,[Paschall Truck Lines],[PTL],Y
+ACRONYM,[Baidu Log Service],[BLS],Y
+ACRONYM,[unstructured health data],[UHD],N
+ACRONYM,[Business Transformation Initiative],[BTI],Y
+ACRONYM,[Neural Information Processing Systems],[NIPS],Y
+ACRONYM,[cloud system infrastructure services],[CSIS],N
+ACRONYM,[Maybank IB Research],[MIR],N
+ACRONYM,[IBM Enterprise analytics],[IEA],N
+ACRONYM,[hospital acquired infections],[HAI],Y
+ACRONYM,[FirstWave Cloud Technology],[FCT],Y
+ACRONYM,[elaborate security protocols],[ESP],N
+ACRONYM,[Toyota Production System],[TPS],Y
+ACRONYM,[cloud giants Microsoft],[CGM],N
+ACRONYM,[Dependency Discovery Engine],[DDE],Y
+ACRONYM,"[global business services, Global Business Services]",[GBS],Y
+ACRONYM,[enterprise content management],[ECM],Y
+ACRONYM,[Generic Routing Encapsulation],[GRE],Y
+ACRONYM,[Telecommunication Development Industry Alliance],[TDIA],Y
+ACRONYM,[Universiti Teknologi Petronas],[UTP],Y
+ACRONYM,"[chief commercial officer, Chief Commercial Officer]",[CCO],N
+ACRONYM,[cognitive machine learning],[CML],Y
+ACRONYM,"[Senior Vice President, senior vice president, senior vice-president]",[SVP],N
+ACRONYM,[Sword Art Online],[SAO],N
+ACRONYM,[Vision Processor Units],[VPU],Y
+ACRONYM,[media resource function],[MRF],Y
+ACRONYM,[Consumer Intelligence Research Partners],[CIRP],Y
+ACRONYM,[powerful and innovative],[PAI],N
+ACRONYM,[Applied Cognitive Engine],[ACE],Y
+ACRONYM,[Network Function Virtualization],[NFV],Y
+ACRONYM,[Asia Pacific Economic Cooperation],[APEC],Y
+ACRONYM,[deepest AI investments],[DAI],N
+ACRONYM,[entire IT stack],[EIS],N
+ACRONYM,"[Chief executive officer, Chief Executive Officer, chief executive officer]","[CEO, ceo, CEOs]",Y
+ACRONYM,[Lawrence Livermore National Laboratory],[LLNL],Y
+ACRONYM,[Qualcomm CDMA Technologies],[QCT],Y
+ACRONYM,[Chief Engineer Doomed],[CED],N
+ACRONYM,"[support vector machine, support vector machines]",[SVM],Y
+ACRONYM,[Licensed ZapThink Architect],[LZA],Y
+ACRONYM,[important AI myths],[IAM],N
+ACRONYM,[ultra high definition],[UHD],Y
+ACRONYM,[liquid crystal display],[LCD],Y
+ACRONYM,[chief cognitive officer],[CCO],N
+ACRONYM,[Ernst Strngmann Institute],[ESI],Y
+ACRONYM,[National Stock Exchange],[NSE],Y
+ACRONYM,[Totally Integrated Automation],[TIA],Y
+ACRONYM,[travel management companies],[TMC],N
+ACRONYM,[Dublin City University],[DCU],Y
+ACRONYM,"[feature-rich, accelerated-ROI offerings]",[FAO],N
+ACRONYM,[British Computer Society],[BCS],Y
+ACRONYM,"[Optical Character Recognition, optical character recognition]",[OCR],Y
+ACRONYM,"[mobile-device-management, Mobile Device Management, mobile device management]",[MDM],Y
+ACRONYM,[integrated developer experience],[IDE],N
+ACRONYM,"[executive vice-president, executive vice president, Executive Vice president, Executive Vice President]",[EVP],Y
+ACRONYM,[medical research company],[MRC],N
+ACRONYM,[driving business engagements],[DBE],N
+ACRONYM,[Red Hat Enterprise Linux],[RHEL],Y
+ACRONYM,[Intel Developer Forum],[IDF],Y
+ACRONYM,[Israeli Defense Forces,[IDF],Y
+ACRONYM,"[Tokyo Game Show, Tokyo Games Show]",[TGS],Y
+ACRONYM,[Accountable Care Organizations],[ACO],Y
+ACRONYM,"[Chief Technology Officer, chief technology officer]",[CTO],Y
+ACRONYM,[Allen Telescope Array],[ATA],Y
+ACRONYM,[Google Compute Cloud],[GCC],N
+ACRONYM,"[Decision Support Systems, Decision support systems]",[DSS],Y
+ACRONYM,[predictive threat intelligence],"[Pty, PTI]",N
+ACRONYM,"[Geographic Information Systems, geographic information system]",[GIS],Y
+ACRONYM,"[TV game shows, TV game show]",[TGS],N
+ACRONYM,[Brazilian police arrest],[BPA],N
+ACRONYM,[infrastructure solutions provider],[ISP],N
+ACRONYM,"[Real-time bidding, real time bidding]",[RTB],Y
+ACRONYM,[American Diabetes Association],[ADA],Y
+ACRONYM,[Tableau Data Engine],[TDE],Y
+ACRONYM,[Text To Speech],[TTS],Y
+ACRONYM,[Inari Integrated System],[IIS],Y
+ACRONYM,[comprehensive booking system],[CBS],N
+ACRONYM,[muscle tension dysphonia],[MTD],Y
+ACRONYM,[Airplane Health Management],[AHM],Y
+ACRONYM,[unified Windows platform],[UWP],N
+ACRONYM,[Data Science Experience],[DSE],N
+ACRONYM,"[natural language processing, Natural-language processing, natural-language processing, Natural language processing, Natural Language processing, natural-language-processing, Natural Language Processing]",[NLP],Y
+ACRONYM,[streaming video giant],[SVG],N
+ACRONYM,[type 1 diabetes],[T1D],Y
+ACRONYM,[Greenfield IT solutions],[GIS],N
+ACRONYM,[campaign management platform],[CMP],N
+ACRONYM,[smart robot manufacturers],[SRM],N
+ACRONYM,[American Marketing Association],"[AMAs, AMA]",Y
+ACRONYM,[Advanced Message Queuing Protocol],[AMQP],Y
+ACRONYM,[Killer DoubleShot Pro],[KDP],N
+ACRONYM,[Vice President Sales],"[VPs, Vps]",N
+ACRONYM,[personal communications services],[PCS],Y
+ACRONYM,[mobile ECM app],[MEA],N
+ACRONYM,[complex data sets],[CDs],N
+ACRONYM,[Enterprise Specific Protection],[ESP],Y
+ACRONYM,[Moving Average Convergence Divergence],[MACD],Y
+ACRONYM,[Asset Performance Management],[APM],Y
+ACRONYM,"[public-cloud infrastructure, public cloud infrastructure]",[PCI],N
+ACRONYM,"[Chief Operating Officer, chief operation officer, chief operating officer]",[COO],Y
+ACRONYM,[Rock-Solid Dividend Stocks],[RDS],N
+ACRONYM,[autonomous mobile robotics],[AMR],Y
+ACRONYM,[Square Kilometer Array],[SKA],Y
+ACRONYM,[cloud-based software solutions],[CSS],N
+ACRONYM,[International Telecommunication Union],[ITU],Y
+ACRONYM,[Malaysia Digital Economy Corporation],[MDEC],Y
+ACRONYM,"[continuous glucose monitors, continuous glucose monitoring]",[CGM],Y
+ACRONYM,[Anita Borg Institute],[ABI],Y
+ACRONYM,[effective communication method],[ECM],N
+ACRONYM,[Levodopa equivalent dose],"[LEDs, LED]",Y
+ACRONYM,"[Field Programmable Gate Arrays, field programmable gate array, Field Programmable Gate Array, field-programmable gate arrays, field programmable gate arrays]",[FPGA],Y
+ACRONYM,[South Africa-born entrepreneur],[SAE],N
+ACRONYM,[significant societal dislocation],[SSD],N
+ACRONYM,[accelerated processing unit],[APU],Y
+ACRONYM,[cloud industry partners],[CIP],N
+ACRONYM,[dense CPU/memory model],[DCM],N
+ACRONYM,[detailed product roadmaps],[DPR],N
+ACRONYM,[Grand Theft Auto],[GTA],Y
+ACRONYM,[Bloombergs Monte Reel],[BMR],N
+ACRONYM,[credit score engine],[CSE],N
+ACRONYM,"[Hewlett-Packard Enterprise, Hewlett Packard Enterprise]",[HPE],Y
+ACRONYM,[Cyber Physical Systems],[CPS],Y
+ACRONYM,[soil tension meters],[STM],N
+ACRONYM,"[digital signal processors, digital signal processor]",[DSP],Y
+ACRONYM,[Digital Health Access Initiative],[DHAI],Y
+ACRONYM,[productivity cost savings],[PCS],N
+ACRONYM,[Thrust Management Computer],[TMC],Y
+ACRONYM,[SaaS Enablement Framework],[SEF],Y
+ACRONYM,[current market research],[CMR],N
+ACRONYM,[cross sectional study],[CSS],N
+ACRONYM,[Mobile World Congress],[MWC],Y
+ACRONYM,[Palo Alto Networks],[PAN],N
+ACRONYM,[data science toolkit],[DST],Y
+ACRONYM,[Language Understanding Intelligent Service],[LUIS],Y
+ACRONYM,[phone company stocks],[PCS],N
+ACRONYM,[product life cycle/management],[PLC],N
+ACRONYM,[climate change deniers],[ccd],N
+ACRONYM,"[software-defined storage, Software Defined Storage]",[SDS],Y
+ACRONYM,[power usage efficiency],[PUE],Y
+ACRONYM,[cool VR games],[CVG],N
+ACRONYM,[Total Addressable Market],[TAM],Y
+ACRONYM,[Consumer Technology Association],[CTA],Y
+ACRONYM,[Unstructured Data processing],[UDP],N
+ACRONYM,[Azure cloud-based services],[ACS],N
+ACRONYM,"[tensor processing units, Tensor Processing Unit, Tensor Processing Units]",[TPU],Y
+ACRONYM,[Civil Aviation Authority],[CAA],Y
+ACRONYM,[Channel State Information],[CSI],Y
+ACRONYM,[Artificial Narrow Intelligence],[ANI],Y
+ACRONYM,[end information technology],[EIT],N
+ACRONYM,[electronic image stabilization],[EIS],Y
+ACRONYM,[Uplink Data Compression],[UDC],Y
+ACRONYM,"[solid state drives, solid-state drives, solid-state drive]",[SSD],Y
+ACRONYM,[liquefied natural gas],[LNG],Y
+ACRONYM,[sentient dust storms],[SDS],N
+ACRONYM,[Financial Industry Business Ontology],[FIBO],Y
+ACRONYM,[social and emotional],[SAE],N
+ACRONYM,[SPDR S&P Homebuilders],[SSH],N 
+ACRONYM,[hybrid cloud model],[HCM],Y
+ACRONYM,[real time kinematics],[RTK],Y
+ACRONYM,[Cubic Transportation Systems],[CTS],Y
+ACRONYM,[strategic alliance formation],"[SAFs, SAF]",N
+ACRONYM,[Scalable Vector Graphics],[SVG],Y
+ACRONYM,[virtual private network],[VPN],Y
+ACRONYM,[Automotive Grade Linux],[AGL],Y
+ACRONYM,[future cloud talent],[FCT],N
+ACRONYM,[Technology Business Incubator],[TBI],Y
+ACRONYM,"[International Business Machine, International Business Machines]","[Ibm, ibm, IBM, IBMs]",Y
+ACRONYM,[VxBlock CI systems],[VCs],N
+ACRONYM,[entire pharmaceutical industry],[EPI],N
+ACRONYM,[market accessible services],[MAS],N
+ACRONYM,[Rob Arnolds piece],"[rap, raps]",N
+ACRONYM,[intelligent communication technologies],[ICT],N
+ACRONYM,[irritating conversation starter],[ICS],N
+ACRONYM,"[advanced computer systems, advanced computing systems]",[ACS],N
+ACRONYM,[Massachusetts General Hospital],[MGH],Y
+ACRONYM,[cloud content security gateway],[CCSG],Y
+ACRONYM,[digital investment platform],"[dips, dip]",N
+ACRONYM,[SQL query language],[SQL],N
+ACRONYM,[Google algorithmic shiftscanbe],[gas],N
+ACRONYM,[Nicer Robotics laboratory],[NRL],N
+ACRONYM,[International Cleaning Equipment],"[ice, ICE]",Y
+ACRONYM,[Agile Software development],[ASD],N
+ACRONYM,[Temporal Transition Hierarchies],[TTH],Y
+ACRONYM,[AI alliance  Artificial intelligence],[AAAI],N
+ACRONYM,[Advance AI Artificial intelligence],[AAAI],N
+ACRONYM,[failed chatbot attempt],[FCA],N
+ACRONYM,[disparate operational tools],"[dots, dot]",N
+ACRONYM,[latency insensitive software package],[Lisp],N
+ACRONYM,[Coho Data CTO],[CDC],N
+ACRONYM,[Cloud-based software services],[CSS],N
+ACRONYM,[power customer service],[PCS],N
+ACRONYM,[service activation fees],"[SAFs, SAF]",Y
+ACRONYM,[Colmobil auto agency],[CAA],N
+ACRONYM,[Chief Customer Officer],[CCO],Y
+ACRONYM,[Financial Accounting Standards Board],[FASB],Y
+ACRONYM,"[Interactive Voice Response, interactive voice response]",[IVR],Y
+ACRONYM,[Missouri Cancer Associates],[MCA],N
+ACRONYM,"[application programming interfaces, Application Programming Interfaces, Application Program Interface, Application Programming Interface, application program interface, Application Program Interfaces]","[APIs, API]",Y
+ACRONYM,[Personalized Event Engagement Portal],[PEEP],Y
+ACRONYM,[Samsung Pay Users],[SPU],N
+ACRONYM,[Taiwan Semiconductor Manufacturing Company],[TSMC],Y
+ACRONYM,[Hewlett Packard Company],[HPC],Y
+ACRONYM,[Pennsylvania State University],[PSU],N
+ACRONYM,[UK honours degree],[UHD],N
+ACRONYM,[business school talent],[BST],N
+ACRONYM,[customizable eicosapentaenoic acid],[CEA],N
+ACRONYM,[automakers driver assistance systems],[ADAS],N
+ACRONYM,"[Embedded hardware, software]",[EHS],N
+ACRONYM,[instant alarm monitoring],[IAM],N
+ACRONYM,[Implement Industrial IoT],"[iii, III]",N
+ACRONYM,[Application delivery platform],[ADP],N
+ACRONYM,[National Outsourcing Association],[NOA],Y
+ACRONYM,"[Robotic Process Automation, Robotics Process Automation, robotic process automation, robotics process automation]",[RPA],Y
+ACRONYM,[vertical search engines],[VSE],Y
+ACRONYM,[exponential moving average],[EMA],Y
+ACRONYM,[computational fluid dynamics],[CFD],Y
+ACRONYM,"[advanced driver assistance systems, advanced driver-assist systems]",[ADAS],Y
+ACRONYM,[multi-turn dialogue manager],[MDM],N
+ACRONYM,[challenge probably calls],[CPC],N
+ACRONYM,[vision processing unit],[VPU],Y
+ACRONYM,[cognitive pitch competition],[CPC],N
+ACRONYM,[market development funds],[MDF],Y
+ACRONYM,[chief accounting officer],[CAO],N
+ACRONYM,"[managed service providers, Managed Service Provider]",[MSP],N
+ACRONYM,[Sacha Inchi protein],[SIP],N
+ACRONYM,"[neural machine translation, Neural Machine Translation]",[NMT],Y
+ACRONYM,[voice codec synthesizers],[VCs],N
+ACRONYM,[plenty computer scientists],[PCS],N
+ACRONYM,[Intel Extreme Masters],[IEM],N
+ACRONYM,"[artificial general intelligence, Artificial General Intelligence]",[AGI],Y
+ACRONYM,[anthropomorphic digital assistants],[ADA],N
+ACRONYM,[Nanolog Streaming Service],[NSS],Y
+ACRONYM,[auto executive talks],[AET],N
+ACRONYM,[Facebooks AIresearch team],"[fats, fat]",N
+ACRONYM,[Rochester Human-Computer Interaction],[RHI],N
+ACRONYM,[automated business incident],[ABI],N
+ACRONYM,[Cognitive Media Platform],[CMP],Y
+ACRONYM,[cloud-based security service],[CSS],N
+ACRONYM,[top Oracle customers],[TOC],N
+ACRONYM,"[Chief Analytics Officer, chief analytics officer]",[CAO],Y
+ACRONYM,[Open Source Robotics Foundation],[OSRF],Y
+ACRONYM,[rapid technological change],[RTC],N
+ACRONYM,[Intelligent IoT Service],[IIS],N
+ACRONYM,[Business Process Reengineering],[BPR],Y
+ACRONYM,[analyse driving patterns],[ADP],N
+ACRONYM,[important digital movements],[IDM],N
+ACRONYM,[Know Your Customer],[KYC],Y
+ACRONYM,[enterprise IT shops],[EIS],N
+ACRONYM,"[UC-San Diego, UC San Diego]",[USD],N
+ACRONYM,"[Datical, Sauce Labs]",[DSL],N
+ACRONYM,"[Global Positioning System, global positioning system, global positioning systems]",[GPS],Y
+ACRONYM,[basic augmented reality],"[bar, Bars]",N
+ACRONYM,[Small Business Innovation Research],[SBIR],Y
+ACRONYM,[automated board inspection],[ABI],Y
+ACRONYM,[prominent industry participants],[PIP],N
+ACRONYM,[data center growth],[DCG],N
+ACRONYM,"[Site Reliability Engineers, site reliability engineers]",[SRE],Y
+ACRONYM,[economic reform plan],[ERP],N
+ACRONYM,[traditional phone sales],[TPS],N
+ACRONYM,[Wall Street Journalspeculated],[WSJ],N
+ACRONYM,[home cook iteration],[HCI],N
+ACRONYM,[Enfields many strengths],[EMS],N
+ACRONYM,"[Consumer Electronics Show, consumer-electronics show]",[CES],Y
+ACRONYM,[Business Associate Agreement],[BAA],Y
+ACRONYM,[Machine learning benchmarks],[MLB],N
+ACRONYM,[business development centers],[BDC],N
+ACRONYM,[Open Compute Project],[OCP],Y
+ACRONYM,"[convolutional neural net, convolutional neural nets]",[CNN],Y
+ACRONYM,[Internet service providers],[ISP],Y
+ACRONYM,[software download store],[SDS],N
+ACRONYM,[Industrial Internet Consortium],[IIC],Y
+ACRONYM,"[IBM Cloud tools, IBM Cloud Tools]",[ICT],N
+ACRONYM,[Standards Promote Adoption],"[SPA, spas]",N
+ACRONYM,"[IBM cognitive solutions, IBM Cognitive Solutions]",[ICS],N
+ACRONYM,[moral and punitive damages],[MapD],N
+ACRONYM,[Windows IT Pro],[WIP],N
+ACRONYM,[word error rate],[WER],Y
+ACRONYM,[broader product offering],[BPO],N
+ACRONYM,"[entertainment, commerce applications]",[ECA],N
+ACRONYM,[impaired social processing],[ISP],N
+ACRONYM,[Contract for Difference],[CFD],Y
+ACRONYM,"[chief marketing officer, Chief Marketing Officer, chief marketing officers, Chief Marketing Officers]",[CMO],Y
+ACRONYM,[cloud data warehouses],[CDW],N
+ACRONYM,[powerful AI supercomputer],"[PAs, pass]",N
+ACRONYM,[digital one stop ecosystem],[dose],N
+ACRONYM,[Identity Theft Resource Center],[ITRC],Y
+ACRONYM,"[data science teams, data science team]",[DST],N
+ACRONYM,[Magnetic Resonance Imaging],[MRI],Y
+ACRONYM,"[Tata Motors TTM, Tata Motors ttm]",[TMT],N
+ACRONYM,[Post migration remediation],[PMR],N
+ACRONYM,[cool selection shortcut],[CSS],N
+ACRONYM,[individual solution providers],[ISP],N
+ACRONYM,[mainframe data migration],[MDM],N
+ACRONYM,[Intel AI chips],[IAC],N
+ACRONYM,[Cloudera Distribution Hadoop],[CDH],Y
+ACRONYM,[Securities Exchange Act],"[seas, SEA, Sea, sea]",N
+ACRONYM,[Queue Management Device],[QMD],Y
+ACRONYM,[current Android phones],"[CAP, cap]",N
+ACRONYM,[location-based engagement software],[Les],N
+ACRONYM,[containers simplified shipping],[CSS],N
+ACRONYM,[multiple input channels],"[mics, mic]",N
+ACRONYM,[enterprise IoT technologies],[EIT],N
+ACRONYM,[device provision strategies],[DPS],N
+ACRONYM,[United Arab Emirates],"[UAE, UAEs]",Y
+ACRONYM,"[Chief Data Scientist, chief data scientist]",[CDs],N
+ACRONYM,[cards fraud detection],[CFD],N
+ACRONYM,"[relational database service, Relational Database Service]",[RDS],N
+ACRONYM,[Infocomm Development Authority],[IDA],Y
+ACRONYM,[hybrid cloud market],[HCM],N
+ACRONYM,[executed recovery procedures],[ERP],N 
+ACRONYM,[Intels chief executive],"[ice, ICE]",N
+ACRONYM,[David Shingy Shing],[DSS],N
+ACRONYM,[Allo messaging app],"[AMAs, AMA]",N
+ACRONYM,[enterprise data sources],[EDS],N
+ACRONYM,[Carnegie Mellon University],[CMU],Y
+ACRONYM,[infrastructure service providers],[ISP],N
+ACRONYM,[itsARM-based SoC designs],[ISD],N
+ACRONYM,[Majorcloud service providers],[MSP],N
+ACRONYM,[Charlotte Motor Speedway],[CMS],N
+ACRONYM,"[consistent storage, security]",[CSS],N
+ACRONYM,[mobile computing market],[MCM],N
+ACRONYM,"[Google Play store, Google Play Store]",[GPS],N
+ACRONYM,[Sands Expo Center],[SEC],N
+ACRONYM,[Private Capital Management],[PCM],N
+ACRONYM,[NXP Semiconductor stock],[NSS],N
+ACRONYM,[business development support],[BDS],N
+ACRONYM,[Cirque du Soleil],[CDs],N
+ACRONYM,[Peter Thiel-backed company],[PTC],N
+ACRONYM,[real estate purchases],"[Reps, rep]",N
+ACRONYM,"[initial public offering, initial public offer]","[IPO, IPOs]",Y
+ACRONYM,[critical intellectual property],[CIP],N
+ACRONYM,[relevant health information],[RHI],N
+ACRONYM,[robot operating system],[ROS],Y
+ACRONYM,[companys sole focus],[CSF],N
+ACRONYM,[Microsoft Dynamics CRM],"[MDC, mDC]",N
+ACRONYM,[Advanced Micro Devices],"[AMDs, AMD]",Y
+ACRONYM,"[Azure cloud services, Azure cloud service]",[ACS],N
+ACRONYM,[Bing search technology],[BST],N
+ACRONYM,[permanent cognitive issues],[PCI],N
+ACRONYM,[Poetics of Commemoration],[PoC],N
+ACRONYM,[visual computing applications],[vCA],N
+ACRONYM,[Stanford Research Institute],[SRI],Y
+ACRONYM,[National Retail Federation],[NRF],Y
+ACRONYM,"[advanced persistent threat, advanced persistent threats, Advanced persistent threats, Advanced Persistent Threat]","[APT, APTs]",Y 
+ACRONYM,[visionary innovation including],[vii],N
+ACRONYM,[consumer more power],[CMP],N
+ACRONYM,[Robert Half International],[RHI],N
+ACRONYM,[normal or abnormal],[NOA],N
+ACRONYM,[cloud software solutions],[CSS],N
+ACRONYM,"[marketing planning, coordination]",[MPC],N
+ACRONYM,[China Technology Ecosystem],[CTE],Y
+ACRONYM,[General Data Protection Regulation],[GDPR],Y 
+ACRONYM,"[graphical processor units, graphics processor unit]",[GPU],Y
+ACRONYM,[Chairman Devin Nunes],[CDN],N
+ACRONYM,[autism spectrum disorder],[ASD],Y
+ACRONYM,"[Customer relationship management, Customer Relationship Management, customer-relationship management, customer relationship management]","[CRM, crm]",Y
+ACRONYM,[Browse All Reports],"[bar, Bars]",N
+ACRONYM,[Tata Consultancy Services],[TCS],Y
+ACRONYM,[Government Contractor Primes],[GCP],N
+ACRONYM,[cloud product suite],[CPS],N
+ACRONYM,[Softbank Robotics Pepper],[SRP],N
+ACRONYM,[cloud IaaS platform],[CIP],N
+ACRONYM,[IBM Studios Singapore],[ISS],N
+ACRONYM,[Australian Hotels Association],[AHA],N
+ACRONYM,"[Cloud Division, comments]",[CDC],N
+ACRONYM,[Sprucegrove Investment Management],[SIM],N
+ACRONYM,[Cognitive Fingerprinting Delivers],[CFD],N
+ACRONYM,[CFO Martin Schroeter],[CMS],N
+ACRONYM,[Presentation of Information],[POI],N
+ACRONYM,[scalable data structures],[SDS],N
+ACRONYM,[Vicom Computer Services],[VCs],N
+ACRONYM,[Executive Vice Presient],[EVP],N
+ACRONYM,"[autonomous vehicle technology, autonomous vehicle technologies]",[AVT],N
+ACRONYM,[enterprise cloud market],[ECM],N
+ACRONYM,[Unified Security Management],[USM],Y
+ACRONYM,[clinical trials status],[CTS],N
+ACRONYM,[lead software engineer],[LSE],N
+ACRONYM,[programmable logic components],[PLC],N
+ACRONYM,[advanced visual effects],[ave],N
+ACRONYM,[technical capabilities orconstraints],[TCO],N
+ACRONYM,[Technology Type  SIMO],[TTS],N
+ACRONYM,[Data Management Platform],[DMP],Y
+ACRONYM,[accurate speech recognition],[ASR],Y
+ACRONYM,[Transition Authorization Act],[TAA],N
+ACRONYM,[Edward Snowdens Long],[ESL],N
+ACRONYM,"[Advanced machine learning, advanced machine learning]",[AML],N
+ACRONYM,[historical and real-time data],[Hard],N
+ACRONYM,"[convolutional neural network, convolutional neural networks, Convolutional neural networks]",[CNN],Y
+ACRONYM,[Connected Production Environment],[CPE],N
+ACRONYM,[identity management service],[IMS],N
+ACRONYM,[Protected Health Information],"[PHI, Phi]",Y
+ACRONYM,[security management systems],[SMS],N
+ACRONYM,[mobile engagement services],[MES],N
+ACRONYM,[Central Intelligence Agency],[CIA],Y
+ACRONYM,[natural human language],[NHL],N
+ACRONYM,[general strong AI],[GSA],N
+ACRONYM,[Macys Woodbridge Center],[MWC],N
+ACRONYM,[connected devices space],[CDs],N
+ACRONYM,[Nervana  a set],[NAS],N
+ACRONYM,[Visionary Innovation  Convergence],[vic],N
+ACRONYM,[Android-dominated smartphone range],[ASR],N
+ACRONYM,[proof application images],[PAI],N
+ACRONYM,"[Global Technology Services, global technology service]",[GTS],N
+ACRONYM,[data-driven healthcare applications],[DHA],N
+ACRONYM,[American Heart Association],[AHA],Y
+ACRONYM,[tone color scheme],[TCS],N
+ACRONYM,[Sensorias smart garments],[SSG],N
+ACRONYM,[Advanced Cyber Threat Analytics],[ACTA],Y
+ACRONYM,[UC San DiegoX],[USD],N
+ACRONYM,[cross country drive],[ccd],N
+ACRONYM,[Age Dependency Ratio],[ADR],N
+ACRONYM,[comparison shopping sites],[CSS],N
+ACRONYM,[Amadeus North America],[ANA],N
+ACRONYM,[holy horror show],[HHS],N
+ACRONYM,[Federal Trade Commission],[FTC],Y
+ACRONYM,"[intelligent virtual assistants, Intelligent Virtual Assistant]",[IVA],N
+ACRONYM,[custom granola mix],[CGM],N
+ACRONYM,[Chan Zuckerberg Initiative],[CZI],Y
+ACRONYM,[Country General Manager],[CGM],N
+ACRONYM,[Translational Research Unit],[Tru],N
+ACRONYM,[cashflow and ability],[CAA],N
+ACRONYM,[Azure Machine Learning],[AML],N
+ACRONYM,[ALMs Consulting Magazine],[ACM],N
+ACRONYM,[World Semiconductor Trade Statistics],[WSTS],Y
+ACRONYM,[AI product efforts],[ape],N
+ACRONYM,[Company Social Responsibility],[CSR],Y
+ACRONYM,[redundant secure systems],[RSS],N
+ACRONYM,[National Computational Infrastructure],[NCI],Y
+ACRONYM,[Global Market Outlook],[GMO],N
+ACRONYM,[largest individual employer],"[lie, lies, Lies]",N
+ACRONYM,[Scale Venture Partners],[SVP],N
+ACRONYM,[chief compliance officer],[CCO],N
+ACRONYM,[global climate change],[GCC],N
+ACRONYM,"[chief information officers, Chief Information Officer, Chief information officers, chief information officer]","[CIO, CIOs]",Y
+ACRONYM,[Tay chatbot returns],[TCR],N
+ACRONYM,[medical insurance companies],"[mics, mic]",N
+ACRONYM,[dual SIM tray],[DST],N
+ACRONYM,[preventive cybersecurity solution],[PCS],N
+ACRONYM,[Wall Street Journa],[WSJ],N
+ACRONYM,"[inane, false garbage]",[IFG],N
+ACRONYM,"[Service Level Agreement, service-level agreements]",[SLA],Y
+ACRONYM,[Department of Statistics],[DOS],N
+ACRONYM,[Dubai World Trade Centre],[DWTC],Y
+ACRONYM,[sleep monitoring system],[SMS],N
+ACRONYM,[Spire Sheds Light],[SSL],N
+ACRONYM,"[Lethal Autonomous Weapon Systems, lethal autonomous weapons systems]",[LAWS],Y
+ACRONYM,[HGST Active Archive System],"[HaaS, Haas]",N
+ACRONYM,[personalized user experience],[PUE],N
+ACRONYM,"[chief innovation officer, Chief Innovation Officer]","[CIO, CIOs]",N
+ACRONYM,[Australias future prosperity],[AFP],N
+ACRONYM,[smart city models],[SCM],N
+ACRONYM,"[Nasdaq Composite Index, Nasdaq composite index]",[NCI],N
+ACRONYM,[Amaryllos dynamic peer],[ADP],N
+ACRONYM,[Box content services],[BCS],N
+ACRONYM,[Googles TensorFlow software],[GTS],N
+ACRONYM,[entire smartphone lifecycle],[ESL],N
+ACRONYM,[customer support service],[CSS],N
+ACRONYM,"[Chief Medical Officer, chief medical officer]",[CMO],N
+ACRONYM,"[personal computer market, personal computing market]",[PCM],N
+ACRONYM,"[natural language generation, Natural Language Generation]",[NLG],N
+ACRONYM,[Air Force acquisitions],[AFA],N
+ACRONYM,[Facebook Inc. ads],[FIA],N
+ACRONYM,[Hortonworks Data Platform],[HDP],Y
+ACRONYM,[clients single-point access],[CSA],N
+ACRONYM,[achieving machine intelligence],"[Amy, AMI]",N
+ACRONYM,[Clinical Data Warehouses],[CDW],N
+ACRONYM,"[customer service rep, customer service reps]",[CSR],N
+ACRONYM,[container management portal],[CMP],N
+ACRONYM,[search analytics firmsSpyFu],"[SAFs, SAF]",N
+ACRONYM,[computer security stack],[CSS],N
+ACRONYM,[largest annual gathering],[lag],N
+ACRONYM,[equity derivatives revenues],[EDR],N
+ACRONYM,"[Industrial Control Systems, Industrial control systems, industrial control systems]",[ICS],Y
+ACRONYM,[Turing Robotics Industries],[TRI],Y
+ACRONYM,[Azure CDN Services],[ACS],N
+ACRONYM,[impartial peer review],[IPR],N
+ACRONYM,[Cloud Application Platforms],"[CAP, cap]",N
+ACRONYM,[Innovation II-38 IoT],"[iii, III]",N
+ACRONYM,[intensive virtualization applications],[IVA],N
+ACRONYM,[Transparency Market Research],[TMR],Y
+ACRONYM,[digital stokvel solution],[DSS],N
+ACRONYM,"[electronic medical record, Electronic Medical Records, electronic medical records]","[EMRs, EMR]",Y
+ACRONYM,[mobile and searching],[MAS],N
+ACRONYM,[National Australia Bank],[NAB],Y
+ACRONYM,[Silicon Valley-inspired pod],[SVP],N
+ACRONYM,[UC Santa Cruz],[USC],N
+ACRONYM,[distributed and non-distributed attention],[Dana],N
+ACRONYM,[DeepMind artificial intelligence],[DAI],N

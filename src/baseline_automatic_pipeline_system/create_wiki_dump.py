@@ -8,7 +8,7 @@ data is pickled to a file, examples can be found in data/wiki_dumps
 
 Usage: create_wiki_dump --input=INPUT_FILE_PATH --output=OUTPUT_FILE_PATH
 
-Usage example: create_wiki_dump --input=test/out/WhitneyHeichelPairs.txt --output=data/wiki_dumps/WhitneyHeichelWikiDump.pickle
+Usage example: create_wiki_dump --input=test/out/Acronym_all_news.csv --output=data/wiki_dumps/Acronym_all_news.pickle
 
 """
 
@@ -16,61 +16,100 @@ Usage example: create_wiki_dump --input=test/out/WhitneyHeichelPairs.txt --outpu
 import sys, os
 import pickle
 import pywikibot
+import pandas as pd
 from docopt import docopt, printable_usage
 
 for pack in os.listdir("src"):
     sys.path.append(os.path.join("src", pack))
 
+from src.common.okr import load_graphs_from_folder, load_graph_from_file
 from src.baseline_system.data.Page import Page
-from src.baseline_system.eval_entity_coref import get_aliases
 
 site = pywikibot.Site('en', 'wikipedia')
 result_dump = {}
 
 
-def generate_wiki_dump(input, output):
-    with open(input, "r") as myfile:
-        file_lines = myfile.readlines()
+def generate_wiki_dump_from_gs(input, output):
+    if os.path.isdir(input):
+        gold_graphs = load_graphs_from_folder(input)
+    else:  # single gold file
+        gold_graphs = [load_graph_from_file(input)]
 
-    for line in file_lines:
-        content = line.strip().split(',')
-        word1 = content[0]
-        word2 = content[1]
-
-        if word1 not in result_dump:
-            add_page(word1)
-
-        if word2 not in result_dump:
-            add_page(word2)
-
-        if word1.title() not in result_dump:
-            add_page(word1.title())
-
-        if word2.title() not in result_dump:
-            add_page(word2.title())
+    for gold_val in gold_graphs:
+        for key, val in gold_val.ent_mentions_by_key.iteritems():
+            add_all_pages(val.terms)
 
     with open(output, "w") as myfile:
         pickle.dump(result_dump, myfile)
 
 
+def generate_wiki_dump_acronym(input=None, output=None):
+    dataframes = pd.read_csv("./data/intel_gs/Acronym_all_news.csv")
+    for index, row in dataframes.iterrows():
+        group1 = row[1].replace('[', '').replace(']', '').split(',')
+        group2 = row[2].replace('[', '').replace(']', '').split(',')
+        add_all_pages(group2[0])
+        for word1 in group1:
+            add_all_pages(word1)
+
+    with open('./data/wiki_dumps/change_to_whatever.pickle', "w") as myfile:
+        pickle.dump(result_dump, myfile)
+
+
+def add_all_pages(word):
+    word = word.strip()
+    add_page(word)
+    add_page(word.lower())
+    add_page(word.title())
+    add_page(word.upper())
+
+
 def add_page(word):
-    page = pywikibot.Page(site, word)
-    pageid = page.pageid
-    page_has_redirect = page.isRedirectPage()
-    redirect = None
-    aliases = get_aliases(page)
-    word = unicode(word)
+    if word not in result_dump:
+        page = pywikibot.Page(site, word)
+        pageid = page.pageid
+        page_has_redirect = page.isRedirectPage()
+        redirect = None
+        aliases, description = get_aliases_and_description(page)
+        word = unicode(word)
+        text = page.text
 
-    if page_has_redirect:
-        red_page = page.getRedirectTarget()
-        red_title = red_page.title.im_self._link.title
-        red_aliases = get_aliases(red_page)
-        redirect = Page(red_title, red_page.pageid, False, None, red_aliases)
-        if red_title not in result_dump:
-            result_dump[red_title] = redirect
+        if page_has_redirect:
+            red_page = page.getRedirectTarget()
+            red_title = red_page.title.im_self._link.title
+            red_aliases, ret_description = get_aliases_and_description(red_page)
+            red_text = red_page.text
+            redirect = Page(red_title, red_page.pageid, False, None, red_aliases, ret_description, red_text)
+            if red_title not in result_dump:
+                result_dump[red_title] = redirect
 
-    page = Page(word, pageid, page_has_redirect, redirect, aliases)
-    result_dump[word] = page
+        page = Page(word, pageid, page_has_redirect, redirect, aliases, description, text)
+        result_dump[word] = page
+        if page is not None:
+            print 'adding page-' + page.to_string()
+
+
+def get_aliases_and_description(page):
+    """
+    Returns page aliases
+    :param page: wikidata mention page representation
+    :return: Returns page aliases
+    """
+    aliases = None
+    description = {}
+    if page is not None:
+        try:
+            item = pywikibot.ItemPage.fromPage(page) # this can be used for any page object
+            item_desc = item.get()  # need to call it to access any data.
+            if 'en' in item.aliases:
+                aliases = item.aliases['en']
+            if 'en' in item_desc['descriptions']:
+                dict([("age", 25)])
+                description['descriptions'] = dict([('en', item_desc['descriptions']['en'])])
+        except (pywikibot.NoPage, AttributeError, TypeError, NameError):
+            pass
+
+    return aliases, description
 
 
 if __name__ == '__main__':
@@ -82,6 +121,6 @@ if __name__ == '__main__':
 
     input = args['--input']
     output = args['--output']
-    generate_wiki_dump(input, output);
+    generate_wiki_dump_from_gs(input, output)
 
     print '--- Done Creating Dump Successfully! ---'

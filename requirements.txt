@@ -38,3 +38,4 @@ webencodings==0.5.1
 wheel==0.24.0
 wrapt==1.10.11
 pywikibot=3.0.20171227
+pandas=0.22.0

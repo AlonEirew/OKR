@@ -1,4 +1,5 @@
 class ResultObject:
+
     def __init__(self, word1_id, word1, word2_id, word2, syn_result, fuzzy_result, partial_result, wikidata_result, expected=None):
         self.word1_id = word1_id
         self.word1 = word1

@@ -1,0 +1,612 @@
+network video recorder,NVR,False,False,False,True,True
+International Accounting Standards Board,IASB,False,False,False,True,True
+Virtualized Network Function,VNF,False,False,False,False,True
+Enterprise Data Management Council,EDMC,False,False,False,False,True
+transaction processing software,TPS,False,False,False,False,False
+Manufacturing Execution System,MES,False,False,False,False,True
+Modern Art Specialist,MAS,False,False,False,False,False
+Programmable Automation Controller,PAC,False,False,False,True,True
+Patrizia C. McBride,PCM,False,False,False,False,False
+wireless local loop,WLL,False,False,False,True,True
+albeit not undervalued,Anu,False,False,False,False,False
+Richard D. Shiels,RDS,False,False,False,False,False
+Common Weakness Enumeration,CWE,False,False,False,True,True
+Brocade Communications Systems,BCS,False,False,False,False,False
+Host Card Emulation,HCE,False,False,False,False,True
+Dependable Vehicular Communications,DVC,False,False,False,False,True
+Amazon Web Services,AWS,False,False,False,True,True
+Paschall Truck Lines,PTL,False,False,False,False,True
+Baidu Log Service,BLS,False,False,False,False,True
+unstructured health data,UHD,False,False,False,False,False
+Business Transformation Initiative,BTI,False,False,False,False,True
+Neural Information Processing Systems,NIPS,False,False,False,True,True
+cloud system infrastructure services,CSIS,False,False,False,False,False
+Maybank IB Research,MIR,False,False,False,False,False
+IBM Enterprise analytics,IEA,False,False,False,False,False
+hospital acquired infections,HAI,False,False,False,False,True
+FirstWave Cloud Technology,FCT,False,False,False,False,True
+elaborate security protocols,ESP,False,False,False,False,False
+Toyota Production System,TPS,False,False,False,True,True
+cloud giants Microsoft,CGM,False,False,False,False,False
+Dependency Discovery Engine,DDE,False,False,False,False,True
+global business services,GBS,False,False,False,False,True
+Global Business Services,GBS,False,False,False,False,True
+enterprise content management,ECM,False,False,False,True,True
+Generic Routing Encapsulation,GRE,False,False,False,False,True
+Telecommunication Development Industry Alliance,TDIA,False,False,False,False,True
+Universiti Teknologi Petronas,UTP,False,False,False,True,True
+chief commercial officer,CCO,False,False,False,False,False
+Chief Commercial Officer,CCO,False,False,False,False,False
+cognitive machine learning,CML,False,False,False,False,True
+Senior Vice President,SVP,False,False,False,True,False
+senior vice president,SVP,False,False,False,True,False
+senior vice-president,SVP,False,False,False,False,False
+Sword Art Online,SAO,False,False,False,True,False
+Vision Processor Units,VPU,False,False,False,False,True
+media resource function,MRF,False,False,False,True,True
+Consumer Intelligence Research Partners,CIRP,False,False,False,False,True
+powerful and innovative,PAI,False,False,False,False,False
+Applied Cognitive Engine,ACE,False,False,False,False,True
+Network Function Virtualization,NFV,False,False,False,False,True
+Asia Pacific Economic Cooperation,APEC,False,False,False,True,True
+deepest AI investments,DAI,False,False,False,False,False
+entire IT stack,EIS,False,False,False,False,False
+Chief executive officer,CEO,False,False,False,True,True
+Chief Executive Officer,CEO,False,False,False,True,True
+chief executive officer,CEO,False,False,False,True,True
+Lawrence Livermore National Laboratory,LLNL,False,False,False,True,True
+Qualcomm CDMA Technologies,QCT,False,False,False,False,True
+Chief Engineer Doomed,CED,False,False,False,False,False
+support vector machine,SVM,False,False,False,True,True
+support vector machines,SVM,False,False,False,True,True
+Licensed ZapThink Architect,LZA,False,False,False,False,True
+important AI myths,IAM,False,False,False,False,False
+ultra high definition,UHD,False,False,False,True,True
+liquid crystal display,LCD,False,False,False,True,True
+chief cognitive officer,CCO,False,False,False,False,False
+Ernst Strngmann Institute,ESI,False,False,False,False,True
+National Stock Exchange,NSE,False,False,False,False,True
+Totally Integrated Automation,TIA,False,False,False,False,True
+travel management companies,TMC,False,False,False,False,False
+Dublin City University,DCU,False,False,False,True,True
+feature-rich,FAO,False,False,False,False,False
+accelerated-ROI offerings,FAO,False,False,False,False,False
+British Computer Society,BCS,False,False,False,True,True
+Optical Character Recognition,OCR,False,False,False,True,True
+optical character recognition,OCR,False,False,False,True,True
+mobile-device-management,MDM,False,False,False,False,True
+Mobile Device Management,MDM,False,False,False,True,True
+mobile device management,MDM,False,False,False,True,True
+integrated developer experience,IDE,False,False,False,False,False
+executive vice-president,EVP,False,False,False,False,True
+executive vice president,EVP,False,False,False,True,True
+Executive Vice president,EVP,False,False,False,True,True
+Executive Vice President,EVP,False,False,False,True,True
+medical research company,MRC,False,False,False,False,False
+driving business engagements,DBE,False,False,False,False,False
+Red Hat Enterprise Linux,RHEL,False,False,False,True,True
+Intel Developer Forum,IDF,False,False,False,True,True
+Israeli Defense Forces,IDF,False,False,False,True,True
+Tokyo Game Show,TGS,False,False,False,True,True
+Tokyo Games Show,TGS,False,False,False,True,True
+Accountable Care Organizations,ACO,False,False,False,False,True
+Chief Technology Officer,CTO,False,False,False,True,True
+chief technology officer,CTO,False,False,False,True,True
+Allen Telescope Array,ATA,False,False,False,True,True
+Google Compute Cloud,GCC,False,False,False,False,False
+Decision Support Systems,DSS,False,False,False,True,True
+Decision support systems,DSS,False,False,False,True,True
+predictive threat intelligence,Pty,False,False,False,False,False
+Geographic Information Systems,GIS,False,False,False,True,True
+geographic information system,GIS,False,False,False,True,True
+TV game shows,TGS,False,False,False,False,False
+TV game show,TGS,False,False,False,False,False
+Brazilian police arrest,BPA,False,False,False,False,False
+infrastructure solutions provider,ISP,False,False,False,False,False
+Real-time bidding,RTB,False,False,False,False,True
+real time bidding,RTB,False,False,False,True,True
+American Diabetes Association,ADA,False,False,False,True,True
+Tableau Data Engine,TDE,False,False,False,False,True
+Text To Speech,TTS,False,False,False,True,True
+Inari Integrated System,IIS,False,False,False,False,True
+comprehensive booking system,CBS,False,False,False,False,False
+muscle tension dysphonia,MTD,False,False,False,False,True
+Airplane Health Management,AHM,False,False,False,False,True
+unified Windows platform,UWP,False,False,False,False,False
+Data Science Experience,DSE,False,False,False,False,False
+natural language processing,NLP,False,False,False,True,True
+Natural-language processing,NLP,False,False,False,True,True
+natural-language processing,NLP,False,False,False,True,True
+Natural language processing,NLP,False,False,False,True,True
+Natural Language processing,NLP,False,False,False,True,True
+natural-language-processing,NLP,False,False,False,True,True
+Natural Language Processing,NLP,False,False,False,True,True
+streaming video giant,SVG,False,False,False,False,False
+type 1 diabetes,T1D,False,False,False,True,True
+Greenfield IT solutions,GIS,False,False,False,False,False
+campaign management platform,CMP,False,False,False,False,False
+smart robot manufacturers,SRM,False,False,False,False,False
+American Marketing Association,AMAs,False,False,False,False,True
+Advanced Message Queuing Protocol,AMQP,False,False,False,True,True
+Killer DoubleShot Pro,KDP,False,False,False,False,False
+Vice President Sales,VPs,False,False,False,False,False
+personal communications services,PCS,False,False,False,False,True
+mobile ECM app,MEA,False,False,False,False,False
+complex data sets,CDs,False,False,False,False,False
+Enterprise Specific Protection,ESP,False,False,False,False,True
+Moving Average Convergence Divergence,MACD,False,False,False,False,True
+Asset Performance Management,APM,False,False,False,False,True
+public-cloud infrastructure,PCI,False,False,False,False,False
+public cloud infrastructure,PCI,False,False,False,False,False
+Chief Operating Officer,COO,False,False,False,True,True
+chief operation officer,COO,False,False,False,False,True
+chief operating officer,COO,False,False,False,True,True
+Rock-Solid Dividend Stocks,RDS,False,False,False,False,False
+autonomous mobile robotics,AMR,False,False,False,False,True
+Square Kilometer Array,SKA,False,False,False,True,True
+cloud-based software solutions,CSS,False,False,False,False,False
+International Telecommunication Union,ITU,False,False,False,True,True
+Malaysia Digital Economy Corporation,MDEC,False,False,False,True,True
+continuous glucose monitors,CGM,False,False,False,False,True
+continuous glucose monitoring,CGM,False,False,False,True,True
+Anita Borg Institute,ABI,False,False,False,True,True
+effective communication method,ECM,False,False,False,False,False
+Levodopa equivalent dose,LEDs,False,False,False,False,True
+Field Programmable Gate Arrays,FPGA,False,False,False,False,True
+field programmable gate array,FPGA,False,False,False,True,True
+Field Programmable Gate Array,FPGA,False,False,False,True,True
+field-programmable gate arrays,FPGA,False,False,False,False,True
+field programmable gate arrays,FPGA,False,False,False,False,True
+South Africa-born entrepreneur,SAE,False,False,False,False,False
+significant societal dislocation,SSD,False,False,False,False,False
+accelerated processing unit,APU,False,False,False,True,True
+cloud industry partners,CIP,False,False,False,False,False
+dense CPU/memory model,DCM,False,False,False,False,False
+detailed product roadmaps,DPR,False,False,False,False,False
+Grand Theft Auto,GTA,False,False,False,True,True
+Bloombergs Monte Reel,BMR,False,False,False,False,False
+credit score engine,CSE,False,False,False,False,False
+Hewlett-Packard Enterprise,HPE,False,False,False,False,True
+Hewlett Packard Enterprise,HPE,False,False,False,False,True
+Cyber Physical Systems,CPS,False,False,False,False,True
+soil tension meters,STM,False,False,False,False,False
+digital signal processors,DSP,False,False,False,True,True
+digital signal processor,DSP,False,False,False,True,True
+Digital Health Access Initiative,DHAI,False,False,False,False,True
+productivity cost savings,PCS,False,False,False,False,False
+Thrust Management Computer,TMC,False,False,False,False,True
+SaaS Enablement Framework,SEF,False,False,False,False,True
+current market research,CMR,False,False,False,False,False
+cross sectional study,CSS,False,False,False,False,False
+Mobile World Congress,MWC,False,False,False,True,True
+Palo Alto Networks,PAN,False,False,False,False,False
+data science toolkit,DST,False,False,False,False,True
+Language Understanding Intelligent Service,LUIS,False,False,False,False,True
+phone company stocks,PCS,False,False,False,False,False
+product life cycle/management,PLC,False,False,False,False,False
+climate change deniers,ccd,False,False,False,False,False
+software-defined storage,SDS,False,False,False,False,True
+Software Defined Storage,SDS,False,False,False,True,True
+power usage efficiency,PUE,False,False,False,False,True
+cool VR games,CVG,False,False,False,False,False
+Total Addressable Market,TAM,False,False,False,True,True
+Consumer Technology Association,CTA,False,False,False,True,True
+Unstructured Data processing,UDP,False,False,False,False,False
+Azure cloud-based services,ACS,False,False,False,False,False
+tensor processing units,TPU,False,False,False,True,True
+Tensor Processing Unit,TPU,False,False,False,True,True
+Tensor Processing Units,TPU,False,False,False,True,True
+Civil Aviation Authority,CAA,False,False,False,True,True
+Channel State Information,CSI,False,False,False,False,True
+Artificial Narrow Intelligence,ANI,False,False,False,False,True
+end information technology,EIT,False,False,False,False,False
+electronic image stabilization,EIS,False,False,False,False,True
+Uplink Data Compression,UDC,False,False,False,False,True
+solid state drives,SSD,False,False,False,True,True
+solid-state drives,SSD,False,False,False,True,True
+solid-state drive,SSD,False,False,False,False,True
+liquefied natural gas,LNG,False,False,False,True,True
+sentient dust storms,SDS,False,False,False,False,False
+Financial Industry Business Ontology,FIBO,False,False,False,True,True
+social and emotional,SAE,False,False,False,False,False
+SPDR S&P Homebuilders,SSH,False,False,False,False,False
+hybrid cloud model,HCM,False,False,False,False,True
+real time kinematics,RTK,False,False,False,False,True
+Cubic Transportation Systems,CTS,False,False,False,False,True
+strategic alliance formation,SAFs,False,False,False,False,False
+Scalable Vector Graphics,SVG,False,False,False,True,True
+virtual private network,VPN,False,False,False,True,True
+Automotive Grade Linux,AGL,False,False,False,True,True
+future cloud talent,FCT,False,False,False,False,False
+Technology Business Incubator,TBI,False,False,False,False,True
+International Business Machine,Ibm,False,False,False,True,True
+International Business Machines,Ibm,False,False,False,True,True
+VxBlock CI systems,VCs,False,False,False,False,False
+entire pharmaceutical industry,EPI,False,False,False,False,False
+market accessible services,MAS,False,False,False,False,False
+Rob Arnolds piece,rap,False,False,False,False,False
+intelligent communication technologies,ICT,False,False,False,False,False
+irritating conversation starter,ICS,False,False,False,False,False
+advanced computer systems,ACS,False,False,False,False,False
+advanced computing systems,ACS,False,False,False,False,False
+Massachusetts General Hospital,MGH,False,False,False,True,True
+cloud content security gateway,CCSG,False,False,False,False,True
+digital investment platform,dips,False,False,False,False,False
+SQL query language,SQL,False,False,False,False,False
+Google algorithmic shiftscanbe,gas,False,False,False,False,False
+Nicer Robotics laboratory,NRL,False,False,False,False,False
+International Cleaning Equipment,ice,False,False,False,False,True
+Agile Software development,ASD,False,False,False,False,False
+Temporal Transition Hierarchies,TTH,False,False,False,False,True
+AI alliance  Artificial intelligence,AAAI,False,False,False,False,False
+Advance AI Artificial intelligence,AAAI,False,False,False,False,False
+failed chatbot attempt,FCA,False,False,False,False,False
+disparate operational tools,dots,False,False,False,False,False
+latency insensitive software package,Lisp,False,False,False,False,False
+Coho Data CTO,CDC,False,False,False,False,False
+Cloud-based software services,CSS,False,False,False,False,False
+power customer service,PCS,False,False,False,False,False
+service activation fees,SAFs,False,False,False,False,True
+Colmobil auto agency,CAA,False,False,False,False,False
+Chief Customer Officer,CCO,False,False,False,True,True
+Financial Accounting Standards Board,FASB,False,False,False,True,True
+Interactive Voice Response,IVR,False,False,False,True,True
+interactive voice response,IVR,False,False,False,True,True
+Missouri Cancer Associates,MCA,False,False,False,False,False
+application programming interfaces,APIs,False,False,False,False,True
+Application Programming Interfaces,APIs,False,False,False,False,True
+Application Program Interface,APIs,False,False,False,False,True
+Application Programming Interface,APIs,False,False,False,False,True
+application program interface,APIs,False,False,False,False,True
+Application Program Interfaces,APIs,False,False,False,False,True
+Personalized Event Engagement Portal,PEEP,False,False,False,False,True
+Samsung Pay Users,SPU,False,False,False,False,False
+Taiwan Semiconductor Manufacturing Company,TSMC,False,False,False,True,True
+Hewlett Packard Company,HPC,False,False,False,False,True
+Pennsylvania State University,PSU,False,False,False,True,False
+UK honours degree,UHD,False,False,False,False,False
+business school talent,BST,False,False,False,False,False
+customizable eicosapentaenoic acid,CEA,False,False,False,False,False
+automakers driver assistance systems,ADAS,False,False,False,False,False
+Embedded hardware,EHS,False,False,False,False,False
+software,EHS,False,False,False,False,False
+instant alarm monitoring,IAM,False,False,False,False,False
+Implement Industrial IoT,iii,False,False,False,False,False
+Application delivery platform,ADP,False,False,False,False,False
+National Outsourcing Association,NOA,False,False,False,True,True
+Robotic Process Automation,RPA,False,False,False,True,True
+Robotics Process Automation,RPA,False,False,False,False,True
+robotic process automation,RPA,False,False,False,True,True
+robotics process automation,RPA,False,False,False,False,True
+vertical search engines,VSE,False,False,False,False,True
+exponential moving average,EMA,False,False,False,True,True
+computational fluid dynamics,CFD,False,False,False,True,True
+advanced driver assistance systems,ADAS,False,False,False,True,True
+advanced driver-assist systems,ADAS,False,False,False,False,True
+multi-turn dialogue manager,MDM,False,False,False,False,False
+challenge probably calls,CPC,False,False,False,False,False
+vision processing unit,VPU,False,False,False,True,True
+cognitive pitch competition,CPC,False,False,False,False,False
+market development funds,MDF,False,False,False,True,True
+chief accounting officer,CAO,False,False,False,True,False
+managed service providers,MSP,False,False,False,False,False
+Managed Service Provider,MSP,False,False,False,True,False
+Sacha Inchi protein,SIP,False,False,False,False,False
+neural machine translation,NMT,False,False,False,True,True
+Neural Machine Translation,NMT,False,False,False,True,True
+voice codec synthesizers,VCs,False,False,False,False,False
+plenty computer scientists,PCS,False,False,False,False,False
+Intel Extreme Masters,IEM,False,False,False,False,False
+artificial general intelligence,AGI,False,False,False,True,True
+Artificial General Intelligence,AGI,False,False,False,True,True
+anthropomorphic digital assistants,ADA,False,False,False,False,False
+Nanolog Streaming Service,NSS,False,False,False,False,True
+auto executive talks,AET,False,False,False,False,False
+Facebooks AIresearch team,fats,False,False,False,False,False
+Rochester Human-Computer Interaction,RHI,False,False,False,False,False
+automated business incident,ABI,False,False,False,False,False
+Cognitive Media Platform,CMP,False,False,False,False,True
+cloud-based security service,CSS,False,False,False,False,False
+top Oracle customers,TOC,False,False,False,False,False
+Chief Analytics Officer,CAO,False,False,False,True,True
+chief analytics officer,CAO,False,False,False,True,True
+Open Source Robotics Foundation,OSRF,False,False,False,False,True
+rapid technological change,RTC,False,False,False,False,False
+Intelligent IoT Service,IIS,False,False,False,False,False
+Business Process Reengineering,BPR,False,False,False,True,True
+analyse driving patterns,ADP,False,False,False,False,False
+important digital movements,IDM,False,False,False,False,False
+Know Your Customer,KYC,False,False,False,False,True
+enterprise IT shops,EIS,False,False,False,False,False
+UC-San Diego,USD,False,False,False,False,False
+UC San Diego,USD,False,False,False,False,False
+Datical,DSL,False,False,False,False,False
+Sauce Labs,DSL,False,False,False,False,False
+Global Positioning System,GPS,False,False,False,True,True
+global positioning system,GPS,False,False,False,True,True
+global positioning systems,GPS,False,False,False,True,True
+basic augmented reality,bar,False,False,False,False,False
+Small Business Innovation Research,SBIR,False,False,False,True,True
+automated board inspection,ABI,False,False,False,False,True
+prominent industry participants,PIP,False,False,False,False,False
+data center growth,DCG,False,False,False,False,False
+Site Reliability Engineers,SRE,False,False,False,False,True
+site reliability engineers,SRE,False,False,False,False,True
+economic reform plan,ERP,False,False,False,False,False
+traditional phone sales,TPS,False,False,False,False,False
+Wall Street Journalspeculated,WSJ,False,False,False,False,False
+home cook iteration,HCI,False,False,False,False,False
+Enfields many strengths,EMS,False,False,False,False,False
+Consumer Electronics Show,CES,False,False,False,True,True
+consumer-electronics show,CES,False,False,False,True,True
+Business Associate Agreement,BAA,False,False,False,False,True
+Machine learning benchmarks,MLB,False,False,False,False,False
+business development centers,BDC,False,False,False,False,False
+Open Compute Project,OCP,False,False,False,True,True
+convolutional neural net,CNN,False,False,False,True,True
+convolutional neural nets,CNN,False,False,False,True,True
+Internet service providers,ISP,False,False,False,True,True
+software download store,SDS,False,False,False,False,False
+Industrial Internet Consortium,IIC,False,False,False,False,True
+IBM Cloud tools,ICT,False,False,False,False,False
+IBM Cloud Tools,ICT,False,False,False,False,False
+Standards Promote Adoption,SPA,False,False,False,False,False
+IBM cognitive solutions,ICS,False,False,False,False,False
+IBM Cognitive Solutions,ICS,False,False,False,False,False
+moral and punitive damages,MapD,False,False,False,False,False
+Windows IT Pro,WIP,False,False,False,False,False
+word error rate,WER,False,False,False,True,True
+broader product offering,BPO,False,False,False,False,False
+entertainment,ECA,False,False,False,False,False
+commerce applications,ECA,False,False,False,False,False
+impaired social processing,ISP,False,False,False,False,False
+Contract for Difference,CFD,False,False,False,True,True
+chief marketing officer,CMO,False,False,False,True,True
+Chief Marketing Officer,CMO,False,False,False,True,True
+chief marketing officers,CMO,False,False,False,False,True
+Chief Marketing Officers,CMO,False,False,False,False,True
+cloud data warehouses,CDW,False,False,False,False,False
+powerful AI supercomputer,PAs,False,False,False,False,False
+digital one stop ecosystem,dose,False,False,False,False,False
+Identity Theft Resource Center,ITRC,False,False,False,False,True
+data science teams,DST,False,False,False,False,False
+data science team,DST,False,False,False,False,False
+Magnetic Resonance Imaging,MRI,False,False,False,True,True
+Tata Motors TTM,TMT,False,False,False,False,False
+Tata Motors ttm,TMT,False,False,False,False,False
+Post migration remediation,PMR,False,False,False,False,False
+cool selection shortcut,CSS,False,False,False,False,False
+individual solution providers,ISP,False,False,False,False,False
+mainframe data migration,MDM,False,False,False,False,False
+Intel AI chips,IAC,False,False,False,False,False
+Cloudera Distribution Hadoop,CDH,False,False,False,False,True
+Securities Exchange Act,seas,False,False,False,False,False
+Queue Management Device,QMD,False,False,False,False,True
+current Android phones,CAP,False,False,False,False,False
+location-based engagement software,Les,False,False,False,False,False
+containers simplified shipping,CSS,False,False,False,False,False
+multiple input channels,mics,False,False,False,False,False
+enterprise IoT technologies,EIT,False,False,False,False,False
+device provision strategies,DPS,False,False,False,False,False
+United Arab Emirates,UAE,False,False,False,True,True
+Chief Data Scientist,CDs,False,False,False,False,False
+chief data scientist,CDs,False,False,False,False,False
+cards fraud detection,CFD,False,False,False,False,False
+relational database service,RDS,False,False,False,False,False
+Relational Database Service,RDS,False,False,False,False,False
+Infocomm Development Authority,IDA,False,False,False,False,True
+hybrid cloud market,HCM,False,False,False,False,False
+executed recovery procedures,ERP,False,False,False,False,False
+Intels chief executive,ice,False,False,False,False,False
+David Shingy Shing,DSS,False,False,False,False,False
+Allo messaging app,AMAs,False,False,False,False,False
+enterprise data sources,EDS,False,False,False,False,False
+Carnegie Mellon University,CMU,False,False,False,True,True
+infrastructure service providers,ISP,False,False,False,False,False
+itsARM-based SoC designs,ISD,False,False,False,False,False
+Majorcloud service providers,MSP,False,False,False,False,False
+Charlotte Motor Speedway,CMS,False,False,False,True,False
+consistent storage,CSS,False,False,False,False,False
+security,CSS,False,False,False,False,False
+mobile computing market,MCM,False,False,False,False,False
+Google Play store,GPS,False,False,False,False,False
+Google Play Store,GPS,False,False,False,False,False
+Sands Expo Center,SEC,False,False,False,False,False
+Private Capital Management,PCM,False,False,False,False,False
+NXP Semiconductor stock,NSS,False,False,False,False,False
+business development support,BDS,False,False,False,False,False
+Cirque du Soleil,CDs,False,False,False,False,False
+Peter Thiel-backed company,PTC,False,False,False,False,False
+real estate purchases,Reps,False,False,False,False,False
+initial public offering,IPO,False,False,False,True,True
+initial public offer,IPO,False,False,False,True,True
+critical intellectual property,CIP,False,False,False,False,False
+relevant health information,RHI,False,False,False,False,False
+robot operating system,ROS,False,False,False,True,True
+companys sole focus,CSF,False,False,False,False,False
+Microsoft Dynamics CRM,MDC,False,False,False,False,False
+Advanced Micro Devices,AMDs,False,False,False,False,True
+Azure cloud services,ACS,False,False,False,False,False
+Azure cloud service,ACS,False,False,False,False,False
+Bing search technology,BST,False,False,False,False,False
+permanent cognitive issues,PCI,False,False,False,False,False
+Poetics of Commemoration,PoC,False,False,False,False,False
+visual computing applications,vCA,False,False,False,False,False
+Stanford Research Institute,SRI,False,False,False,True,True
+National Retail Federation,NRF,False,False,False,True,True
+advanced persistent threat,APT,False,False,False,True,False
+advanced persistent threats,APT,False,False,False,True,False
+Advanced persistent threats,APT,False,False,False,True,False
+Advanced Persistent Threat,APT,False,False,False,True,False
+visionary innovation including,vii,False,False,False,False,False
+consumer more power,CMP,False,False,False,False,False
+Robert Half International,RHI,False,False,False,True,False
+normal or abnormal,NOA,False,False,False,False,False
+cloud software solutions,CSS,False,False,False,False,False
+marketing planning,MPC,False,False,False,False,False
+coordination,MPC,False,False,False,False,False
+China Technology Ecosystem,CTE,False,False,False,False,True
+General Data Protection Regulation,GDPR,False,False,False,True,False
+graphical processor units,GPU,False,False,False,False,True
+graphics processor unit,GPU,False,False,False,False,True
+Chairman Devin Nunes,CDN,False,False,False,False,False
+autism spectrum disorder,ASD,False,False,False,True,True
+Customer relationship management,CRM,False,False,False,True,True
+Customer Relationship Management,CRM,False,False,False,True,True
+customer-relationship management,CRM,False,False,False,True,True
+customer relationship management,CRM,False,False,False,True,True
+Browse All Reports,bar,False,False,False,False,False
+Tata Consultancy Services,TCS,False,False,False,True,True
+Government Contractor Primes,GCP,False,False,False,False,False
+cloud product suite,CPS,False,False,False,False,False
+Softbank Robotics Pepper,SRP,False,False,False,False,False
+cloud IaaS platform,CIP,False,False,False,False,False
+IBM Studios Singapore,ISS,False,False,False,False,False
+Australian Hotels Association,AHA,False,False,False,True,False
+Cloud Division,CDC,False,False,False,False,False
+comments,CDC,False,False,False,False,False
+Sprucegrove Investment Management,SIM,False,False,False,False,False
+Cognitive Fingerprinting Delivers,CFD,False,False,False,False,False
+CFO Martin Schroeter,CMS,False,False,False,False,False
+Presentation of Information,POI,False,False,False,False,False
+scalable data structures,SDS,False,False,False,False,False
+Vicom Computer Services,VCs,False,False,False,False,False
+Executive Vice Presient,EVP,False,False,False,False,False
+autonomous vehicle technology,AVT,False,False,False,False,False
+autonomous vehicle technologies,AVT,False,False,False,False,False
+enterprise cloud market,ECM,False,False,False,False,False
+Unified Security Management,USM,False,False,False,False,True
+clinical trials status,CTS,False,False,False,False,False
+lead software engineer,LSE,False,False,False,False,False
+programmable logic components,PLC,False,False,False,False,False
+advanced visual effects,ave,False,False,False,False,False
+technical capabilities orconstraints,TCO,False,False,False,False,False
+Technology Type  SIMO,TTS,False,False,False,False,False
+Data Management Platform,DMP,False,False,False,False,True
+accurate speech recognition,ASR,False,False,False,False,True
+Transition Authorization Act,TAA,False,False,False,False,False
+Edward Snowdens Long,ESL,False,False,False,False,False
+Advanced machine learning,AML,False,False,False,False,False
+advanced machine learning,AML,False,False,False,False,False
+historical and real-time data,Hard,False,False,False,False,False
+convolutional neural network,CNN,False,False,False,True,True
+convolutional neural networks,CNN,False,False,False,True,True
+Convolutional neural networks,CNN,False,False,False,True,True
+Connected Production Environment,CPE,False,False,False,False,False
+identity management service,IMS,False,False,False,False,False
+Protected Health Information,PHI,False,False,False,True,True
+security management systems,SMS,False,False,False,False,False
+mobile engagement services,MES,False,False,False,False,False
+Central Intelligence Agency,CIA,False,False,False,True,True
+natural human language,NHL,False,False,False,False,False
+general strong AI,GSA,False,False,False,False,False
+Macys Woodbridge Center,MWC,False,False,False,False,False
+connected devices space,CDs,False,False,False,False,False
+Nervana  a set,NAS,False,False,False,False,False
+Visionary Innovation  Convergence,vic,False,False,False,False,False
+Android-dominated smartphone range,ASR,False,False,False,False,False
+proof application images,PAI,False,False,False,False,False
+Global Technology Services,GTS,False,False,False,False,False
+global technology service,GTS,False,False,False,False,False
+data-driven healthcare applications,DHA,False,False,False,False,False
+American Heart Association,AHA,False,False,False,True,True
+tone color scheme,TCS,False,False,False,False,False
+Sensorias smart garments,SSG,False,False,False,False,False
+Advanced Cyber Threat Analytics,ACTA,False,False,False,False,True
+UC San DiegoX,USD,False,False,False,False,False
+cross country drive,ccd,False,False,False,False,False
+Age Dependency Ratio,ADR,False,False,False,False,False
+comparison shopping sites,CSS,False,False,False,False,False
+Amadeus North America,ANA,False,False,False,False,False
+holy horror show,HHS,False,False,False,False,False
+Federal Trade Commission,FTC,False,False,False,True,True
+intelligent virtual assistants,IVA,False,False,False,False,False
+Intelligent Virtual Assistant,IVA,False,False,False,False,False
+custom granola mix,CGM,False,False,False,False,False
+Chan Zuckerberg Initiative,CZI,False,False,False,True,True
+Country General Manager,CGM,False,False,False,False,False
+Translational Research Unit,Tru,False,False,False,False,False
+cashflow and ability,CAA,False,False,False,False,False
+Azure Machine Learning,AML,False,False,False,False,False
+ALMs Consulting Magazine,ACM,False,False,False,False,False
+World Semiconductor Trade Statistics,WSTS,False,False,False,False,True
+AI product efforts,ape,False,False,False,False,False
+Company Social Responsibility,CSR,False,False,False,False,True
+redundant secure systems,RSS,False,False,False,False,False
+National Computational Infrastructure,NCI,False,False,False,False,True
+Global Market Outlook,GMO,False,False,False,False,False
+largest individual employer,lie,False,False,False,False,False
+Scale Venture Partners,SVP,False,False,False,False,False
+chief compliance officer,CCO,False,False,False,True,False
+global climate change,GCC,False,False,False,False,False
+chief information officers,CIO,False,False,False,False,True
+Chief Information Officer,CIO,False,False,False,True,True
+Chief information officers,CIO,False,False,False,False,True
+chief information officer,CIO,False,False,False,True,True
+Tay chatbot returns,TCR,False,False,False,False,False
+medical insurance companies,mics,False,False,False,False,False
+dual SIM tray,DST,False,False,False,False,False
+preventive cybersecurity solution,PCS,False,False,False,False,False
+Wall Street Journa,WSJ,False,False,False,False,False
+inane,IFG,False,False,False,False,False
+false garbage,IFG,False,False,False,False,False
+Service Level Agreement,SLA,False,False,False,True,True
+service-level agreements,SLA,False,False,False,False,True
+Department of Statistics,DOS,False,False,False,False,False
+Dubai World Trade Centre,DWTC,False,False,False,True,True
+sleep monitoring system,SMS,False,False,False,False,False
+Spire Sheds Light,SSL,False,False,False,False,False
+Lethal Autonomous Weapon Systems,LAWS,False,False,False,False,True
+lethal autonomous weapons systems,LAWS,False,False,False,False,True
+HGST Active Archive System,HaaS,False,False,False,False,False
+personalized user experience,PUE,False,False,False,False,False
+chief innovation officer,CIO,False,False,False,True,False
+Chief Innovation Officer,CIO,False,False,False,True,False
+Australias future prosperity,AFP,False,False,False,False,False
+smart city models,SCM,False,False,False,False,False
+Nasdaq Composite Index,NCI,False,False,False,False,False
+Nasdaq composite index,NCI,False,False,False,False,False
+Amaryllos dynamic peer,ADP,False,False,False,False,False
+Box content services,BCS,False,False,False,False,False
+Googles TensorFlow software,GTS,False,False,False,False,False
+entire smartphone lifecycle,ESL,False,False,False,False,False
+customer support service,CSS,False,False,False,False,False
+Chief Medical Officer,CMO,False,False,False,True,False
+chief medical officer,CMO,False,False,False,True,False
+personal computer market,PCM,False,False,False,False,False
+personal computing market,PCM,False,False,False,False,False
+natural language generation,NLG,False,False,False,True,False
+Natural Language Generation,NLG,False,False,False,True,False
+Air Force acquisitions,AFA,False,False,False,False,False
+Facebook Inc. ads,FIA,False,False,False,False,False
+Hortonworks Data Platform,HDP,False,False,False,False,True
+clients single-point access,CSA,False,False,False,False,False
+achieving machine intelligence,Amy,False,False,False,False,False
+Clinical Data Warehouses,CDW,False,False,False,False,False
+customer service rep,CSR,False,False,False,False,False
+customer service reps,CSR,False,False,False,False,False
+container management portal,CMP,False,False,False,False,False
+search analytics firmsSpyFu,SAFs,False,False,False,False,False
+computer security stack,CSS,False,False,False,False,False
+largest annual gathering,lag,False,False,False,False,False
+equity derivatives revenues,EDR,False,False,False,False,False
+Industrial Control Systems,ICS,False,False,False,True,True
+Industrial control systems,ICS,False,False,False,True,True
+industrial control systems,ICS,False,False,False,True,True
+Turing Robotics Industries,TRI,False,False,False,False,True
+Azure CDN Services,ACS,False,False,False,False,False
+impartial peer review,IPR,False,False,False,False,False
+Cloud Application Platforms,CAP,False,False,False,False,False
+Innovation II-38 IoT,iii,False,False,False,False,False
+intensive virtualization applications,IVA,False,False,False,False,False
+Transparency Market Research,TMR,False,False,False,False,True
+digital stokvel solution,DSS,False,False,False,False,False
+electronic medical record,EMRs,False,False,False,False,True
+Electronic Medical Records,EMRs,False,False,False,False,True
+electronic medical records,EMRs,False,False,False,False,True
+mobile and searching,MAS,False,False,False,False,False
+National Australia Bank,NAB,False,False,False,True,True
+Silicon Valley-inspired pod,SVP,False,False,False,False,False
+UC Santa Cruz,USC,False,False,False,False,False
+distributed and non-distributed attention,Dana,False,False,False,False,False
+DeepMind artificial intelligence,DAI,False,False,False,False,False

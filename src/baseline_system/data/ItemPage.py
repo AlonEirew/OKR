@@ -1,10 +1,10 @@
 class Item:
     def __init__(self, page):
-        self.aliases = page.aliases
+        self.aliases = dict([('en', page.aliases)])
+        self.description = page.description
 
-    @staticmethod
-    def get():
-        return
+    def get(self):
+        return self.description
 
 
 class ItemPage():
