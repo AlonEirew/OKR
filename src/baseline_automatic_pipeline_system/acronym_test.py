@@ -9,8 +9,8 @@ from src.baseline_system.data.result_object import ResultObject
 
 
 def test_single():
-    word1 = 'graphics processor unit'
-    word2 = 'GPU'
+    word1 = 'andhra'
+    word2 = 'nellore'
     wikidata_result = wikidata_check(word1, word2)
     print wikidata_result
 
@@ -33,7 +33,7 @@ def main():
             word1 = word1.strip()
             word2 = group2[0].strip()
             wiki_result = wikidata_check(word1.lower(), word2.lower())
-            result_objs.append(ResultObject(word1, word2, wiki_result, expected))
+            result_objs.append(ResultObject(None, word1, None, word2, False, False, False, wiki_result, expected))
 
     with open("./data/intel_gs/result.csv", 'w') as acronyms_out:
         for result in result_objs:

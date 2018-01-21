@@ -26,11 +26,11 @@ IBM Enterprise analytics,IEA,False,False,False,False,False
 hospital acquired infections,HAI,False,False,False,False,True
 FirstWave Cloud Technology,FCT,False,False,False,False,True
 elaborate security protocols,ESP,False,False,False,False,False
-Toyota Production System,TPS,False,False,False,False,True
+Toyota Production System,TPS,False,False,False,True,True
 cloud giants Microsoft,CGM,False,False,False,False,False
 Dependency Discovery Engine,DDE,False,False,False,False,True
-global business services,GBS,False,False,False,True,True
-Global Business Services,GBS,False,False,False,True,True
+global business services,GBS,False,False,False,False,True
+Global Business Services,GBS,False,False,False,False,True
 enterprise content management,ECM,False,False,False,True,True
 Generic Routing Encapsulation,GRE,False,False,False,False,True
 Telecommunication Development Industry Alliance,TDIA,False,False,False,False,True
@@ -85,7 +85,7 @@ Executive Vice President,EVP,False,False,False,True,True
 medical research company,MRC,False,False,False,False,False
 driving business engagements,DBE,False,False,False,False,False
 Red Hat Enterprise Linux,RHEL,False,False,False,True,True
-Intel Developer Forum,IDF,False,False,False,False,True
+Intel Developer Forum,IDF,False,False,False,True,True
 Israeli Defense Forces,IDF,False,False,False,True,True
 Tokyo Game Show,TGS,False,False,False,True,True
 Tokyo Games Show,TGS,False,False,False,True,True
@@ -104,7 +104,7 @@ TV game show,TGS,False,False,False,False,False
 Brazilian police arrest,BPA,False,False,False,False,False
 infrastructure solutions provider,ISP,False,False,False,False,False
 Real-time bidding,RTB,False,False,False,False,True
-real time bidding,RTB,False,False,False,False,True
+real time bidding,RTB,False,False,False,True,True
 American Diabetes Association,ADA,False,False,False,True,True
 Tableau Data Engine,TDE,False,False,False,False,True
 Text To Speech,TTS,False,False,False,True,True
@@ -273,7 +273,7 @@ software,EHS,False,False,False,False,False
 instant alarm monitoring,IAM,False,False,False,False,False
 Implement Industrial IoT,iii,False,False,False,False,False
 Application delivery platform,ADP,False,False,False,False,False
-National Outsourcing Association,NOA,False,False,False,False,True
+National Outsourcing Association,NOA,False,False,False,True,True
 Robotic Process Automation,RPA,False,False,False,True,True
 Robotics Process Automation,RPA,False,False,False,False,True
 robotic process automation,RPA,False,False,False,True,True
@@ -288,7 +288,7 @@ challenge probably calls,CPC,False,False,False,False,False
 vision processing unit,VPU,False,False,False,True,True
 cognitive pitch competition,CPC,False,False,False,False,False
 market development funds,MDF,False,False,False,True,True
-chief accounting officer,CAO,False,False,False,False,False
+chief accounting officer,CAO,False,False,False,True,False
 managed service providers,MSP,False,False,False,False,False
 Managed Service Provider,MSP,False,False,False,True,False
 Sacha Inchi protein,SIP,False,False,False,False,False
@@ -313,7 +313,7 @@ chief analytics officer,CAO,False,False,False,True,True
 Open Source Robotics Foundation,OSRF,False,False,False,False,True
 rapid technological change,RTC,False,False,False,False,False
 Intelligent IoT Service,IIS,False,False,False,False,False
-Business Process Reengineering,BPR,False,False,False,False,True
+Business Process Reengineering,BPR,False,False,False,True,True
 analyse driving patterns,ADP,False,False,False,False,False
 important digital movements,IDM,False,False,False,False,False
 Know Your Customer,KYC,False,False,False,False,True
@@ -357,7 +357,7 @@ moral and punitive damages,MapD,False,False,False,False,False
 Windows IT Pro,WIP,False,False,False,False,False
 word error rate,WER,False,False,False,True,True
 broader product offering,BPO,False,False,False,False,False
-entertainment,ECA,False,False,False,True,False
+entertainment,ECA,False,False,False,False,False
 commerce applications,ECA,False,False,False,False,False
 impaired social processing,ISP,False,False,False,False,False
 Contract for Difference,CFD,False,False,False,True,True
@@ -482,7 +482,7 @@ programmable logic components,PLC,False,False,False,False,False
 advanced visual effects,ave,False,False,False,False,False
 technical capabilities orconstraints,TCO,False,False,False,False,False
 Technology Type  SIMO,TTS,False,False,False,False,False
-Data Management Platform,DMP,False,False,False,True,True
+Data Management Platform,DMP,False,False,False,False,True
 accurate speech recognition,ASR,False,False,False,False,True
 Transition Authorization Act,TAA,False,False,False,False,False
 Edward Snowdens Long,ESL,False,False,False,False,False
@@ -533,7 +533,7 @@ World Semiconductor Trade Statistics,WSTS,False,False,False,False,True
 AI product efforts,ape,False,False,False,False,False
 Company Social Responsibility,CSR,False,False,False,False,True
 redundant secure systems,RSS,False,False,False,False,False
-National Computational Infrastructure,NCI,False,False,False,True,True
+National Computational Infrastructure,NCI,False,False,False,False,True
 Global Market Outlook,GMO,False,False,False,False,False
 largest individual employer,lie,False,False,False,False,False
 Scale Venture Partners,SVP,False,False,False,False,False

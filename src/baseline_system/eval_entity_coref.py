@@ -158,7 +158,8 @@ def similar_words(other, mention):
             syn_result,
             fuzzy_result,
             partial_result,
-            wikidata_result)
+            wikidata_result,
+            None)
 
         dup_dict[dictionary_key] = result
         return result.final_result()
@@ -273,12 +274,12 @@ def wikidata_check(word1, word2):
     is2_disambiguate = is_disambiguate(item2)
 
     if is1_disambiguate and not is2_disambiguate:
-        categories1 = get_disambiguate_categories(pageRed1.text)
-        if any(word2 in s for s in categories1):
+        is_in_categories1 = is_disambiguate_categories(pageRed1.text, word2.lower())
+        if is_in_categories1:
             return True
     elif not is1_disambiguate and is2_disambiguate:
-        categories2 = get_disambiguate_categories(pageRed2.text)
-        if any(word1 in s for s in categories2):
+        is_in_categories2 = is_disambiguate_categories(pageRed2.text, word1.lower())
+        if is_in_categories2:
             return True
 
     return False
@@ -296,16 +297,17 @@ def get_word_page_by_casing(word):
     return page
 
 
-def get_disambiguate_categories(text):
+def is_disambiguate_categories(text, word):
     text_lines = text.split('\n')
-    cat_list = []
+    categories = []
     for line in text_lines:
-        p = re.compile('^\*\s\[\[(.*)\]\].*')
-        m = p.match(line)
-        if m is not None:
-            cat_list.append(m.group(1).lower().replace('-',' '))
+        category = re.findall('\[\[([\w\s\-]+)\]\]', line)
+        for cat in category:
+            categories.append(cat)
+            if cat.lower().replace('-', ' ') == word:
+                return True
 
-    return cat_list
+    return False
 
 
 def is_disambiguate(item):

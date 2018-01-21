@@ -19,11 +19,10 @@ import pywikibot
 import pandas as pd
 from docopt import docopt, printable_usage
 
-from src.common.okr import load_graphs_from_folder, load_graph_from_file
-
 for pack in os.listdir("src"):
     sys.path.append(os.path.join("src", pack))
 
+from src.common.okr import load_graphs_from_folder, load_graph_from_file
 from src.baseline_system.data.Page import Page
 
 site = pywikibot.Site('en', 'wikipedia')

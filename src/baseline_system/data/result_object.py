@@ -1,4 +1,5 @@
 class ResultObject:
+
     def __init__(self, word1_id, word1, word2_id, word2, syn_result, fuzzy_result, partial_result, wikidata_result, expected=None):
         self.word1_id = word1_id
         self.word1 = word1
@@ -8,15 +9,6 @@ class ResultObject:
         self.fuzzy_result = fuzzy_result
         self.partial_result = partial_result
         self.wikidata_result = wikidata_result
-        self.expected = expected
-
-    def __init__(self, word1, word2, wikidata_result, expected):
-        self.word1 = word1
-        self.word2 = word2
-        self.wikidata_result = wikidata_result
-        self.syn_result = False
-        self.fuzzy_result = False
-        self.partial_result = False
         self.expected = expected
 
     def final_result(self):
