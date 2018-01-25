@@ -39,8 +39,9 @@ dup_dict = {}
 # Don't use spacy tokenizer, because we originally used NLTK to tokenize the files and they are already tokenized
 nlp = English()
 
+
 def is_stop(w):
-	return w in spacy.lang.en.STOP_WORDS
+    return w in spacy.lang.en.STOP_WORDS
 
 
 def replace_tokenizer(nlp):
