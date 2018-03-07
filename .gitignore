@@ -18,4 +18,6 @@ examples/from_vered.json
 examples/from_vered.txt
 examples/problematic.json
 examples/problematic.txt
-/throttle.ctrl
+**/throttle.ctrl
+data/ecb
+data/baseline/gs_test_coref
