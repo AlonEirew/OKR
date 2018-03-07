@@ -17,13 +17,13 @@ import sys, os
 import pickle
 import pywikibot
 import pandas as pd
-from docopt import docopt, printable_usage
+from entity_matching.obj.Page import Page
 
 for pack in os.listdir("src"):
     sys.path.append(os.path.join("src", pack))
 
 from src.common.okr import load_graphs_from_folder, load_graph_from_file
-from src.baseline_system.data.Page import Page
+from docopt import docopt, printable_usage
 
 site = pywikibot.Site('en', 'wikipedia')
 result_dump = {}
@@ -56,6 +56,15 @@ def generate_wiki_dump_acronym(input=None, output=None):
         pickle.dump(result_dump, myfile)
 
 
+def generate_wiki_dump_from_dict(input, output):
+    for key, values in input.iteritems():
+        for words in values:
+            add_all_pages(words)
+
+    with open(output, "w") as myfile:
+        pickle.dump(result_dump, myfile)
+
+
 def add_all_pages(word):
     word = word.strip()
     add_page(word)
@@ -65,28 +74,31 @@ def add_all_pages(word):
 
 
 def add_page(word):
-    if word not in result_dump:
-        page = pywikibot.Page(site, word)
-        pageid = page.pageid
-        page_has_redirect = page.isRedirectPage()
-        redirect = None
-        aliases, description = get_aliases_and_description(page)
-        word = unicode(word)
-        text = page.text
+    try:
+        if word not in result_dump:
+            page = pywikibot.Page(site, word)
+            pageid = page.pageid
+            page_has_redirect = page.isRedirectPage()
+            redirect = None
+            aliases, description = get_aliases_and_description(page)
+            word = unicode(word)
+            text = page.text
 
-        if page_has_redirect:
-            red_page = page.getRedirectTarget()
-            red_title = red_page.title.im_self._link.title
-            red_aliases, ret_description = get_aliases_and_description(red_page)
-            red_text = red_page.text
-            redirect = Page(red_title, red_page.pageid, False, None, red_aliases, ret_description, red_text)
-            if red_title not in result_dump:
-                result_dump[red_title] = redirect
+            if page_has_redirect:
+                red_page = page.getRedirectTarget()
+                red_title = red_page.title.im_self._link.title
+                red_aliases, ret_description = get_aliases_and_description(red_page)
+                red_text = red_page.text
+                redirect = Page(red_title, red_page.pageid, False, None, red_aliases, ret_description, red_text)
+                if red_title not in result_dump:
+                    result_dump[red_title] = redirect
 
-        page = Page(word, pageid, page_has_redirect, redirect, aliases, description, text)
-        result_dump[word] = page
-        if page is not None:
-            print 'adding page-' + page.to_string()
+            page = Page(word, pageid, page_has_redirect, redirect, aliases, description, text)
+            result_dump[word] = page
+            if page is not None:
+                print 'adding page-' + page.to_string()
+    except:
+        print "could not extract wiki info from word-" + word
 
 
 def get_aliases_and_description(page):

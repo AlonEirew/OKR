@@ -8,6 +8,8 @@ Author: Rachel Wities
 
 import sys
 
+from entity_matching.wiki_entity_matching import WikidataSimilarityCheck
+
 sys.path.append('../common')
 sys.path.append('../agreement')
 
@@ -23,15 +25,12 @@ from spacy.lang.en import English
 from num2words import num2words
 from nltk.corpus import wordnet as wn
 from clustering_common import cluster_mentions,cluster_mentions_with_max_cluster
-from data.result_object import ResultObject
-from data.pywikibot_factoy import PywikibotFactory
+from result_object import ResultObject
 
 # Create an instance of the pywikibot (API to query wikipedia)
 # will run by default offline, in case needed to be run online (meaning HTTP calls to wikipedia) just
 # pass "online" as input ie- PywikibotFactory("online")
-pywikibot_factory = PywikibotFactory("offline")
-site = pywikibot_factory.get_site()
-pywikibot = pywikibot_factory.pywikibot
+wiki = WikidataSimilarityCheck('offline', 'data/wiki_dumps')
 
 # dictionary to save the pairs evaluation (used for skipping mulipule test of same pairs & for testing)
 dup_dict = {}
@@ -125,13 +124,13 @@ def score(mention, cluster):
     return len([other for other in cluster if similar_words(other, mention)]) / (1.0 * len(cluster))
 
 
-def similar_words(other, mention):
+def similar_words_result(other, mention):
     """
-    Returns whether x and y are similar
-    :param other: the first mention
-    :param mention: the second mention
-    :return: whether x and y are similar
-    """
+        Returns whether x and y are similar
+        :param other: the first mention
+        :param mention: the second mention
+        :return: whether x and y are similar
+        """
     x = other[1]
     x_id = other[0]
     y_id = mention[0]
@@ -147,9 +146,9 @@ def similar_words(other, mention):
         if not syn_result:
             fuzzy_result = fuzzy_fit(x, y)
             if not fuzzy_result:
-                partial_result = partial_match(x,y)
+                partial_result = partial_match(x, y)
                 if not partial_result:
-                    wikidata_result = wikidata_check(x,y)
+                    wikidata_result = wiki.wikidata_check(x, y)
 
         result = ResultObject(
             x_id,
@@ -163,9 +162,13 @@ def similar_words(other, mention):
             None)
 
         dup_dict[dictionary_key] = result
-        return result.final_result()
+        return result
 
-    return dup_dict[dictionary_key].final_result()
+    return dup_dict[dictionary_key]
+
+
+def similar_words(other, mention):
+    return similar_words_result(other, mention).final_result()
 
 
 def same_synset(x, y):
@@ -240,143 +243,3 @@ def partial_match(x, y):
         return True
 
     return False
-
-
-def wikidata_check(word1, word2):
-    """
-    Returns whether word1 and word1 share a wikidata redirect page or one is alias of the other
-    :param word1: first mention
-    :param word2: second mention
-    :return: True if word1 and word2 share a wikidata redirect page or one is alias of the other, False otherwise
-    """
-    # print "wikidata compare " + word1 + " to " + word2
-    page1 = get_word_page_by_casing(word1)
-    page2 = get_word_page_by_casing(word2)
-
-    pageRed1 = page1
-    pageRed2 = page2
-
-    if pageRed1.isRedirectPage():
-        pageRed1 = page1.getRedirectTarget()
-    if pageRed2.isRedirectPage():
-        pageRed2 = page2.getRedirectTarget()
-
-    if pageRed1.pageid > 0 and pageRed2.pageid > 0:
-        if pageRed1.pageid == pageRed2.pageid:
-            return True
-
-    item1 = get_page_item(pageRed1)
-    item2 = get_page_item(pageRed2)
-
-    if wikidata_aliases(item1, word1, item2, word2):
-        return True
-
-    is1_disambiguate = is_disambiguate(item1)
-    is2_disambiguate = is_disambiguate(item2)
-
-    if is1_disambiguate and not is2_disambiguate:
-        is_in_categories1 = is_disambiguate_categories(pageRed1.text, word2.lower())
-        if is_in_categories1:
-            return True
-    elif not is1_disambiguate and is2_disambiguate:
-        is_in_categories2 = is_disambiguate_categories(pageRed2.text, word1.lower())
-        if is_in_categories2:
-            return True
-
-    return False
-
-
-def get_word_page_by_casing(word):
-    word = word.replace('-', ' ')
-    page = pywikibot.Page(site, word)
-    if page.pageid == 0:
-        word = word.title()
-        page = pywikibot.Page(site, word)
-        if page.pageid == 0:
-            word = word.upper()
-            page = pywikibot.Page(site, word)
-    return page
-
-
-def is_disambiguate_categories(text, word):
-    text_lines = text.split('\n')
-    categories = []
-    for line in text_lines:
-        category = re.findall('\[\[([\w\s\-]+)\]\]', line)
-        for cat in category:
-            categories.append(cat)
-            if cat.lower().replace('-', ' ') == word:
-                return True
-
-    return False
-
-
-def is_disambiguate(item):
-    if item is not None:
-        dic = item.get()
-        if dic is not None and 'descriptions' in dic:
-            desc = dic['descriptions']
-            if desc is not None and 'en' in desc:
-                return True if desc['en'].lower() == 'wikimedia disambiguation page' else False
-
-    return False
-
-
-def get_page_item(page):
-    if page is not None:
-        try:
-            item = pywikibot.ItemPage.fromPage(page) # this can be used for any page object
-            item.get()  # need to call it to access any data.
-            return item
-        except (pywikibot.NoPage, AttributeError, TypeError, NameError):
-            pass
-
-    return None
-
-
-def wikidata_aliases(item1, word1, item2, word2):
-    """
-    Returns whether word1 and word2 aliases of each other
-    :param page1: first wikidata mention page representation
-    :param word1: first mention
-    :param page2: second wikidata mention page representation
-    :param word2: second mention
-    :return: whether word1 and word2 aliases of each other
-    """
-    if item1 is not None and item2 is not None:
-        aliases1 = get_aliases(item1)
-        if is_in_list(word2, aliases1):
-            return True
-        else:
-            aliases2 = get_aliases(item2)
-            if is_in_list(word1, aliases2):
-                return True
-
-    return False
-
-
-def is_in_list(word, aliases):
-    """
-    Check's if word is in aliases list
-    :param word: mention to check
-    :param aliases: other mention aliases list
-    :return: Returns True if word exist in aliases, False otherwise
-    """
-    if aliases is not None:
-        worduni = unicode(word).lower()
-        if worduni in (alias.lower() for alias in aliases):
-            return True
-    return False
-
-
-def get_aliases(item):
-    """
-    Returns page aliases
-    :param page: wikidata mention page representation
-    :return: Returns page aliases
-    """
-    if 'en' in item.aliases:
-        aliases = item.aliases['en']
-        return aliases
-
-    return None
