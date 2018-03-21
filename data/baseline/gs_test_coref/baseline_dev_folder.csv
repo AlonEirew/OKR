@@ -1,3 +1,4 @@
+word1, word2,syn,fuzzy,partial,wikidata,expected
 atlantic county,about 265 miles,False,False,False,False,False
 new jersey,toronto,False,False,False,False,False
 new york,legend,False,False,False,False,False

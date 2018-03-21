@@ -30,8 +30,8 @@ def extract():
                 file_to_ids[file_key].update(cross_doc_ids.keys())
                 create_final_result(cross_doc_ids, m_id_tokens, extracted_tokens, coref_list)
 
-        if len(file_to_ids) >= 1:
-            break
+        # if len(file_to_ids) >= 1:
+        #     break
 
     evaluate_ecb(coref_list, file_to_ids)
 
@@ -60,14 +60,8 @@ def evaluate_ecb(coref_list, file_to_ids):
                 for word in words:
                     doc_entities[key].append((ment_id, word))
 
-    ent_results = eval_sim_words_and_print(doc_entities, 'entities')
-    event_results = eval_sim_words_and_print(doc_events, 'events')
-
-    print 'All Topics Entities Metrics:'
-    print_result(ent_results)
-    print
-    print 'All Topics Events Metrics:'
-    print_result(event_results)
+    eval_sim_words_and_print(doc_entities, 'entities')
+    eval_sim_words_and_print(doc_events, 'events')
 
 
 def eval_sim_words_and_print(doc_mentions, cat):
@@ -93,7 +87,10 @@ def eval_sim_words_and_print(doc_mentions, cat):
                     myfile.write(sim_result.to_string() + '\n')
                     final_results.append(sim_result)
 
-    return final_results
+            print 'All ' + cat + ' in topic ' + key + ' metrics:'
+            print_result(final_results)
+            print
+            del final_results[:]
 
 
 def print_result(results_dict):
@@ -105,21 +102,26 @@ def print_result(results_dict):
     partial_neg = 0
     wiki_pos = 0
     wiki_neg = 0
+    total_expected_positive = 0
     positive = 0
     negative = 0
 
     for res in results_dict:
-        if res.final_result() and res.word1_id == res.word2_id:
-            positive += 1
-            if res.syn_result:
-                syn_pos += 1
-            elif res.fuzzy_result:
-                fuzzy_pos += 1
-            elif res.partial_result:
-                partial_pos += 1
-            elif res.wikidata_result:
-                wiki_pos += 1
-        elif res.final_result() and res.word1_id != res.word2_id:
+        if res.expected:
+            total_expected_positive += 1
+            if res.final_result():
+                positive += 1
+                if res.syn_result:
+                    syn_pos += 1
+                elif res.fuzzy_result:
+                    fuzzy_pos += 1
+                elif res.partial_result:
+                    partial_pos += 1
+                elif res.wikidata_result:
+                    if res.word1.lower() != res.word2.lower():
+                        print 'NA,[' + res.word1 + '],[' + res.word2 + '],Y'
+                    wiki_pos += 1
+        elif res.final_result():
             negative += 1
             if res.syn_result:
                 syn_neg += 1
@@ -128,9 +130,12 @@ def print_result(results_dict):
             elif res.partial_result:
                 partial_neg += 1
             elif res.wikidata_result:
+                if res.word1.lower() != res.word2.lower():
+                    print 'NA,[' + res.word1 + '],[' + res.word2 + '],N'
                 wiki_neg += 1
 
     print('total pairs=' + str(len(results_dict)))
+    print('total expected positive pairs=' + str(total_expected_positive))
     print('true positive values=' + str(positive))
     print('false positive values=' + str(negative))
     print('syn_pos=' + str(syn_pos) + ", fuzzy_pos=" + str(fuzzy_pos) + ', partial_pos=' + str(partial_pos) + ', wiki_pos=' + str(wiki_pos))

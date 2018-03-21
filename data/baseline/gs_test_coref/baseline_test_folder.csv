@@ -1,3 +1,4 @@
+word1, word2,syn,fuzzy,partial,wikidata,expected
 new york,alleged,False,False,False,False,False
 head,area,False,False,False,False,False
 bushes,work,False,False,False,False,False
