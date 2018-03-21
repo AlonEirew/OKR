@@ -1,0 +1,21 @@
+Big Story:
+Before: MUC=0.900, B^3=0.899, CEAF_C=0.811, MELA=0.870
+After: MUC=0.911, B^3=0.906, CEAF_C=0.814, MELA=0.877
+
+Test:
+Before: MUC=0.843, B^3=0.885, CEAF_C=0.808, MELA=0.845
+After: MUC=0.849, B^3=0.888, CEAF_C=0.813, MELA=0.850
+
+Dev:
+Before: MUC=0.827, B^3=0.867, CEAF_C=0.812, MELA=0.835
+After: MUC=0.843, B^3=0.878, CEAF_C=0.823, MELA=0.848
+
+
+True Positive:
+yesterday],[Today],N
+NA,[sentence],[statement],N
+NA,[enter],[exit],N
+NA,[accept],[receive],N
+NA,[accept],[receiving],N
+NA,[accept],[getting],N
+NA,[accept],[getting],N

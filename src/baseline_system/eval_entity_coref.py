@@ -25,7 +25,7 @@ from spacy.lang.en import English
 from num2words import num2words
 from nltk.corpus import wordnet as wn
 from clustering_common import cluster_mentions,cluster_mentions_with_max_cluster
-from result_object import ResultObject
+from data.result_object import ResultObject
 
 # Create an instance of the pywikibot (API to query wikipedia)
 # will run by default offline, in case needed to be run online (meaning HTTP calls to wikipedia) just

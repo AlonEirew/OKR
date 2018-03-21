@@ -1,4 +1,284 @@
 TYPE, GROUP1, GROUP2, EXPECTED_RESULT
+NA,[Greek],[Greece],Y
+NA,[Molotov cocktail],[petrol bombs],Y
+NA,[petrol bombs],[Molotov cocktails],Y
+NA,[protesters],[demonstrators],Y
+NA,[protester],[demonstrators],Y
+NA,[Three],[3],Y
+NA,[United States Geological Survey],[US Geological Survey],Y
+NA,[United States Geological Survey],[USGS],Y
+NA,[US Geological Survey],[United States Geological Survey],Y
+NA,[US Geological Survey],[USGS],Y
+NA,[U.S. Geological Survey],[United States Geological Survey],Y
+NA,[U.S. Geological Survey],[USGS],Y
+NA,[USGS],[United States Geological Survey],Y
+NA,[San Diego Chargers],[CHARGERS],Y
+NA,[CHP],[California Highway Patrol],Y
+NA,[California Highway Patrol],[CHP],Y
+NA,[datacenter],[Data Center],Y
+NA,[firm],[business],Y
+NA,[firm],[company],Y
+NA,[financial quarter],[fiscal quarter],Y
+NA,[life without parole],[life in prison],Y
+NA,[life in prison],[life sentences],Y
+NA,[life sentences],[life without parole],Y
+NA,[New Orleans Saints],[The Saints],Y
+NA,[running back],[RB],Y
+NA,[Turkmenistans],[Turkmen],Y
+NA,[New Orleans Saints],[The Saints],Y
+NA,[New Orleans Saints],[the Saints],Y
+NA,[Academy of Motion Pictures Arts and Sciences],[AMPAS],Y
+NA,[Advanced Micro Devices Inc.],[AMD],Y
+NA,[AMD],[Advanced Micro Devices],Y
+NA,[CEO],[chief executive],Y
+NA,[chief executive],[CEO],Y
+NA,[girl],[daughter],Y
+NA,[kids],[child],Y
+NA,[felon],[criminal],Y
+NA,[suspect],[defendant],Y
+NA,[Orozcos],[Orozco],Y
+NA,[police officer],[officers],Y
+NA,[Internet service providers],[ISPs],Y
+NA,[fiber cables],[fiber optic cable],Y
+NA,[mommy],[mother],Y
+NA,[TV],[television],Y
+NA,[bookmakers],[bookies],Y
+NA,[Boston Red Sox],[RED SOX],Y
+NA,[hitter],[slugger],Y
+NA,[The Angels],[Los Angeles Angels],Y
+NA,[The Hunger Games],[HUNGER GAMES],Y
+NA,[movie],[films],Y
+NA,[Hunger Games],[THE HUNGER GAMES],Y
+NA,[The Hollywood Reporter],[THR],Y
+NA,[Fundamentalist LDS Church],[Fundamentalist Church of Jesus Christ of Latter Day Saints],Y
+NA,[Obama administration],[Obama White House],Y
+NA,[doc],[doctor],Y
+NA,[Kansas City Chiefs],[CHIEFS],Y
+NA,[Indianapolis],[Indy],Y
+NA,[COLTS],[Indianapolis Colts],Y
+NA,[Indy],[Indianapolis],Y
+NA,[Teen],[Teenager],Y
+NA,[Research In Motion],[RIM],Y
+NA,[Rules],[regulations],Y
+NA,[American Medical Association],[AMA],Y
+NA,[inmate],[prisoner],Y
+NA,[weapon],[Gun],Y
+NA,[exploit],[bug],Y
+NA,[security update],[security patch],Y
+NA,[fix],[patch],Y
+NA,[IE],[Internet Explorer],Y
+NA,[Mt Cook],[Mount Cook],Y
+NA,[Mount Cook],[Mt Cook],Y
+NA,[baby],[child],Y
+NA,[Maurice Cheeks],[Mo Cheeks],Y
+NA,[76ers],[Philly Sixers],Y
+NA,[76ers],[Sixers],Y
+NA,[Philadelphia],[Philly],Y
+NA,[cable],[lines],Y
+NA,[cables],[pipeline],Y
+NA,[Navy],[naval forces],Y
+NA,[navy],[naval forces],Y
+NA,[weapons],[arms],Y
+NA,[Richard M. Nixon],[President Nixon],Y
+NA,[the Betty Ford Center],[Betty Ford Clinic],Y
+NA,[LiLo],[Lindsay Lohan],Y
+NA,[the Associated Press],[AP],Y
+NA,[mum],[mother],Y
+NA,[Blazers],[Portland Trailblazers],Y
+NA,[slugger],[hitter],Y
+NA,[UN],[United Nations],Y
+NA,[Israeli military],[Israel Defense Forces],Y
+NA,[Israeli military],[Israeli army],Y
+NA,[prison],[jail],Y
+NA,[Crime Boss],[mob boss],Y
+NA,[head],[boss],Y
+NA,[regulations],[rules],Y
+NA,[government of Sudan],[Sudanese Government],Y
+NA,[UNHCR],[UN refugee agency],Y
+NA,[figure],[physique],Y
+NA,[gems],[jewels],Y
+NA,[fought],[battle],Y
+NA,[death],[die],Y
+NA,[death],[dead],Y
+NA,[death],[died],Y
+NA,[death],[dead],Y
+NA,[inferno],[BLAZE],Y
+NA,[avoid],[avert],Y
+NA,[smashed],[broke],Y
+NA,[triggered],[sparked],Y
+NA,[quake],[earthquake],Y
+NA,[job],[worked],Y
+NA,[Begins],[starts],Y
+NA,[quake],[earthquake],Y
+NA,[DUI],[drunk driving],Y
+NA,[DUI],[driving under the influence],Y
+NA,[transaction],[buying],Y
+NA,[placed],[put],Y
+NA,[found],[discovered],Y
+NA,[passed],[dies],Y
+NA,[passed],[death],Y
+NA,[passed],[died],Y
+NA,[Oscars],[Academy Awards],Y
+NA,[succumbed],[died],Y
+NA,[passed away],[died],Y
+NA,[slay],[struck],Y
+NA,[slay],[Murder],Y
+NA,[struck],[shot],Y
+NA,[gunplay],[shootout],Y
+NA,[leaves],[exiting],Y
+NA,[Negotiation],[talks],Y
+NA,[overcame],[defeat],Y
+NA,[beat],[Victory],Y
+NA,[blaze],[Fire],Y
+NA,[destroyed],[demolished],Y
+NA,[murdering],[double murder],Y
+NA,[Flips],[Overturn],Y
+NA,[captured],[caught],Y
+NA,[fix],[remedy],Y
+NA,[fix],[patch],Y
+NA,[Missouri Valley tournament],[Missouri Valley Conference Tournament],Y
+NA,[Missouri Valley Conference],[MVC],Y
+NA,[decide],[determine],Y
+NA,[her],[She],Y
+NA,[she],[herself],Y
+NA,[she],[She],Y
+NA,[herself],[She],Y
+NA,[People magazine],[People.com],Y
+NA,[prosecutor],[prosecutors],Y
+NA,[their],[they],Y
+NA,[the Betty Ford Center],[Betty Ford Clinic],Y
+NA,[Betty Ford Clinic],[Betty Ford Center],Y
+NA,[lawyer],[Lawyer],Y
+NA,[LiLo],[Lindsay Lohan],Y
+NA,[Lindsay Lohan],[LiLo],Y
+NA,[the Associated Press],[AP],Y
+NA,[AP],[the Associated Press],Y
+NA,[AP],[Associated Press],Y
+NA,[get],[getting],Y
+NA,[disclose],[reveal],Y
+NA,[went],[headed],Y
+NA,[investigate],[investigation],Y
+NA,[reported],[reports],Y
+NA,[reports],[reported],Y
+NA,[reports],[reported],Y
+NA,[received],[receiving],Y
+NA,[chose],[choice],Y
+NA,[entered],[entering],Y
+NA,[pending],[Pending],Y
+NA,[gone],[Leaves],Y
+NA,[gone],[Leaves],Y
+NA,[leaving],[exit],Y
+NA,[superstorm sandy],[hurricane sandy],Y
+NA,[hurricane sandy],[superstorm sandy],Y
+NA,[nyc],[new york],Y
+NA,[new jersey],[nj],Y
+NA,[nj],[new jersey],Y
+NA,[guard],[police],Y
+NA,[northern ireland],[n. ireland],Y
+NA,[cyclist],[cycling],Y
+NA,[jail],[prison],Y
+NA,[united states],[u.s],Y
+NA,[irish],[northern ireland],Y
+NA,[turkish],[turkey],Y
+NA,[syrian],[syria],Y
+NA,[munitions],[ammunition],Y
+NA,[ammunition],[munitions],Y
+NA,[ni],[northern ireland],Y
+NA,[prison],[jail],Y
+NA,[turkey],[turkish],Y
+NA,[northern ireland],[ni],Y
+NA,[roads],[routes],Y
+NA,[ca],[california],Y
+NA,[calif.],[california],Y
+NA,[shooter],[gunman],Y
+NA,[horrible],[terrible],Y
+NA,[one],[1],Y
+NA,[earlier],[former],Y
+NA,[new york federal reserve],[new york fed],Y
+NA,[new york federal reserve bank],[new york fed],Y
+NA,[pm],[prime minister],Y
+NA,[body],[remains],Y
+NA,[federal reserve bank of new york],[new york federal reserve bank],Y
+NA,[new york city],[nyc],Y
+NA,[crimes],[criminal],Y
+NA,[penn state],[penn st],Y
+NA,[new york],[nyc],Y
+NA,[federal reserve bank of new york],[new york federal reserve],Y
+NA,[remains],[body],Y
+NA,[large],[big],Y
+NA,[top],[head],Y
+NA,[officials],[official],Y
+NA,[hardline],[hard-line],Y
+NA,[parties],[party],Y
+NA,[now],[immediately],Y
+NA,[work],[field],Y
+NA,[party],[parties],Y
+NA,[child],[children],Y
+NA,[head],[leading],Y
+NA,[today],[now],Y
+NA,[suspect],[suspected],Y
+NA,[top],[leading],Y
+NA,[apartment],[apartments],Y
+NA,[children],[child],Y
+NA,[nationalist],[ultra-nationalist],Y
+NA,[seven],[7],Y
+NA,[attorneys],[lawyers],Y
+NA,[us],[america],Y
+NA,[four],[4],Y
+NA,[mt],[montana],Y
+NA,[child],[minors],Y
+NA,[new],[youth],Y
+NA,[4],[four],Y
+NA,[eight],[8],Y
+NA,[ct],[connecticut],Y
+NA,[burma],[myanmar],Y
+NA,[wi],[wisconsin],Y
+NA,[minority],[minorities],Y
+NA,[rains],[rainfall],Y
+NA,[barbaric],[cruel],Y
+NA,[three],[3],Y
+NA,[city],[metropolis],Y
+NA,[connecticut],[ct],Y
+NA,[man],[troops],Y
+NA,[us],[u.s.],Y
+NA,[3],[three],Y
+NA,[wisconsin],[wis],Y
+NA,[rainfall],[rains],Y
+NA,[wisconsin],[wi],Y
+NA,[vicious],[deadly],Y
+NA,[christian],[christians],Y
+NA,[myanmar],[burma],Y
+NA,[ten],[10],Y
+NA,[lawyers],[attorneys],Y
+NA,[buddhist],[buddhists],Y
+NA,[wis],[wisconsin],Y
+NA,[strong],[severe],Y
+NA,[bomber],[bombers],Y
+NA,[u.s.],[america],Y
+NA,[wis],[wi],Y
+NA,[shooter],[gunman],Y
+NA,[dozens],[scores],Y
+NA,[bombers],[bomber],Y
+NA,[mass],[people],Y
+NA,[u.s],[united states],Y
+NA,[u.s],[america],Y
+NA,[hrw],[human rights watch],Y
+NA,[himself],[he],Y
+NA,[nigeria],[nema],Y
+NA,[nyc],[ny],Y
+NA,[u.s],[us],Y
+NA,[tn],[tamil nadu],Y
+NA,[ap],[andhra pradesh],Y
+NA,[rakhine state],[arakan state],Y
+NA,[us],[u.s],Y
+NA,[tamil nadu],[tn],Y
+NA,[us],[the united states],Y
+NA,[lake arrowhead],[arrowhead lake],Y
+NA,[the united states],[u.s],Y
+NA,[united states],[us],Y
+NA,[the united states],[us],Y
+NA,[the united states],[u.s.],Y
+NA,[the united states],[america],Y
 ACRONYM,[network video recorder],[NVR],Y
 ACRONYM,[International Accounting Standards Board],[IASB],Y
 ACRONYM,[Virtualized Network Function],[VNF],Y

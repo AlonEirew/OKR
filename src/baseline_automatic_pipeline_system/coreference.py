@@ -237,6 +237,8 @@ def main():
     with open("data/baseline/gs_test_coref/" + file_name + ".csv", "w") as myfile:
         for key in dup_dict:
             myfile.write(dup_dict[key].to_string() + '\n')
+            if dup_dict[key].wikidata_result and not dup_dict[key].expected and dup_dict[key].word1 != dup_dict[key].word2:
+                print 'NA,[' + dup_dict[key].word1 + '],[' + dup_dict[key].word2 + '],N'
 
 
 if __name__ == '__main__':
