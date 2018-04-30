@@ -1,4 +1,4 @@
-from entity_matching.obj.similarity_type import SimilarityType
+from phrases_similarity.obj.similarity_type import SimilarityType
 
 
 class ResultObject:

@@ -1,0 +1,1441 @@
+All entities in topic 8_ecbplus metrics:
+total pairs=7056
+total expected positive pairs=790
+true positive values=204
+false positive values=22
+syn_pos=109, fuzzy_pos=45, partial_pos=50, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=20, wiki_neg=0
+
+All entities in topic 37_ecbplus metrics:
+total pairs=6400
+total expected positive pairs=740
+true positive values=186
+false positive values=44
+syn_pos=40, fuzzy_pos=104, partial_pos=42, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=44, wiki_neg=0
+
+All entities in topic 22_ecbplus metrics:
+NA,[1],[two],N
+NA,[1],[Two],N
+NA,[two],[1],N
+NA,[Two],[1],N
+total pairs=7921
+total expected positive pairs=879
+true positive values=163
+false positive values=46
+syn_pos=60, fuzzy_pos=77, partial_pos=26, wiki_pos=0
+syn_neg=14, fuzzy_neg=14, partial_neg=14, wiki_neg=4
+
+All entities in topic 37_ecb metrics:
+total pairs=1849
+total expected positive pairs=223
+true positive values=83
+false positive values=16
+syn_pos=14, fuzzy_pos=41, partial_pos=28, wiki_pos=0
+syn_neg=0, fuzzy_neg=2, partial_neg=14, wiki_neg=0
+
+All entities in topic 35_ecbplus metrics:
+total pairs=2704
+total expected positive pairs=416
+true positive values=181
+false positive values=0
+syn_pos=39, fuzzy_pos=66, partial_pos=76, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 44_ecbplus metrics:
+NA,[yesterday],[Today],Y
+NA,[yesterday],[today],Y
+NA,[Today],[yesterday],Y
+NA,[today],[yesterday],Y
+total pairs=4624
+total expected positive pairs=1068
+true positive values=202
+false positive values=10
+syn_pos=50, fuzzy_pos=96, partial_pos=52, wiki_pos=4
+syn_neg=0, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All entities in topic 3_ecb metrics:
+total pairs=324
+total expected positive pairs=46
+true positive values=22
+false positive values=4
+syn_pos=9, fuzzy_pos=11, partial_pos=2, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 25_ecbplus metrics:
+total pairs=1764
+total expected positive pairs=372
+true positive values=92
+false positive values=14
+syn_pos=24, fuzzy_pos=36, partial_pos=32, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All entities in topic 11_ecbplus metrics:
+total pairs=900
+total expected positive pairs=128
+true positive values=62
+false positive values=22
+syn_pos=31, fuzzy_pos=23, partial_pos=8, wiki_pos=0
+syn_neg=20, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All entities in topic 25_ecb metrics:
+total pairs=729
+total expected positive pairs=217
+true positive values=67
+false positive values=0
+syn_pos=14, fuzzy_pos=23, partial_pos=30, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 1_ecb metrics:
+total pairs=3481
+total expected positive pairs=593
+true positive values=129
+false positive values=10
+syn_pos=23, fuzzy_pos=54, partial_pos=52, wiki_pos=0
+syn_neg=6, fuzzy_neg=2, partial_neg=2, wiki_neg=0
+
+All entities in topic 28_ecbplus metrics:
+total pairs=2704
+total expected positive pairs=478
+true positive values=96
+false positive values=16
+syn_pos=25, fuzzy_pos=41, partial_pos=30, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=12, wiki_neg=0
+
+All entities in topic 2_ecbplus metrics:
+total pairs=15129
+total expected positive pairs=809
+true positive values=259
+false positive values=122
+syn_pos=69, fuzzy_pos=132, partial_pos=58, wiki_pos=0
+syn_neg=18, fuzzy_neg=32, partial_neg=72, wiki_neg=0
+
+All entities in topic 4_ecb metrics:
+total pairs=1225
+total expected positive pairs=153
+true positive values=69
+false positive values=0
+syn_pos=15, fuzzy_pos=30, partial_pos=24, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 43_ecbplus metrics:
+total pairs=10201
+total expected positive pairs=1351
+true positive values=279
+false positive values=48
+syn_pos=97, fuzzy_pos=134, partial_pos=48, wiki_pos=0
+syn_neg=12, fuzzy_neg=0, partial_neg=36, wiki_neg=0
+
+All entities in topic 33_ecbplus metrics:
+total pairs=10404
+total expected positive pairs=980
+true positive values=212
+false positive values=61
+syn_pos=82, fuzzy_pos=76, partial_pos=54, wiki_pos=0
+syn_neg=16, fuzzy_neg=13, partial_neg=32, wiki_neg=0
+
+All entities in topic 21_ecb metrics:
+total pairs=784
+total expected positive pairs=168
+true positive values=40
+false positive values=0
+syn_pos=15, fuzzy_pos=21, partial_pos=4, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 13_ecb metrics:
+total pairs=961
+total expected positive pairs=193
+true positive values=95
+false positive values=8
+syn_pos=24, fuzzy_pos=31, partial_pos=40, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=8, wiki_neg=0
+
+All entities in topic 16_ecbplus metrics:
+NA,[gunman],[criminal],Y
+NA,[criminal],[gunman],Y
+NA,[criminal],[Gunman],Y
+NA,[Gunman],[criminal],Y
+NA,[police officer],[officers],Y
+NA,[officers],[police officer],Y
+total pairs=8836
+total expected positive pairs=1130
+true positive values=228
+false positive values=26
+syn_pos=95, fuzzy_pos=79, partial_pos=48, wiki_pos=6
+syn_neg=0, fuzzy_neg=2, partial_neg=24, wiki_neg=0
+
+All entities in topic 43_ecb metrics:
+total pairs=2025
+total expected positive pairs=587
+true positive values=93
+false positive values=18
+syn_pos=31, fuzzy_pos=46, partial_pos=16, wiki_pos=0
+syn_neg=16, fuzzy_neg=2, partial_neg=0, wiki_neg=0
+
+All entities in topic 30_ecbplus metrics:
+total pairs=7225
+total expected positive pairs=569
+true positive values=193
+false positive values=28
+syn_pos=50, fuzzy_pos=89, partial_pos=54, wiki_pos=0
+syn_neg=0, fuzzy_neg=4, partial_neg=24, wiki_neg=0
+
+All entities in topic 33_ecb metrics:
+total pairs=1764
+total expected positive pairs=322
+true positive values=68
+false positive values=6
+syn_pos=23, fuzzy_pos=27, partial_pos=18, wiki_pos=0
+syn_neg=2, fuzzy_neg=2, partial_neg=2, wiki_neg=0
+
+All entities in topic 27_ecbplus metrics:
+total pairs=6889
+total expected positive pairs=971
+true positive values=183
+false positive values=38
+syn_pos=57, fuzzy_pos=64, partial_pos=62, wiki_pos=0
+syn_neg=8, fuzzy_neg=8, partial_neg=22, wiki_neg=0
+
+All entities in topic 10_ecbplus metrics:
+total pairs=3600
+total expected positive pairs=358
+true positive values=124
+false positive values=16
+syn_pos=31, fuzzy_pos=67, partial_pos=26, wiki_pos=0
+syn_neg=2, fuzzy_neg=6, partial_neg=8, wiki_neg=0
+
+All entities in topic 6_ecbplus metrics:
+total pairs=4096
+total expected positive pairs=562
+true positive values=146
+false positive values=50
+syn_pos=62, fuzzy_pos=70, partial_pos=14, wiki_pos=0
+syn_neg=12, fuzzy_neg=32, partial_neg=6, wiki_neg=0
+
+All entities in topic 38_ecb metrics:
+total pairs=1156
+total expected positive pairs=186
+true positive values=60
+false positive values=10
+syn_pos=1, fuzzy_pos=41, partial_pos=18, wiki_pos=0
+syn_neg=0, fuzzy_neg=8, partial_neg=2, wiki_neg=0
+
+All entities in topic 36_ecbplus metrics:
+total pairs=6724
+total expected positive pairs=916
+true positive values=196
+false positive values=20
+syn_pos=62, fuzzy_pos=64, partial_pos=70, wiki_pos=0
+syn_neg=8, fuzzy_neg=0, partial_neg=12, wiki_neg=0
+
+All entities in topic 39_ecbplus metrics:
+total pairs=10609
+total expected positive pairs=1459
+true positive values=263
+false positive values=118
+syn_pos=66, fuzzy_pos=115, partial_pos=82, wiki_pos=0
+syn_neg=10, fuzzy_neg=16, partial_neg=92, wiki_neg=0
+
+All entities in topic 36_ecb metrics:
+total pairs=2601
+total expected positive pairs=329
+true positive values=93
+false positive values=10
+syn_pos=25, fuzzy_pos=42, partial_pos=26, wiki_pos=0
+syn_neg=8, fuzzy_neg=2, partial_neg=0, wiki_neg=0
+
+All entities in topic 20_ecb metrics:
+total pairs=676
+total expected positive pairs=302
+true positive values=68
+false positive values=0
+syn_pos=3, fuzzy_pos=29, partial_pos=36, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 7_ecbplus metrics:
+total pairs=2401
+total expected positive pairs=425
+true positive values=94
+false positive values=12
+syn_pos=35, fuzzy_pos=49, partial_pos=10, wiki_pos=0
+syn_neg=12, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 7_ecb metrics:
+total pairs=1156
+total expected positive pairs=264
+true positive values=67
+false positive values=4
+syn_pos=16, fuzzy_pos=39, partial_pos=12, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 34_ecb metrics:
+total pairs=3721
+total expected positive pairs=815
+true positive values=149
+false positive values=12
+syn_pos=40, fuzzy_pos=73, partial_pos=36, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All entities in topic 38_ecbplus metrics:
+total pairs=2704
+total expected positive pairs=342
+true positive values=102
+false positive values=4
+syn_pos=3, fuzzy_pos=67, partial_pos=32, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 29_ecbplus metrics:
+total pairs=3721
+total expected positive pairs=515
+true positive values=135
+false positive values=8
+syn_pos=54, fuzzy_pos=49, partial_pos=32, wiki_pos=0
+syn_neg=0, fuzzy_neg=4, partial_neg=4, wiki_neg=0
+
+All entities in topic 19_ecbplus metrics:
+total pairs=6400
+total expected positive pairs=650
+true positive values=192
+false positive values=14
+syn_pos=88, fuzzy_pos=54, partial_pos=50, wiki_pos=0
+syn_neg=4, fuzzy_neg=2, partial_neg=8, wiki_neg=0
+
+All entities in topic 42_ecb metrics:
+total pairs=2304
+total expected positive pairs=426
+true positive values=98
+false positive values=8
+syn_pos=19, fuzzy_pos=53, partial_pos=26, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=8, wiki_neg=0
+
+All entities in topic 40_ecbplus metrics:
+total pairs=2304
+total expected positive pairs=288
+true positive values=102
+false positive values=44
+syn_pos=20, fuzzy_pos=60, partial_pos=22, wiki_pos=0
+syn_neg=8, fuzzy_neg=16, partial_neg=20, wiki_neg=0
+
+All entities in topic 29_ecb metrics:
+total pairs=1089
+total expected positive pairs=281
+true positive values=63
+false positive values=8
+syn_pos=18, fuzzy_pos=27, partial_pos=18, wiki_pos=0
+syn_neg=2, fuzzy_neg=2, partial_neg=4, wiki_neg=0
+
+All entities in topic 19_ecb metrics:
+total pairs=1089
+total expected positive pairs=155
+true positive values=57
+false positive values=4
+syn_pos=23, fuzzy_pos=20, partial_pos=14, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 13_ecbplus metrics:
+total pairs=3721
+total expected positive pairs=461
+true positive values=157
+false positive values=14
+syn_pos=20, fuzzy_pos=81, partial_pos=56, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=14, wiki_neg=0
+
+All entities in topic 32_ecb metrics:
+total pairs=961
+total expected positive pairs=155
+true positive values=41
+false positive values=2
+syn_pos=9, fuzzy_pos=26, partial_pos=6, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All entities in topic 24_ecbplus metrics:
+NA,[car],[France],N
+NA,[France],[car],N
+NA,[France],[car],N
+NA,[car],[France],N
+total pairs=4761
+total expected positive pairs=731
+true positive values=159
+false positive values=60
+syn_pos=49, fuzzy_pos=58, partial_pos=52, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=52, wiki_neg=4
+
+All entities in topic 34_ecbplus metrics:
+total pairs=9216
+total expected positive pairs=1627
+true positive values=260
+false positive values=24
+syn_pos=65, fuzzy_pos=117, partial_pos=78, wiki_pos=0
+syn_neg=6, fuzzy_neg=0, partial_neg=18, wiki_neg=0
+
+All entities in topic 3_ecbplus metrics:
+NA,[inmate],[Prison],N
+NA,[inmate],[prison],N
+NA,[man],[male],Y
+NA,[male],[man],Y
+NA,[male],[man],Y
+NA,[inmate],[Prison],N
+NA,[inmate],[prison],N
+NA,[man],[male],Y
+NA,[prisoner],[Prison],N
+NA,[Inmate],[Prison],N
+NA,[Inmate],[prison],N
+NA,[Prison],[inmate],N
+NA,[Prison],[inmate],N
+NA,[Prison],[prisoner],N
+NA,[Prison],[Inmate],N
+NA,[prison],[inmate],N
+NA,[prison],[inmate],N
+NA,[prison],[Inmate],N
+total pairs=13924
+total expected positive pairs=1079
+true positive values=226
+false positive values=96
+syn_pos=104, fuzzy_pos=88, partial_pos=30, wiki_pos=4
+syn_neg=30, fuzzy_neg=2, partial_neg=50, wiki_neg=14
+
+All entities in topic 45_ecb metrics:
+total pairs=1681
+total expected positive pairs=183
+true positive values=55
+false positive values=8
+syn_pos=25, fuzzy_pos=22, partial_pos=8, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=6, wiki_neg=0
+
+All entities in topic 16_ecb metrics:
+total pairs=81
+total expected positive pairs=19
+true positive values=9
+false positive values=0
+syn_pos=3, fuzzy_pos=6, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 12_ecb metrics:
+total pairs=1521
+total expected positive pairs=313
+true positive values=89
+false positive values=6
+syn_pos=31, fuzzy_pos=32, partial_pos=26, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All entities in topic 14_ecbplus metrics:
+total pairs=2209
+total expected positive pairs=441
+true positive values=102
+false positive values=106
+syn_pos=14, fuzzy_pos=54, partial_pos=34, wiki_pos=0
+syn_neg=0, fuzzy_neg=12, partial_neg=94, wiki_neg=0
+
+All entities in topic 22_ecb metrics:
+total pairs=625
+total expected positive pairs=107
+true positive values=37
+false positive values=2
+syn_pos=7, fuzzy_pos=24, partial_pos=6, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 26_ecb metrics:
+NA,[yesterday],[today],N
+NA,[today],[yesterday],N
+total pairs=2500
+total expected positive pairs=594
+true positive values=102
+false positive values=14
+syn_pos=21, fuzzy_pos=47, partial_pos=34, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=12, wiki_neg=2
+
+All entities in topic 23_ecbplus metrics:
+total pairs=7569
+total expected positive pairs=953
+true positive values=207
+false positive values=56
+syn_pos=35, fuzzy_pos=96, partial_pos=76, wiki_pos=0
+syn_neg=14, fuzzy_neg=2, partial_neg=40, wiki_neg=0
+
+All entities in topic 45_ecbplus metrics:
+NA,[Man],[fetus],N
+NA,[man],[fetus],N
+NA,[fetus],[Man],N
+NA,[fetus],[man],N
+total pairs=3481
+total expected positive pairs=442
+true positive values=137
+false positive values=8
+syn_pos=49, fuzzy_pos=46, partial_pos=42, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=4
+
+All entities in topic 11_ecb metrics:
+total pairs=900
+total expected positive pairs=106
+true positive values=52
+false positive values=38
+syn_pos=38, fuzzy_pos=12, partial_pos=2, wiki_pos=0
+syn_neg=32, fuzzy_neg=0, partial_neg=6, wiki_neg=0
+
+All entities in topic 5_ecb metrics:
+total pairs=1089
+total expected positive pairs=383
+true positive values=73
+false positive values=0
+syn_pos=20, fuzzy_pos=25, partial_pos=28, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 30_ecb metrics:
+total pairs=1681
+total expected positive pairs=273
+true positive values=101
+false positive values=4
+syn_pos=29, fuzzy_pos=48, partial_pos=24, wiki_pos=0
+syn_neg=0, fuzzy_neg=2, partial_neg=2, wiki_neg=0
+
+All entities in topic 8_ecb metrics:
+total pairs=529
+total expected positive pairs=97
+true positive values=41
+false positive values=4
+syn_pos=10, fuzzy_pos=25, partial_pos=6, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 12_ecbplus metrics:
+total pairs=3025
+total expected positive pairs=319
+true positive values=111
+false positive values=10
+syn_pos=35, fuzzy_pos=44, partial_pos=32, wiki_pos=0
+syn_neg=6, fuzzy_neg=2, partial_neg=2, wiki_neg=0
+
+All entities in topic 40_ecb metrics:
+total pairs=1225
+total expected positive pairs=189
+true positive values=63
+false positive values=6
+syn_pos=24, fuzzy_pos=25, partial_pos=14, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All entities in topic 28_ecb metrics:
+total pairs=1681
+total expected positive pairs=365
+true positive values=87
+false positive values=12
+syn_pos=17, fuzzy_pos=44, partial_pos=26, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=12, wiki_neg=0
+
+All entities in topic 1_ecbplus metrics:
+NA,[car],[truck],N
+NA,[yesterday],[today],N
+NA,[truck],[car],N
+NA,[today],[yesterday],N
+total pairs=66049
+total expected positive pairs=3507
+true positive values=741
+false positive values=216
+syn_pos=148, fuzzy_pos=305, partial_pos=288, wiki_pos=0
+syn_neg=50, fuzzy_neg=8, partial_neg=154, wiki_neg=4
+
+All entities in topic 2_ecb metrics:
+total pairs=1156
+total expected positive pairs=186
+true positive values=62
+false positive values=8
+syn_pos=19, fuzzy_pos=29, partial_pos=14, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 31_ecbplus metrics:
+total pairs=2209
+total expected positive pairs=289
+true positive values=91
+false positive values=4
+syn_pos=28, fuzzy_pos=35, partial_pos=28, wiki_pos=0
+syn_neg=0, fuzzy_neg=2, partial_neg=2, wiki_neg=0
+
+All entities in topic 32_ecbplus metrics:
+total pairs=5625
+total expected positive pairs=607
+true positive values=139
+false positive values=38
+syn_pos=54, fuzzy_pos=57, partial_pos=28, wiki_pos=0
+syn_neg=0, fuzzy_neg=2, partial_neg=36, wiki_neg=0
+
+All entities in topic 20_ecbplus metrics:
+total pairs=7056
+total expected positive pairs=666
+true positive values=194
+false positive values=44
+syn_pos=30, fuzzy_pos=88, partial_pos=76, wiki_pos=0
+syn_neg=0, fuzzy_neg=6, partial_neg=38, wiki_neg=0
+
+All entities in topic 5_ecbplus metrics:
+NA,[yesterday],[today],Y
+NA,[today],[yesterday],Y
+total pairs=3249
+total expected positive pairs=613
+true positive values=137
+false positive values=4
+syn_pos=48, fuzzy_pos=45, partial_pos=42, wiki_pos=2
+syn_neg=4, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 18_ecb metrics:
+total pairs=1521
+total expected positive pairs=271
+true positive values=73
+false positive values=22
+syn_pos=26, fuzzy_pos=21, partial_pos=26, wiki_pos=0
+syn_neg=2, fuzzy_neg=6, partial_neg=14, wiki_neg=0
+
+All entities in topic 10_ecb metrics:
+total pairs=441
+total expected positive pairs=125
+true positive values=37
+false positive values=0
+syn_pos=13, fuzzy_pos=16, partial_pos=8, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 41_ecb metrics:
+total pairs=3969
+total expected positive pairs=621
+true positive values=133
+false positive values=32
+syn_pos=27, fuzzy_pos=52, partial_pos=54, wiki_pos=0
+syn_neg=2, fuzzy_neg=2, partial_neg=28, wiki_neg=0
+
+All entities in topic 6_ecb metrics:
+total pairs=121
+total expected positive pairs=31
+true positive values=23
+false positive values=0
+syn_pos=18, fuzzy_pos=5, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 35_ecb metrics:
+total pairs=625
+total expected positive pairs=143
+true positive values=49
+false positive values=0
+syn_pos=22, fuzzy_pos=13, partial_pos=14, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 44_ecb metrics:
+total pairs=841
+total expected positive pairs=397
+true positive values=63
+false positive values=8
+syn_pos=18, fuzzy_pos=39, partial_pos=6, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 14_ecb metrics:
+total pairs=324
+total expected positive pairs=78
+true positive values=36
+false positive values=4
+syn_pos=5, fuzzy_pos=23, partial_pos=8, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 26_ecbplus metrics:
+NA,[yesterday],[today],Y
+NA,[today],[yesterday],Y
+NA,[prison],[jail],Y
+NA,[jail],[prison],Y
+total pairs=3481
+total expected positive pairs=857
+true positive values=151
+false positive values=0
+syn_pos=25, fuzzy_pos=74, partial_pos=48, wiki_pos=4
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 9_ecb metrics:
+total pairs=3600
+total expected positive pairs=420
+true positive values=130
+false positive values=34
+syn_pos=83, fuzzy_pos=31, partial_pos=16, wiki_pos=0
+syn_neg=24, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All entities in topic 41_ecbplus metrics:
+total pairs=10201
+total expected positive pairs=963
+true positive values=229
+false positive values=148
+syn_pos=38, fuzzy_pos=113, partial_pos=78, wiki_pos=0
+syn_neg=4, fuzzy_neg=4, partial_neg=140, wiki_neg=0
+
+All entities in topic 42_ecbplus metrics:
+total pairs=2500
+total expected positive pairs=396
+true positive values=118
+false positive values=44
+syn_pos=19, fuzzy_pos=61, partial_pos=38, wiki_pos=0
+syn_neg=4, fuzzy_neg=14, partial_neg=26, wiki_neg=0
+
+All entities in topic 23_ecb metrics:
+total pairs=1764
+total expected positive pairs=546
+true positive values=100
+false positive values=6
+syn_pos=8, fuzzy_pos=48, partial_pos=44, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=6, wiki_neg=0
+
+All entities in topic 27_ecb metrics:
+NA,[today],[yesterday],Y
+NA,[yesterday],[today],Y
+total pairs=4096
+total expected positive pairs=572
+true positive values=118
+false positive values=4
+syn_pos=65, fuzzy_pos=37, partial_pos=14, wiki_pos=2
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All entities in topic 31_ecb metrics:
+total pairs=841
+total expected positive pairs=179
+true positive values=51
+false positive values=0
+syn_pos=16, fuzzy_pos=21, partial_pos=14, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All entities in topic 21_ecbplus metrics:
+total pairs=7225
+total expected positive pairs=971
+true positive values=195
+false positive values=16
+syn_pos=55, fuzzy_pos=64, partial_pos=76, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=16, wiki_neg=0
+
+All entities in topic 39_ecb metrics:
+total pairs=5041
+total expected positive pairs=925
+true positive values=217
+false positive values=46
+syn_pos=55, fuzzy_pos=78, partial_pos=84, wiki_pos=0
+syn_neg=12, fuzzy_neg=2, partial_neg=32, wiki_neg=0
+
+All entities in topic 18_ecbplus metrics:
+total pairs=9216
+total expected positive pairs=1166
+true positive values=206
+false positive values=25
+syn_pos=79, fuzzy_pos=67, partial_pos=60, wiki_pos=0
+syn_neg=13, fuzzy_neg=2, partial_neg=10, wiki_neg=0
+
+All entities in topic 9_ecbplus metrics:
+NA,[yesterday],[Today],N
+NA,[yesterday],[today],N
+NA,[Today],[yesterday],N
+NA,[today],[yesterday],N
+total pairs=6084
+total expected positive pairs=480
+true positive values=156
+false positive values=100
+syn_pos=92, fuzzy_pos=42, partial_pos=22, wiki_pos=0
+syn_neg=72, fuzzy_neg=0, partial_neg=24, wiki_neg=4
+
+All entities in topic 4_ecbplus metrics:
+total pairs=4624
+total expected positive pairs=888
+true positive values=138
+false positive values=24
+syn_pos=62, fuzzy_pos=50, partial_pos=26, wiki_pos=0
+syn_neg=22, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All entities in topic 24_ecb metrics:
+total pairs=1849
+total expected positive pairs=331
+true positive values=77
+false positive values=28
+syn_pos=31, fuzzy_pos=24, partial_pos=22, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=28, wiki_neg=0
+
+All events in topic 8_ecbplus metrics:
+total pairs=8836
+total expected positive pairs=870
+true positive values=212
+false positive values=254
+syn_pos=192, fuzzy_pos=8, partial_pos=12, wiki_pos=0
+syn_neg=202, fuzzy_neg=0, partial_neg=52, wiki_neg=0
+
+All events in topic 37_ecbplus metrics:
+total pairs=5476
+total expected positive pairs=570
+true positive values=242
+false positive values=37
+syn_pos=151, fuzzy_pos=55, partial_pos=36, wiki_pos=0
+syn_neg=26, fuzzy_neg=1, partial_neg=10, wiki_neg=0
+
+All events in topic 22_ecbplus metrics:
+total pairs=2916
+total expected positive pairs=252
+true positive values=144
+false positive values=172
+syn_pos=133, fuzzy_pos=9, partial_pos=2, wiki_pos=0
+syn_neg=172, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 37_ecb metrics:
+total pairs=1024
+total expected positive pairs=106
+true positive values=68
+false positive values=32
+syn_pos=57, fuzzy_pos=5, partial_pos=6, wiki_pos=0
+syn_neg=32, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 35_ecbplus metrics:
+total pairs=1089
+total expected positive pairs=121
+true positive values=77
+false positive values=48
+syn_pos=52, fuzzy_pos=19, partial_pos=6, wiki_pos=0
+syn_neg=34, fuzzy_neg=0, partial_neg=14, wiki_neg=0
+
+All events in topic 44_ecbplus metrics:
+total pairs=3969
+total expected positive pairs=463
+true positive values=131
+false positive values=54
+syn_pos=99, fuzzy_pos=22, partial_pos=10, wiki_pos=0
+syn_neg=50, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 3_ecb metrics:
+total pairs=49
+total expected positive pairs=15
+true positive values=9
+false positive values=2
+syn_pos=9, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 25_ecbplus metrics:
+total pairs=841
+total expected positive pairs=185
+true positive values=105
+false positive values=20
+syn_pos=87, fuzzy_pos=18, partial_pos=0, wiki_pos=0
+syn_neg=16, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 11_ecbplus metrics:
+total pairs=144
+total expected positive pairs=26
+true positive values=18
+false positive values=8
+syn_pos=18, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=8, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 25_ecb metrics:
+total pairs=324
+total expected positive pairs=62
+true positive values=34
+false positive values=6
+syn_pos=26, fuzzy_pos=6, partial_pos=2, wiki_pos=0
+syn_neg=6, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 1_ecb metrics:
+total pairs=3136
+total expected positive pairs=450
+true positive values=160
+false positive values=178
+syn_pos=63, fuzzy_pos=21, partial_pos=76, wiki_pos=0
+syn_neg=60, fuzzy_neg=0, partial_neg=118, wiki_neg=0
+
+All events in topic 28_ecbplus metrics:
+total pairs=1521
+total expected positive pairs=95
+true positive values=65
+false positive values=52
+syn_pos=54, fuzzy_pos=9, partial_pos=2, wiki_pos=0
+syn_neg=46, fuzzy_neg=0, partial_neg=6, wiki_neg=0
+
+All events in topic 2_ecbplus metrics:
+NA,[job],[work],N
+NA,[work],[job],N
+total pairs=17424
+total expected positive pairs=1152
+true positive values=394
+false positive values=416
+syn_pos=382, fuzzy_pos=10, partial_pos=2, wiki_pos=0
+syn_neg=404, fuzzy_neg=10, partial_neg=0, wiki_neg=2
+
+All events in topic 4_ecb metrics:
+total pairs=169
+total expected positive pairs=23
+true positive values=17
+false positive values=2
+syn_pos=12, fuzzy_pos=3, partial_pos=2, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 43_ecbplus metrics:
+total pairs=3600
+total expected positive pairs=492
+true positive values=152
+false positive values=58
+syn_pos=135, fuzzy_pos=11, partial_pos=6, wiki_pos=0
+syn_neg=52, fuzzy_neg=0, partial_neg=6, wiki_neg=0
+
+All events in topic 33_ecbplus metrics:
+total pairs=7396
+total expected positive pairs=672
+true positive values=252
+false positive values=352
+syn_pos=223, fuzzy_pos=13, partial_pos=16, wiki_pos=0
+syn_neg=326, fuzzy_neg=2, partial_neg=24, wiki_neg=0
+
+All events in topic 21_ecb metrics:
+total pairs=225
+total expected positive pairs=37
+true positive values=23
+false positive values=14
+syn_pos=21, fuzzy_pos=2, partial_pos=0, wiki_pos=0
+syn_neg=10, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 13_ecb metrics:
+total pairs=784
+total expected positive pairs=134
+true positive values=66
+false positive values=10
+syn_pos=59, fuzzy_pos=3, partial_pos=4, wiki_pos=0
+syn_neg=10, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 16_ecbplus metrics:
+total pairs=2916
+total expected positive pairs=340
+true positive values=130
+false positive values=164
+syn_pos=124, fuzzy_pos=4, partial_pos=2, wiki_pos=0
+syn_neg=162, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All events in topic 43_ecb metrics:
+total pairs=625
+total expected positive pairs=153
+true positive values=45
+false positive values=8
+syn_pos=38, fuzzy_pos=3, partial_pos=4, wiki_pos=0
+syn_neg=8, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 30_ecbplus metrics:
+total pairs=4225
+total expected positive pairs=415
+true positive values=159
+false positive values=136
+syn_pos=141, fuzzy_pos=10, partial_pos=8, wiki_pos=0
+syn_neg=114, fuzzy_neg=0, partial_neg=22, wiki_neg=0
+
+All events in topic 33_ecb metrics:
+total pairs=676
+total expected positive pairs=154
+true positive values=100
+false positive values=114
+syn_pos=95, fuzzy_pos=3, partial_pos=2, wiki_pos=0
+syn_neg=114, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 27_ecbplus metrics:
+total pairs=2304
+total expected positive pairs=306
+true positive values=152
+false positive values=70
+syn_pos=130, fuzzy_pos=8, partial_pos=14, wiki_pos=0
+syn_neg=44, fuzzy_neg=0, partial_neg=26, wiki_neg=0
+
+All events in topic 10_ecbplus metrics:
+total pairs=576
+total expected positive pairs=116
+true positive values=74
+false positive values=74
+syn_pos=74, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=74, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 6_ecbplus metrics:
+total pairs=1156
+total expected positive pairs=146
+true positive values=90
+false positive values=30
+syn_pos=83, fuzzy_pos=5, partial_pos=2, wiki_pos=0
+syn_neg=30, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 38_ecb metrics:
+total pairs=169
+total expected positive pairs=51
+true positive values=29
+false positive values=2
+syn_pos=25, fuzzy_pos=4, partial_pos=0, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 36_ecbplus metrics:
+total pairs=3844
+total expected positive pairs=234
+true positive values=148
+false positive values=136
+syn_pos=110, fuzzy_pos=26, partial_pos=12, wiki_pos=0
+syn_neg=128, fuzzy_neg=8, partial_neg=0, wiki_neg=0
+
+All events in topic 39_ecbplus metrics:
+total pairs=1600
+total expected positive pairs=184
+true positive values=72
+false positive values=74
+syn_pos=63, fuzzy_pos=9, partial_pos=0, wiki_pos=0
+syn_neg=52, fuzzy_neg=0, partial_neg=22, wiki_neg=0
+
+All events in topic 36_ecb metrics:
+total pairs=225
+total expected positive pairs=51
+true positive values=45
+false positive values=0
+syn_pos=45, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 20_ecb metrics:
+total pairs=169
+total expected positive pairs=37
+true positive values=25
+false positive values=4
+syn_pos=24, fuzzy_pos=1, partial_pos=0, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 7_ecbplus metrics:
+total pairs=4900
+total expected positive pairs=280
+true positive values=188
+false positive values=280
+syn_pos=166, fuzzy_pos=8, partial_pos=14, wiki_pos=0
+syn_neg=250, fuzzy_neg=0, partial_neg=30, wiki_neg=0
+
+All events in topic 7_ecb metrics:
+total pairs=289
+total expected positive pairs=75
+true positive values=35
+false positive values=10
+syn_pos=34, fuzzy_pos=1, partial_pos=0, wiki_pos=0
+syn_neg=10, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 34_ecb metrics:
+total pairs=625
+total expected positive pairs=183
+true positive values=39
+false positive values=14
+syn_pos=38, fuzzy_pos=1, partial_pos=0, wiki_pos=0
+syn_neg=14, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 38_ecbplus metrics:
+total pairs=1521
+total expected positive pairs=477
+true positive values=91
+false positive values=2
+syn_pos=34, fuzzy_pos=33, partial_pos=24, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 29_ecbplus metrics:
+total pairs=3481
+total expected positive pairs=483
+true positive values=155
+false positive values=118
+syn_pos=136, fuzzy_pos=11, partial_pos=8, wiki_pos=0
+syn_neg=116, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All events in topic 19_ecbplus metrics:
+total pairs=6084
+total expected positive pairs=436
+true positive values=208
+false positive values=128
+syn_pos=197, fuzzy_pos=5, partial_pos=6, wiki_pos=0
+syn_neg=116, fuzzy_neg=0, partial_neg=12, wiki_neg=0
+
+All events in topic 42_ecb metrics:
+total pairs=484
+total expected positive pairs=170
+true positive values=36
+false positive values=4
+syn_pos=33, fuzzy_pos=3, partial_pos=0, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 40_ecbplus metrics:
+total pairs=900
+total expected positive pairs=168
+true positive values=54
+false positive values=10
+syn_pos=43, fuzzy_pos=7, partial_pos=4, wiki_pos=0
+syn_neg=8, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All events in topic 29_ecb metrics:
+total pairs=676
+total expected positive pairs=206
+true positive values=56
+false positive values=18
+syn_pos=47, fuzzy_pos=7, partial_pos=2, wiki_pos=0
+syn_neg=18, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 19_ecb metrics:
+total pairs=729
+total expected positive pairs=119
+true positive values=45
+false positive values=12
+syn_pos=41, fuzzy_pos=4, partial_pos=0, wiki_pos=0
+syn_neg=8, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 13_ecbplus metrics:
+total pairs=1225
+total expected positive pairs=141
+true positive values=87
+false positive values=50
+syn_pos=72, fuzzy_pos=9, partial_pos=6, wiki_pos=0
+syn_neg=40, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All events in topic 32_ecb metrics:
+total pairs=400
+total expected positive pairs=98
+true positive values=26
+false positive values=2
+syn_pos=18, fuzzy_pos=8, partial_pos=0, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 24_ecbplus metrics:
+total pairs=1296
+total expected positive pairs=170
+true positive values=80
+false positive values=54
+syn_pos=73, fuzzy_pos=7, partial_pos=0, wiki_pos=0
+syn_neg=44, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All events in topic 34_ecbplus metrics:
+total pairs=1521
+total expected positive pairs=365
+true positive values=117
+false positive values=90
+syn_pos=110, fuzzy_pos=3, partial_pos=4, wiki_pos=0
+syn_neg=90, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 3_ecbplus metrics:
+total pairs=7056
+total expected positive pairs=500
+true positive values=236
+false positive values=436
+syn_pos=215, fuzzy_pos=11, partial_pos=10, wiki_pos=0
+syn_neg=310, fuzzy_neg=0, partial_neg=126, wiki_neg=0
+
+All events in topic 45_ecb metrics:
+total pairs=900
+total expected positive pairs=110
+true positive values=48
+false positive values=52
+syn_pos=39, fuzzy_pos=9, partial_pos=0, wiki_pos=0
+syn_neg=28, fuzzy_neg=0, partial_neg=24, wiki_neg=0
+
+All events in topic 16_ecb metrics:
+total pairs=49
+total expected positive pairs=17
+true positive values=11
+false positive values=0
+syn_pos=9, fuzzy_pos=2, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 12_ecb metrics:
+total pairs=1156
+total expected positive pairs=148
+true positive values=70
+false positive values=36
+syn_pos=68, fuzzy_pos=2, partial_pos=0, wiki_pos=0
+syn_neg=36, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 14_ecbplus metrics:
+total pairs=256
+total expected positive pairs=50
+true positive values=26
+false positive values=6
+syn_pos=22, fuzzy_pos=2, partial_pos=2, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All events in topic 22_ecb metrics:
+total pairs=121
+total expected positive pairs=37
+true positive values=25
+false positive values=8
+syn_pos=25, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=8, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 26_ecb metrics:
+total pairs=676
+total expected positive pairs=150
+true positive values=52
+false positive values=0
+syn_pos=50, fuzzy_pos=2, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 23_ecbplus metrics:
+total pairs=1156
+total expected positive pairs=336
+true positive values=252
+false positive values=236
+syn_pos=252, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=236, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 45_ecbplus metrics:
+total pairs=2916
+total expected positive pairs=308
+true positive values=134
+false positive values=54
+syn_pos=109, fuzzy_pos=15, partial_pos=10, wiki_pos=0
+syn_neg=50, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 11_ecb metrics:
+total pairs=169
+total expected positive pairs=61
+true positive values=17
+false positive values=4
+syn_pos=15, fuzzy_pos=2, partial_pos=0, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 5_ecb metrics:
+total pairs=121
+total expected positive pairs=61
+true positive values=13
+false positive values=2
+syn_pos=11, fuzzy_pos=2, partial_pos=0, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 30_ecb metrics:
+total pairs=1156
+total expected positive pairs=254
+true positive values=80
+false positive values=58
+syn_pos=58, fuzzy_pos=4, partial_pos=18, wiki_pos=0
+syn_neg=48, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All events in topic 8_ecb metrics:
+total pairs=49
+total expected positive pairs=15
+true positive values=15
+false positive values=0
+syn_pos=15, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 12_ecbplus metrics:
+total pairs=1225
+total expected positive pairs=147
+true positive values=85
+false positive values=32
+syn_pos=83, fuzzy_pos=2, partial_pos=0, wiki_pos=0
+syn_neg=30, fuzzy_neg=0, partial_neg=2, wiki_neg=0
+
+All events in topic 40_ecb metrics:
+total pairs=529
+total expected positive pairs=131
+true positive values=45
+false positive values=6
+syn_pos=27, fuzzy_pos=10, partial_pos=8, wiki_pos=0
+syn_neg=6, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 28_ecb metrics:
+total pairs=576
+total expected positive pairs=72
+true positive values=40
+false positive values=6
+syn_pos=24, fuzzy_pos=10, partial_pos=6, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 1_ecbplus metrics:
+total pairs=73441
+total expected positive pairs=1035
+true positive values=617
+false positive values=3900
+syn_pos=436, fuzzy_pos=133, partial_pos=48, wiki_pos=0
+syn_neg=2046, fuzzy_neg=48, partial_neg=1806, wiki_neg=0
+
+All events in topic 2_ecb metrics:
+total pairs=289
+total expected positive pairs=81
+true positive values=27
+false positive values=8
+syn_pos=19, fuzzy_pos=4, partial_pos=4, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 31_ecbplus metrics:
+total pairs=2601
+total expected positive pairs=259
+true positive values=123
+false positive values=84
+syn_pos=79, fuzzy_pos=24, partial_pos=20, wiki_pos=0
+syn_neg=80, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 32_ecbplus metrics:
+total pairs=1156
+total expected positive pairs=142
+true positive values=82
+false positive values=54
+syn_pos=68, fuzzy_pos=8, partial_pos=6, wiki_pos=0
+syn_neg=54, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 20_ecbplus metrics:
+total pairs=2304
+total expected positive pairs=274
+true positive values=142
+false positive values=66
+syn_pos=142, fuzzy_pos=0, partial_pos=0, wiki_pos=0
+syn_neg=66, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 5_ecbplus metrics:
+total pairs=1521
+total expected positive pairs=377
+true positive values=111
+false positive values=78
+syn_pos=93, fuzzy_pos=6, partial_pos=12, wiki_pos=0
+syn_neg=68, fuzzy_neg=0, partial_neg=10, wiki_neg=0
+
+All events in topic 18_ecb metrics:
+total pairs=484
+total expected positive pairs=66
+true positive values=28
+false positive values=24
+syn_pos=20, fuzzy_pos=6, partial_pos=2, wiki_pos=0
+syn_neg=24, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 10_ecb metrics:
+total pairs=64
+total expected positive pairs=14
+true positive values=12
+false positive values=0
+syn_pos=8, fuzzy_pos=4, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 41_ecb metrics:
+total pairs=784
+total expected positive pairs=232
+true positive values=52
+false positive values=10
+syn_pos=46, fuzzy_pos=4, partial_pos=2, wiki_pos=0
+syn_neg=10, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 6_ecb metrics:
+total pairs=81
+total expected positive pairs=33
+true positive values=11
+false positive values=4
+syn_pos=6, fuzzy_pos=5, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 35_ecb metrics:
+total pairs=324
+total expected positive pairs=72
+true positive values=38
+false positive values=6
+syn_pos=27, fuzzy_pos=11, partial_pos=0, wiki_pos=0
+syn_neg=6, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 44_ecb metrics:
+total pairs=625
+total expected positive pairs=179
+true positive values=39
+false positive values=0
+syn_pos=34, fuzzy_pos=3, partial_pos=2, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 14_ecb metrics:
+total pairs=81
+total expected positive pairs=29
+true positive values=13
+false positive values=0
+syn_pos=10, fuzzy_pos=3, partial_pos=0, wiki_pos=0
+syn_neg=0, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 26_ecbplus metrics:
+NA,[heart disease],[jail],N
+NA,[heart disease],[prison],N
+NA,[jail],[heart disease],N
+NA,[jail],[prison],Y
+NA,[prison],[heart disease],N
+NA,[prison],[jail],Y
+total pairs=676
+total expected positive pairs=92
+true positive values=58
+false positive values=10
+syn_pos=54, fuzzy_pos=2, partial_pos=0, wiki_pos=2
+syn_neg=6, fuzzy_neg=0, partial_neg=0, wiki_neg=4
+
+All events in topic 9_ecb metrics:
+total pairs=361
+total expected positive pairs=73
+true positive values=33
+false positive values=4
+syn_pos=29, fuzzy_pos=2, partial_pos=2, wiki_pos=0
+syn_neg=4, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 41_ecbplus metrics:
+total pairs=3844
+total expected positive pairs=378
+true positive values=170
+false positive values=98
+syn_pos=165, fuzzy_pos=3, partial_pos=2, wiki_pos=0
+syn_neg=92, fuzzy_neg=0, partial_neg=6, wiki_neg=0
+
+All events in topic 42_ecbplus metrics:
+total pairs=1156
+total expected positive pairs=132
+true positive values=92
+false positive values=34
+syn_pos=87, fuzzy_pos=5, partial_pos=0, wiki_pos=0
+syn_neg=34, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 23_ecb metrics:
+total pairs=169
+total expected positive pairs=39
+true positive values=21
+false positive values=6
+syn_pos=20, fuzzy_pos=1, partial_pos=0, wiki_pos=0
+syn_neg=6, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 27_ecb metrics:
+total pairs=1936
+total expected positive pairs=288
+true positive values=126
+false positive values=64
+syn_pos=120, fuzzy_pos=6, partial_pos=0, wiki_pos=0
+syn_neg=64, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 31_ecb metrics:
+total pairs=676
+total expected positive pairs=258
+true positive values=74
+false positive values=26
+syn_pos=61, fuzzy_pos=5, partial_pos=8, wiki_pos=0
+syn_neg=22, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 21_ecbplus metrics:
+total pairs=4356
+total expected positive pairs=316
+true positive values=152
+false positive values=160
+syn_pos=133, fuzzy_pos=11, partial_pos=8, wiki_pos=0
+syn_neg=140, fuzzy_neg=0, partial_neg=20, wiki_neg=0
+
+All events in topic 39_ecb metrics:
+total pairs=529
+total expected positive pairs=117
+true positive values=35
+false positive values=6
+syn_pos=19, fuzzy_pos=10, partial_pos=6, wiki_pos=0
+syn_neg=2, fuzzy_neg=0, partial_neg=4, wiki_neg=0
+
+All events in topic 18_ecbplus metrics:
+total pairs=2601
+total expected positive pairs=319
+true positive values=227
+false positive values=168
+syn_pos=226, fuzzy_pos=1, partial_pos=0, wiki_pos=0
+syn_neg=168, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 9_ecbplus metrics:
+total pairs=3136
+total expected positive pairs=694
+true positive values=328
+false positive values=96
+syn_pos=297, fuzzy_pos=7, partial_pos=24, wiki_pos=0
+syn_neg=78, fuzzy_neg=0, partial_neg=18, wiki_neg=0
+
+All events in topic 4_ecbplus metrics:
+total pairs=1024
+total expected positive pairs=138
+true positive values=76
+false positive values=12
+syn_pos=68, fuzzy_pos=6, partial_pos=2, wiki_pos=0
+syn_neg=12, fuzzy_neg=0, partial_neg=0, wiki_neg=0
+
+All events in topic 24_ecb metrics:
+total pairs=441
+total expected positive pairs=91
+true positive values=41
+false positive values=6
+syn_pos=38, fuzzy_pos=3, partial_pos=0, wiki_pos=0
+syn_neg=6, fuzzy_neg=0, partial_neg=0, wiki_neg=0

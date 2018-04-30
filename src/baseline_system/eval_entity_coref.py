@@ -8,7 +8,7 @@ Author: Rachel Wities
 
 import sys
 
-from entity_matching.wiki_entity_matching import WikidataSimilarityCheck
+from phrases_similarity.wiki_phrase_matching import WikidataSimilarityCheck
 
 sys.path.append('../common')
 sys.path.append('../agreement')

@@ -22,3 +22,5 @@ examples/problematic.txt
 data/ecb
 data/baseline/gs_test_coref
 data/wiki_dumps
+data/dump_hist
+apicache-py2/*
